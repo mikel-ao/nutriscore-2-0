@@ -1,0 +1,652 @@
+id,codigo_e,nombre_limpio,pubchem_cid,pubchem_synonyms
+en:e333ii,E333II,Dicalcium citrate,,
+en:e321,E321,Butylated hydroxytoluene,31404.0,"2,6-Di-tert-butyl-4-methylphenol|128-37-0|Butylhydroxytoluene|2,6-Di-tert-butyl-p-cresol|2,6-Di-t-butyl-4-methylphenol"
+en:e345,E345,Magnesium citrate,8949.0,Magnesium citrate dibasic|magnesium hydrogen citrate|144-23-0|Citresia|Citronema
+en:e303,E303,Potassium ascorbate,23687519.0,Potassium ascorbate|Potassium L-ascorbate|15421-15-5|Monopotassium ascorbate|UNII-X5523762RI
+en:e1104,E1104,lipase,4062885.0,ethyl 2-amino-5-methylthiophene-3-carboxylate|4815-32-1|DTXSID60398910|RefChem:138570|DTXCID00349769
+en:e501,E501,Potassium carbonates,516893.0,Potassium bicarbonate|298-14-6|Potassium hydrogen carbonate|Potassium hydrogencarbonate|Potassium acid carbonate
+en:e490,E490,Propylene glycol,1030.0,"propylene glycol|1,2-propanediol|propane-1,2-diol|57-55-6|1,2-Propylene glycol"
+en:e523,E523,Aluminium ammonium sulphate,,
+en:e401,E401,sodium alginate,,
+en:e103,E103,Alkannin,72521.0,Alkannin|Anchusin|Alkanna Red|Anchusa acid|075CRZ9995
+en:e121,E121,Citrus Red 2,,
+en:e624,E624,Monoammonium glutamate,,
+en:e1452,E1452,Starch aluminium octenyl succinate,,
+en:e342,E342,Ammonium phosphate,,
+en:e1105,E1105,Lysozyme,,
+en:e170ii,E170II,Calcium hydrogen carbonate,,
+en:e968,E968,Erythritol,222285.0,ERYTHRITOL|meso-Erythritol|149-32-6|Phycitol|Erythrit
+en:e556,E556,Calcium aluminium silicate,,
+en:e317,E317,Erythorbin acid,,
+en:e142,E142,Green s,,
+en:e1422,E1422,Acetylated distarch adipate,6438196.0,106185-75-5|Sandranol|Bacdanol|6IHW4TX869|J647.437C
+en:e932,E932,Nitrogen oxide,,
+en:e161e,E161E,Violaxanthin,,
+en:e629,E629,Calcium guanylate,,
+en:e636,E636,Maltol,8369.0,MALTOL|118-71-8|3-Hydroxy-2-methyl-4H-pyran-4-one|3-Hydroxy-2-methyl-4-pyrone|Larixinic acid
+en:e249,E249,Potassium nitrite,516910.0,"POTASSIUM NITRITE|7758-09-0|Nitrous acid, potassium salt|Potassium nitrite (1:1)|DTXSID5042320"
+en:e492,E492,Sorbitan tristearate,17800859.0,"Sorbester P38|SCHEMBL30265060|CHEBI:185339|Sorbitan tristearate, BAN, USAN|Sorbitan tristearate [USAN:BAN:INN]"
+en:e211,E211,Sodium benzoate,517055.0,"sodium benzoate|532-32-1|Sobenate|Antimol|Benzoic acid, sodium salt"
+en:e340,E340,Potassium phosphates,,
+en:e172ii,E172II,Red iron oxide,,
+en:e440aii,E440AII,Sodium pectate,,
+en:e140,E140,Chlorophylls and Chlorophyllins,,
+en:e1402,E1402,Alkaline modified starch,,
+en:e916,E916,Calcium iodate,464990.0,E916|SCHEMBL6012691|CHEMBL1173134|CHEMBL1200254|BDBM50322274
+en:e262i,E262I,Sodium acetate,,
+en:e495,E495,Sorbitan monopalmitate,4122814.0,"DTXSID80860361|3,6-Anhydro-1-O-hexadecanoylhexitol|RefChem:272233|DTXCID30209468|NOCAS_860361"
+en:e930,E930,calcium peroxide,,
+en:e227,E227,Calcium bisulphite,,
+en:e526,E526,Calcium hydroxide,,
+en:e426,E426,Soybean hemicellulose,,
+en:e580,E580,Magnesium Gluconate,,
+en:e338,E338,Phosphoric acid,1004.0,Phosphoric acid|7664-38-2|ORTHOPHOSPHORIC ACID|o-Phosphoric acid|Wc-reiniger
+en:e162,E162,Beetroot red,90657360.0,E162|betanidin 5-O-beta-glucoside|CTMLKIKAUFEMLE-FTNGGYTGSA-L
+en:e106,E106,flavin mononucleotide,23666409.0,130-40-5|riboflavin sodium phosphate|RIBOFLAVIN PHOSPHATE SODIUM|Riboflavin-5-phosphate sodium|Photrexa
+en:e948,E948,Oxygen,977.0,oxygen|Molecular oxygen|oxygen molecule|Dioxygen|7782-44-7
+en:e999,E999,Quillaia extract,,
+en:e336ii,E336II,Dipotassium tartrate,,
+en:e160a,E160A,carotene,5280489.0,"beta-carotene|7235-40-7|beta Carotene|beta,beta-Carotene|Betacarotene"
+en:e306,E306,Tocopherol-rich extract,,
+en:e165,E165,Gardenia Blue,,
+en:e351,E351,Potassium malate,,
+en:e365,E365,Sodium fumarate,6076814.0,"Sodium fumarate|7704-73-6|mafusol|Fumaric acid, sodium salt|F11949924I"
+en:e151,E151,Brilliant black bn,17294.0,13699-36-0|Black BN|Blue Black BN|Brilliant Black A|Food black 1
+en:e161d,E161D,Rubixanthin,5281252.0,"Rubixanthin|Natural yellow 27|(3R)-beta,psi-caroten-3-ol|UNII-0PWJ89032Q|CI 75135"
+en:e640ii,E640II,Sodiumglycinate,,
+en:e553,E553,Magnesium silicates,,
+en:e1100,E1100,Alpha-Amylase,77645.0,Ethyl 5-methyl-1H-pyrazole-3-carboxylate|EINECS 223-702-0|DTXSID50193259|NSC 44006|NSC 62433
+en:e907,E907,Hydrogenated poly-1-decene,,
+en:e482,E482,Calcium stearoyl-2-lactylate,,
+en:e150d,E150D,Sulphite ammonia caramel,,
+en:e160,E160,Carotenoids,,
+en:e504ii,E504II,Magnesium hydroxide carbonate,,
+en:e633,E633,Calcium inosinate,,
+en:e264,E264,Ammonium acetate,517165.0,"AMMONIUM ACETATE|631-61-8|Acetic acid, ammonium salt|acetic acid ammonium salt|RRE756S6Q2"
+en:e434,E434,Polyoxyethylene sorbitan monopalmitate,,
+en:e913,E913,Lanolin,491774.0,"E913|342394-93-8|E 913|1,4,9-Triazaspiro(5.5)undecane-2,5-dione, 1-butyl-3-(cyclohexylmethyl)-9-((2,3-dihydro-1,4-benzodioxin-6-yl)methyl)-|1-butyl-3-(cyclohexylmethyl)-9-(2,3-dihydro-1,4-benzodioxin-6-ylmethyl)-1,4,9-triazaspiro[5.5]undecane-2,5-dione"
+en:e1208,E1208,Polyvinylpyrrolidone-vinyl acetate copolymer,6618886.0,1-(Ethoxycarbonyl)-4-piperidinecarboxylic acid|RefChem:427773|834-910-1|1-(ethoxycarbonyl)piperidine-4-carboxylic acid|118133-15-6
+xx:e364,E364,Desconocido,,
+en:e553a,E553A,synthetic magnesium silicates,,
+en:e585,E585,Ferrous lactate,,
+en:e485,E485,Sodium stearoyl fumarate,,
+en:e539,E539,sodium thiosulfate,61475.0,"SODIUM THIOSULFATE PENTAHYDRATE|10102-17-7|Disodium thiosulfate pentahydrate|Sodium thiosulfate, pentahydrate|Thiosulfuric acid (H2S2O3), disodium salt, pentahydrate"
+en:e440a,E440A,Pectin,,
+en:e1403,E1403,Bleached starch,12550531.0,73232-07-2|DTXSID10502227|Ethyl 2-((ethoxycarbonothioyl)sulfanyl)propanoate|Ethyl 2-[(ethoxycarbonothioyl)sulfanyl]propanoate|RefChem:1084746
+en:e442,E442,Ammonium phosphatides,,
+en:e163e,E163E,Peonidin,,
+en:e542,E542,Bone phosphate,,
+en:e160c,E160C,Paprika extract,,
+en:e356,E356,Sodium adipate,24073.0,"Sodium adipate|Disodium adipate|7486-38-6|Hexanedioic acid, disodium salt|ADIPIC ACID, DISODIUM SALT"
+en:e517,E517,Ammonium sulphate,,
+en:e417,E417,Tara gum,,
+en:e323,E323,Anoxomer,,
+en:e301,E301,Sodium ascorbate,23667548.0,SODIUM ASCORBATE|134-03-2|L-Ascorbic acid sodium salt|Sodium L-ascorbate|Vitamin C sodium
+en:e331ii,E331II,Disodium citrate,,
+en:e101,E101,Riboflavin,493570.0,riboflavin|vitamin B2|83-88-5|Riboflavine|Lactoflavin
+en:e123,E123,Amaranth,13506.0,AMARANTH|915-67-3|Acid red 27|Azorubin S|Bordeaux S
+en:e445,E445,Glycerol esters of wood rosin,,
+en:e421,E421,Mannitol,6251.0,D-mannitol|mannitol|69-65-8|Mannite|Osmitrol
+en:e503,E503,Ammonium carbonates,,
+en:e521,E521,Aluminium sodium sulphate,,
+en:e403,E403,Ammonium alginate,,
+en:e545,E545,Ammonium polyphosphate,,
+en:e957,E957,Thaumatin,,
+en:e332i,E332I,Monopotassium citrate,,
+en:e964,E964,Polyglycitol syrup,,
+en:e1423,E1423,Acetylated distarch glycerol,9922512.0,"(S)-Ethyl 2-((S)-4-methyl-2,5-dioxooxazolidin-3-yl)-4-phenylbutanoate|ethyl (2S)-2-[(4S)-4-methyl-2,5-dioxo-1,3-oxazolidin-3-yl]-4-phenylbutanoate|NQ2ZF6YUH8|N-[1-(S)-(+)-Ethoxycarbonyl-3-phenylpropyl]-L-alanyl carboxyanhydride|DTXSID10432893"
+en:e540,E540,Dicalcium diphosphate,,
+en:e1441,E1441,Hydroxy propyl distarch glycerine,9855712.0,p-(1-Ethoxyethoxy)styrene|DTXSID40431834|RefChem:1094132|DTXCID30382664|1-(1-Ethoxyethoxy)-4-vinylbenzene
+en:e440,E440,Pectins,,
+en:e392,E392,Extracts of rosemary,,
+en:e101a,E101A,E101a food additive,643976.0,flavin mononucleotide|146-17-8|Vitamin B2 phosphate|Riboflavin 5'-phosphate|RIBOFLAVIN PHOSPHATE
+en:e969,E969,Advantame,56843846.0,Advantame|714229-20-6|Advantame monohydrate|UNII-3ZA6810AWX|3ZA6810AWX
+en:e335i,E335I,Monosodium tartrate,,
+en:e213,E213,Calcium benzoate,62425.0,"Calcium benzoate|2090-05-3|Calcium dibenzoate|Benzoic acid, calcium salt|3QDE968MKD"
+en:e628,E628,Dipotassium guanylate,135565913.0,Dipotassium 5'-guanylate|3254-39-5|Dipotassium guanylate|UNII-R87C8160YV|R87C8160YV
+en:e235,E235,Natamycin,22523776.0,"891894-69-2|E235|e235-1756|N-(1-benzylpiperidin-4-yl)-2-(4-fluorophenyl)imidazo[2,1-b][1,3]benzothiazole-6-carboxamide|E 235"
+en:e553aii,E553AII,Magnesium trisilicate,,
+en:e465,E465,Ethyl methyl cellulose,,
+en:e353,E353,Metatartaric acid,,
+en:e551,E551,Silicon dioxide,24261.0,SILICON DIOXIDE|Silica|Dioxosilane|7631-86-9|Silicic anhydride
+en:e451,E451,Triphosphates,,
+en:e163d,E163D,Pelargonidin,,
+en:e153,E153,Vegetable carbon,,
+en:e126,E126,Ponceau 6R,136114690.0,CHEMBL368082|E126|Q596946
+en:e180,E180,Litholrubine bk,22139.0,Litholrubine BK|3-hydroxy-4-[(4-methyl-2-sulphophenyl)azo]-2-naphthoic acid|3-Hydroxy-4-((4-methyl-2-sulphophenyl)azo)-2-naphthoic acid|3-Hydroxy-4-[2-(4-methyl-2-sulfophenyl)diazenyl]-2-naphthalenecarboxylic acid|3-Hydroxy-4-(2-(4-methyl-2-sulfophenyl)diazenyl)-2-naphthalenecarboxylic acid
+en:e232,E232,Sodium orthophenyl phenol,517383.0,"E232|RefChem:1084025|6152-33-6|2-Phenylphenol sodium salt tetrahydrate|Sodium, (2-biphenylyloxy)-, tetrahydrate"
+en:e406,E406,Agar,,
+xx:e389,E389,Desconocido,,
+en:e462,E462,Ethyl cellulose,,
+en:e380,E380,Triammonium citrate,,
+en:e326,E326,potassium lactate,23671663.0,"POTASSIUM LACTATE|996-31-6|potassium 2-hydroxypropanoate|Monopotassium lactate|Lactic acid, potassium salt"
+en:e284,E284,Boric acid,,
+en:e477,E477,Propane-1‚2-diol esters of fatty acids,,
+en:e577,E577,Potassium gluconate,,
+en:e538,E538,Calcium ferrocyanide,,
+en:e927a,E927A,Azodicarbonamide,5462814.0,Azodicarbonamide|Azodicarboxamide|Diazenedicarboxamide|Azobisformamide|Azodiformamide
+en:e515ii,E515II,Potassium hydrogen sulphate,,
+en:e339,E339,Sodium phosphates,23672064.0,"7558-80-7|Monosodium phosphate|SODIUM DIHYDROGEN PHOSPHATE|Sodium acid phosphate|Sodium phosphate, monobasic"
+en:e911,E911,Fatty acid methyl ester,,
+en:e965i,E965I,D-Maltitol,,
+en:e949,E949,Hydrogen,783.0,Hydrogen|Molecular hydrogen|Dihydrogen|1333-74-0|Protium
+en:e385,E385,Calcium disodium ethylenediaminetetraacetate,6093170.0,Edetate calcium disodium|EDTA calcium disodium|Detoxamin|Edetate calcium disodium anhydrous|Calcium disodium ethylenediaminetetraacetate
+en:e304ii,E304II,Ascorbyl stearate,,
+en:e182,E182,Orcein,,
+en:e216,E216,Propyl para-hydroxybenzoate,,
+en:e334,E334,L(+)-tartaric acid,,
+en:e560,E560,Potassium silicate,,
+en:e230,E230,Biphenyl,7095.0,"Biphenyl|1,1'-Biphenyl|92-52-4|Phenylbenzene|DIPHENYL"
+en:e927,E927,Azodicarbonamide and Carbamide,,
+en:e307b,E307B,concentrated tocopherol,,
+en:e460,E460,Cellulose,,
+en:e960b,E960B,Rebaudioside from multiple gene donors expressed in Yarrowia lipolityca,,
+en:e944,E944,Propane,6334.0,PROPANE|n-Propane|Dimethylmethane|Propyl hydride|74-98-6
+en:e160aii,E160AII,Plant carotenes,,
+en:e631,E631,Disodium inosinate,135414245.0,4691-65-0|Disodium 5'-inosinate|Disodium inosinate|Sodium inosinate|Sodium 5'-inosinate
+en:e905e,E905E,Mineral oil medium viscosity,,
+en:e217,E217,Sodium propyl para-hydroxybenzoate,23679044.0,35285-69-9|Propylparaben sodium|Sodium propylparaben|Propyl 4-hydroxybenzoate sodium salt|Sodium propyl 4-hydroxybenzoate
+en:e926,E926,Chlorine dioxide,24870.0,CHLORINE DIOXIDE|Alcide|10049-04-4|Chlorine oxide (ClO2)|Chlorine(IV) oxide
+en:e242,E242,Dimethyl dicarbonate,12021.0,"Dimethyl carbonate|616-38-6|Methyl carbonate|Carbonic acid, dimethyl ester|Methyl carbonate ((MeO)2CO)"
+en:e352ii,E352II,Calcium hydrogen malate,,
+en:e407a,E407A,Processed eucheuma seaweed,,
+en:e1414,E1414,Acetylated distarch phosphate,9884549.0,"5-Thiazolecarboxylic acid, 2-[3-cyano-4-(2-methylpropoxy)phenyl]-4-methyl-, ethyl ester|EC 927-913-5|Ethyl 2-[3-cyano-4-(2-methylpropoxy)phenyl]-4-methyl-5-thiazolecarboxylate|5-Thiazolecarboxylic acid, 2-(3-cyano-4-(2-methylpropoxy)phenyl)-4-methyl-, ethyl ester|Ethyl 2-(3-cyano-4-(2-methylpropoxy)phenyl)-4-methyl-5-thiazolecarboxylate"
+en:e203,E203,Calcium sorbate,,
+en:e221,E221,Sodium sulphite,,
+en:e553b,E553B,Talc,,
+en:e1520,E1520,Propylene Glycol,1030.0,"propylene glycol|1,2-propanediol|propane-1,2-diol|57-55-6|1,2-Propylene glycol"
+en:e953,E953,isomalt,4454759.0,1-O-Hexopyranosylhexitol|DTXSID10860798|850347-32-9|RefChem:232520|DTXCID60201172
+en:e1207,E1207,Anionic methacrylate copolymer,2763245.0,4-(Ethoxycarbonyl)-3-fluorophenylboronic Acid (contains varying amounts of Anhydride)|RefChem:516051|672-937-9|874288-38-7|4-Ethoxycarbonyl-3-fluorophenylboronic acid
+en:e620,E620,Glutamic acid,33032.0,L-glutamic acid|GLUTAMIC ACID|56-86-0|L-glutamate|(2S)-2-Aminopentanedioic acid
+en:e494,E494,Sorbitan monooleate,,
+en:e127,E127,Erythrosine,3259.0,"ERYTHROSINE|E127|3',6'-dihydroxy-2',4',5',7'-tetraiodospiro[2-benzofuran-3,9'-xanthene]-1-one|FD & C red no. 3|3',6'-dihydroxy-2',4',5',7'-tetraiodospiro(2-benzofuran-3,9'-xanthene)-1-one"
+en:e507,E507,Hydrochloric acid,313.0,hydrochloric acid|hydrogen chloride|7647-01-0|Muriatic acid|chlorane
+en:e240,E240,Formaldehyde,712.0,formaldehyde|formalin|methanal|50-00-0|formol
+en:e350ii,E350II,Sodium hydrogen malate,,
+en:e344,E344,Lecithin citrate,,
+en:e407,E407,Carrageenan,,
+en:e327,E327,calcium lactate,,
+en:e641,E641,Leucine,6106.0,L-leucine|61-90-5|leucine|(S)-Leucine|(S)-2-Amino-4-methylpentanoic acid
+en:e160b,E160B,Annatto,5281226.0,"Bixin|6983-79-5|(2E,4E,6E,8E,10E,12E,14E,16Z,18E)-20-methoxy-4,8,13,17-tetramethyl-20-oxoicosa-2,4,6,8,10,12,14,16,18-nonaenoic acid|DTXSID1024629|Methyl (9-cis)-hydrogen-6,6'-diapo-psi,psi-carotenedioate"
+en:e625,E625,Magnesium diglutamate,,
+en:e576,E576,Sodium gluconate,23672301.0,"SODIUM GLUCONATE|527-07-1|Sodium D-gluconate|D-Gluconic acid, monosodium salt|gluconate sodium"
+en:e1205,E1205,Basic methacrylate copolymer,44558175.0,3-ETHOXY-5-FLUOROPHENYLBORONIC ACID|3-Ethoxy-5-fluorophenylboronic Acid (contains varying amounts of Anhydride)|RefChem:501181|834-843-8|850589-53-6
+en:e1442,E1442,Hydroxypropyl distarch phosphate,,
+en:e476,E476,Polyglycerol polyricinoleate,,
+en:e339iii,E339III,Trisodium phosphate,,
+en:e111,E111,Orange GGN,,
+en:e710,E710,Spiramycin,,
+en:e513,E513,Sulphuric acid,1118.0,SULFURIC ACID|Sulphuric acid|7664-93-9|Dihydrogen sulfate|Dipping acid
+en:e349,E349,ammonium malate,,
+en:e413,E413,Tragacanth,,
+en:e1204,E1204,Pullulan,16217201.0,2-Ethoxy-4-fluorophenylboronic Acid (contains varying amounts of Anhydride)|RefChem:471607|835-270-6|2-Ethoxy-4-fluorophenylboronic acid|480438-58-2
+en:e622,E622,Monopotassium glutamate,56844440.0,6382-01-0|GLUTAMATE POTASSIUM|Potassium glutamate hydrate|POTASSIUM GLUTAMATE [WHO-DD]|AKOS015892822
+en:e939,E939,Helium,23987.0,HELIUM|Atomic helium|Helium-4|7440-59-7|p-Helium
+en:e311,E311,Octyl gallate,61253.0,"Octyl gallate|1034-01-1|Octyl 3,4,5-trihydroxybenzoate|n-Octyl gallate|Progallin O"
+en:e489,E489,Methyl glucoside-coconut oil ester,,
+en:e251,E251,Sodium nitrate,,
+en:e341ii,E341II,Dicalcium phosphate,,
+en:e1206,E1206,Neutral methacrylate copolymer,,
+en:e905d,E905D,Mineral oil high viscosity,,
+en:e650,E650,Zinc acetate,11192.0,ZINC ACETATE|557-34-6|Zinc diacetate|Zinc(II) acetate|Dicarbomethoxyzinc
+en:e535,E535,Sodium ferrocyanide,,
+en:e901,E901,white and yellow beeswax,,
+en:e473a,E473A,Oligoesters of sucrose type I,,
+en:e265,E265,Dehydroacetic acid,5523.0,2914-77-4|2-[(Dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol|CHEBI:75722|2-((Dimethylamino)methyl)-1-(3-methoxyphenyl)cyclohexanol|RefChem:1060573
+en:e435,E435,Polyoxyethylene sorbitan monostearate,22833389.0,"(2R)-2-[(2R,3R,4S)-3,4-bis(2-hydroxyethoxy)oxolan-2-yl]-2-hydroxyethyl dodecanoate|Polysorbata 60|(2R)-2-((2R,3R,4S)-3,4-bis(2-hydroxyethoxy)oxolan-2-yl)-2-hydroxyethyl dodecanoate|RefChem:1096504|DTXSID9029300"
+en:e141ii,E141II,Copper complexes of chlorophyllins,,
+en:e923,E923,ammonium persulfate,,
+en:e322ii,E322II,Partially hydrolyzed lecithin,,
+en:e340i,E340I,Monopotassium phosphate,,
+en:e956,E956,Alitame,,
+en:e468,E468,Cross-linked sodium carboxymethylcellulose,,
+en:e238,E238,Calcium formiate,10997.0,"CALCIUM FORMATE|544-17-2|Calcium diformate|Calcoform|Formic acid, calcium salt"
+en:e484,E484,Stearyl citrate,,
+en:e1410,E1410,Monostarch phosphate,4153905.0,2-Ethynylaniline|52670-38-9|DTXSID30399999|RefChem:87028|DTXCID00350855
+en:e307c,E307C,DL-Alpha-tocopherol,,
+en:e140i,E140I,Chlorophylls,,
+en:e960c,E960C,Enzymatically produced steviol glycosides,92023628.0,REBAUDIOSIDE M|1220616-44-3|rebaudioside X|Fema No. 4895|Fema No. 4922
+en:e262,E262,Sodium acetates,517045.0,"Sodium acetate|127-09-3|Acetic acid, sodium salt|Sodium acetate anhydrous|Sodium acetate, anhydrous"
+en:e432,E432,Polyoxyethylene sorbitan monolaurate,443314.0,"1052273-76-3|DTXSID60922815|2-{2-[3,4-Bis(2-hydroxyethoxy)tetrahydro-2-furanyl]-2-(2-hydroxyethoxy)ethoxy}ethyl dodecanoate|2-(2-(3,4-Bis(2-hydroxyethoxy)tetrahydro-2-furanyl)-2-(2-hydroxyethoxy)ethoxy)ethyl dodecanoate|RefChem:1060798"
+en:e1200,E1200,Polydextrose,,
+en:e171,E171,Titanium dioxide,26042.0,TITANIUM DIOXIDE|13463-67-7|Titania|Titanium(IV) oxide|Titanium White
+en:e473,E473,Sucrose esters of fatty acids,,
+en:e573,E573,Aluminium stearate,,
+en:e501i,E501I,Potassium carbonate,,
+en:e369,E369,Alanin,,
+en:e160aiv,E160AIV,Algal carotenes,,
+en:e1504,E1504,ethyl acetate,8857.0,ETHYL ACETATE|141-78-6|Ethyl ethanoate|Acetic acid ethyl ester|Vinegar naphtha
+en:e164,E164,saffron,,
+en:e260,E260,Acetic acid,176.0,acetic acid|64-19-7|ethanoic acid|Vinegar acid|Acetic acid glacial
+en:e430,E430,Polyoxyethylene (8) stearate,,
+en:e450vii,E450VII,Calcium dihydrogen diphosphate,,
+en:e530,E530,Magnesium oxide,14792.0,Magnesia|Granmag|Heavy magnesium oxide|Calcined magnesia|Seawater magnesia
+en:e1505,E1505,Triethyl citrate,6506.0,TRIETHYL CITRATE|77-93-0|Ethyl citrate|Citroflex 2|Eudraflex
+en:e388,E388,Thiodipropionic acid,8096.0,"3,3'-Thiodipropionic acid|111-17-1|THIODIPROPIONIC ACID|Tyox A|TDPA"
+en:e416,E416,Karaya-gum,,
+en:e516,E516,Calcium sulphate,,
+en:e500ii,E500II,Sodium hydrogen carbonate,,
+en:e357,E357,Potassium adipate,,
+en:e290,E290,Carbon dioxide,280.0,carbon dioxide|carbonic anhydride|124-38-9|carbonic acid gas|Carbonic acid anhydride
+en:e201,E201,Sodium sorbate,,
+en:e905ci,E905CI,Microcrystalline wax,,
+en:e339i,E339I,Monosodium phosphate,,
+en:e965,E965,maltitol,493591.0,maltitol|585-88-6|D-Maltitol|4-O-alpha-D-Glucopyranosyl-D-glucitol|Amalty MR 100
+en:e223,E223,Sodium metabisulphite,656671.0,Sodium metabisulfite|7681-57-4|Sodium pyrosulfite|Sodium disulfite|Disodium pyrosulfite
+en:e1451,E1451,Acetylated oxidised starch,9917980.0,"Secoisolariciresinol diglucoside|158932-33-3|(R,R)-Secoisolariciresinol diglucoside|Bmhb-diglc|T9281L29MV"
+en:e951,E951,Aspartame,,
+en:e962,E962,Salt of aspartame-acesulfame,,
+en:e1443,E1443,Hydroxy propyl distarch glycerol,9568613.0,Esomeprazole magnesium|Nexium 24hr|925R0D7W1O|CHEBI:50309|Esomeprazole Dr
+en:e906,E906,Benzoin resin,,
+en:e460i,E460I,Microcrystalline cellulose,,
+en:e399,E399,Calcium lactobionate,,
+en:e307a,E307A,D-Alpha-tocopherol,,
+en:e960a,E960A,Steviol glycosides from Stevia,,
+en:e160bii,E160BII,Annatto norbixin,,
+en:e938,E938,Argon,23968.0,"ARGON|7440-37-1|Argon-40|Argon, Elemental|67XQY1V3KH"
+xx:e390,E390,Desconocido,,
+en:e1421,E1421,Acetylated starch,139144.0,m-ethynylphenol|RefChem:94376|3-Ethynylphenol|10401-11-3|3-Hydroxyphenylacetylene
+en:e452ii,E452II,Potassium polyphosphate,,
+en:e511,E511,Magnesium chloride,,
+en:e411,E411,E411 food additive,,
+en:e440aiv,E440AIV,Ammonium Pectate,,
+en:e472e,E472E,Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids,,
+en:e451i,E451I,Pentasodium triphosphate,,
+en:e160f,E160F,Ethyl ester of beta-apo-8'-carotenic acid (C 30),,
+en:e313,E313,Ethyl gallate,13250.0,"ETHYL GALLATE|831-61-8|Ethyl 3,4,5-trihydroxybenzoate|Benzoic acid, 3,4,5-trihydroxy-, ethyl ester|235I6UDD3L"
+en:e960,E960,Steviol glycosides,,
+en:e427,E427,Cassia gum,,
+en:e527,E527,Ammonium hydroxide,14923.0,ammonium hydroxide|1336-21-6|Ammonia water|Ammonia aqueous|Aquammonia
+en:e107,E107,Yellow 2G,2724092.0,"disodium 2,5-dichloro-4-{5-hydroxy-3-methyl-4-[(4-sulfonatophenyl)diazenyl]-1H-pyrazol-1-yl}benzene-1-sulfonate|Acid Yellow 17 (Technical Grade)|Disodium;2,5-dichloro-4-[5-methyl-3-oxo-4-[(4-sulfonatophenyl)diazenyl]-1H-pyrazol-2-yl]benzenesulfonate|E 107|Acid Fast Yellow G"
+en:e470aiii,E470AIII,Calcium salts of fatty acids,,
+en:e450ii,E450II,Trisodium diphosphate,,
+en:e544,E544,Calcium polyphosphate,,
+en:e307,E307,Alpha-tocopherol,14985.0,"VITAMIN E|5,7,8-Trimethyltocol|Vitamin-E|1406-18-4|Vitamin e d-alpha"
+en:e1401,E1401,Acid-treated modified starch,,
+en:e444,E444,Sucrose acetate isobutyrate,31339.0,"SAIB|Sucrose acetoisobutyrate|SAIB 100S|Sucrose, diacetate hexaisobutyrate|H5KI1C3YTV"
+en:e927b,E927B,Carbamide,1176.0,urea|57-13-6|carbamide|Carbonyldiamide|Ureophil
+en:e1430,E1430,Distarch glycerine,11474262.0,"53721-12-3|1,1'-Diethyl-4,4'-bipyridinium dibromide|DTXSID40467092|RefChem:212348|DTXCID40417911"
+en:e332,E332,Potassium citrates,,
+en:e514ii,E514II,Sodium hydrogen sulphate,,
+en:e14xx,E14XX,Modified Starch,,
+en:e132,E132,Indigotine,,
+en:e917,E917,potassium iodate,491775.0,"E917|SCHEMBL6012743|CHEMBL1188807|BDBM50190520|1-Butyl-3-isobutyl-9-(4-phenoxybenzyl)-1,4,9-triazaspiro[5.5]undecane-2,5-dione"
+en:e368,E368,ammonium fumarate,9793847.0,"Diammonium fumarate|ammonium fumarate|YG927OP0BK|2-Butenedioic acid (2E)-, diammonium salt|DTXSID4029307"
+en:e440i,E440I,non-amidated pectines,,
+en:e450v,E450V,Tetrapotassium diphosphate,,
+en:e384,E384,Isopropyl citrates,,
+en:e226,E226,Calcium sulphite,3708.0,Indirubin-5-sulfonate|244021-67-8|RefChem:790921|indirubin-5-sulphonate|CHEMBL1207227
+en:e942,E942,Nitrous oxide,948.0,nitrous oxide|Laughing gas|Dinitrogen oxide|Dinitrogen monoxide|Factitious air
+en:e280,E280,Propionic acid,1032.0,propionic acid|Propanoic acid|79-09-4|methylacetic acid|ethylformic acid
+en:e470ai,E470AI,Sodium salts of fatty acids,,
+en:e343ii,E343II,Dimagnesium phosphate,,
+en:e637,E637,Ethyl maltol,21059.0,Ethyl maltol|2-Ethyl-3-hydroxy-4H-pyran-4-one|4940-11-8|2-Ethyl-3-hydroxy-4-pyrone|Ethylmaltol
+en:e335,E335,Sodium tartrates,,
+en:e903,E903,Carnauba wax,,
+en:e921,E921,L-cysteine hydrochloride monohydrate,5862.0,L-cysteine|cysteine|52-90-4|Cystein|Thioserine
+en:e945,E945,chloropentafluoroethane,6430.0,"CHLOROPENTAFLUOROETHANE|76-15-3|1-Chloro-1,1,2,2,2-pentafluoroethane|Pentafluoroethyl chloride|Ethane, chloropentafluoro-"
+en:e425ii,E425II,Konjac glucomannan,,
+en:e541ii,E541II,Alkaline sodium aluminium phosphate,,
+en:e330,E330,Citric acid,311.0,"citric acid|77-92-9|2-hydroxypropane-1,2,3-tricarboxylic acid|Citric acid, anhydrous|Aciletten"
+en:e234,E234,Nisin,16129667.0,1414-45-5|Ambicin N|Nisitrol|DTXSID20893678|Microgard MG 300
+en:e464,E464,Hydroxypropyl methyl cellulose,,
+en:e440b,E440B,pectin amide,,
+en:e316,E316,sodium erythorbate,23683938.0,SODIUM ERYTHORBATE|6381-77-7|Sodium isoascorbate|Isona|Neo-cebitate
+en:e557,E557,hemimorphite,,
+en:e488,E488,Ethoxylated Mono- and Di-Glycerides,,
+en:e457,E457,Alpha-Cyclodextrine,,
+en:e340iii,E340III,Tripotassium phosphate,,
+en:e130,E130,Indanthrene blue RS,,
+en:e420ii,E420II,Sorbitol syrup,,
+en:e282,E282,calcium propionate,,
+en:e940,E940,Dichlorodifluoromethane,,
+en:e472d,E472D,Tartaric acid esters of mono- and diglycerides of fatty acids,,
+en:e452v,E452V,Ammonium polyphosphate,,
+en:e471,E471,Mono- and diglycerides of fatty acids,102615.0,"GLYCEROL DISTEARATE|RefChem:663456|1,2-Distearoyl-rac-glycerol|Distearin|51063-97-9"
+en:e239,E239,Hexamethylene tetramine,4101.0,methenamine|Hexamethylenetetramine|100-97-0|Hexamine|Urotropine
+en:e571,E571,E571,,
+en:e469,E469,Enzymatically hydrolysed carboxymethylcellulose,61416.0,"CITRONELLYL VALERATE|7540-53-6|Citronellyl pentanoate|3,7-dimethyloct-6-enyl pentanoate|Pentanoic acid, 3,7-dimethyl-6-octenyl ester"
+en:e1000,E1000,Cholic acid,,
+en:e173,E173,Aluminium,,
+en:e285,E285,Sodium tetraborate (borax),,
+en:e101i,E101I,Riboflavin,,
+en:e1209,E1209,Polyvinyl alcohol-polyethylene glycol-graft-co-polymer,44717604.0,5-(Ethoxycarbonyl)-2-fluorobenzeneboronic acid|RefChem:531226|801-229-6|874219-60-0|(5-(Ethoxycarbonyl)-2-fluorophenyl)boronic acid
+en:e503i,E503I,Ammonium carbonate,,
+en:e501ii,E501II,Potassium hydrogen carbonate,,
+en:e133,E133,Brilliant blue FCF,135702915.0,78642-64-5|RefChem:918997|Coomassie Blue|E133
+en:e261,E261,Potassium acetate,517044.0,"Potassium acetate|127-08-2|Diuretic salt|ACETIC ACID, POTASSIUM SALT|Acetic acid, potassium salt (1:1)"
+en:e431,E431,Polyoxyethylene (40) stearate,,
+en:e905,E905,Synthetic wax,,
+en:e161j,E161J,Astaxanthin,5281224.0,Astaxanthin|472-61-7|Ovoester|all-trans-Astaxanthin|BioAstin
+en:e333,E333,Calcium citrates,,
+en:e1420,E1420,Acetylated starch,,
+en:e470aii,E470AII,Potassium salts of fatty acids,,
+en:e558,E558,Bentonite,,
+en:e487,E487,sodium dodecyl sulfate,3423265.0,Sodium dodecyl sulfate|151-21-3|SODIUM LAURYL SULFATE|Sodium dodecylsulfate|Sodium lauryl sulphate
+en:e902,E902,Candelilla wax,,
+en:e458,E458,Gamma-Cyclodextrine,,
+en:e966,E966,Lactitol,,
+en:e370,E370,1‚4-Heptonolactone,,
+en:e500i,E500I,Sodium carbonate,,
+en:e900a,E900A,Dimethyl polysiloxane,,
+en:e252,E252,Potassium nitrate,24434.0,POTASSIUM NITRATE|7757-79-1|Saltpeter|Nitre|Niter
+en:e170,E170,Calcium carbonates,10112.0,CALCIUM CARBONATE|471-34-1|Aeromatt|Calcium carbonate (1:1)|Carbonic acid calcium salt (1:1)
+en:e1210,E1210,Carbomer,16719049.0,936339-60-5|E1210|Manogepix|E-1210 (pharmaceutical)|E-1210
+en:e1450,E1450,Starch sodium octenyl succinate,2773643.0,[3-(Ethoxycarbonyl)propyl]triphenylphosphonium bromide|(3-(Ethoxycarbonyl)propyl)triphenylphosphonium Bromide|RefChem:399668|610-534-1|50479-11-3
+en:e375,E375,Nicotinic acid,,
+en:e141i,E141I,Copper complexes of chlorophylls,,
+en:e283,E283,Potassium propionate,,
+en:e638,E638,E638,,
+en:e296,E296,Malic acid,525.0,"malic acid|6915-15-7|2-Hydroxybutanedioic acid|hydroxysuccinic acid|Butanedioic acid, hydroxy-"
+en:e175,E175,Gold,,
+en:e1400,E1400,Dextrin,2759528.0,3-(Ethoxydimethylsilyl)propyl Methacrylate (stabilized with BHT)|RefChem:495161|878-624-5|13731-98-1|3-(Ethoxydimethylsilyl)propyl methacrylate
+en:e359,E359,ammonium adipate,,
+en:e943a,E943A,Butane,7843.0,BUTANE|n-Butane|106-97-8|Diethyl|Methylethylmethane
+en:e472g,E472G,Succinylated monoglycerides,,
+en:e341i,E341I,Monocalcium phosphate,,
+en:e905a,E905A,mineral oil,,
+en:e900,E900,Dimethylpolysiloxane and Methylphenylpolysiloxane,,
+en:e154,E154,Brown FK,,
+en:e1517,E1517,Glyceryl diacetate,,
+en:e140ii,E140II,Chlorophyllins,,
+en:e340ii,E340II,Dipotassium phosphate,,
+en:e250,E250,Sodium nitrite,23668193.0,"SODIUM NITRITE|7632-00-0|Nitrous acid, sodium salt|Nitrite, sodium|Erinitrit"
+en:e322i,E322I,Lecithin,,
+en:e354,E354,Calcium tartrate,,
+en:e172,E172,Iron oxides and iron hydroxides,,
+en:e918,E918,Nitrogen oxides,,
+en:e367,E367,Calcium fumarate,6433512.0,"CALCIUM FUMARATE|7718-51-6|VD906S8V0I|2-Butenedioic acid (E)-, calcium salt|RefChem:122833"
+en:e452iii,E452III,Sodium calcium polyphosphate,,
+en:e336,E336,Potassium tartrates,23681127.0,Potassium bitartrate|Faecula|Faecla|Acid potassium tartrate|POTASSIUM ACID TARTRATE
+en:e428,E428,Gelatine,,
+en:e214,E214,Ethyl p-hydroxybenzoate,8434.0,Ethylparaben|ETHYL 4-HYDROXYBENZOATE|120-47-8|Ethyl paraben|Ethyl p-hydroxybenzoate
+en:e163f,E163F,Petunidin,,
+en:e160bi,E160BI,Annatto bixin,,
+en:e310,E310,Propyl gallate,4947.0,"propyl gallate|121-79-9|Propyl 3,4,5-trihydroxybenzoate|N-Propyl gallate|Progallin P"
+en:e528,E528,Magnesium hydroxide,73981.0,MAGNESIUM HYDROXIDE|1309-42-8|Milk of magnesia|Magnesium dihydroxide|Magnesium hydrate
+en:e472c,E472C,Citric acid esters of mono- and diglycerides of fatty acids,,
+en:e1510,E1510,Ethanol,702.0,ethanol|ethyl alcohol|alcohol|64-17-5|grain alcohol
+en:e308,E308,Gamme-tocopherol,,
+en:e222,E222,Sodium bisulphite,23665763.0,SODIUM BISULFITE|7631-90-5|Sodium hydrogen sulfite|sodium hydrogensulfite|Sodium bisulphite
+en:e110,E110,Sunset yellow FCF,17730.0,FD&C Yellow 6|DTXSID6021456|DTXCID101131536|RefChem:1085314|Sunset Yellow FCF
+en:e1102,E1102,Glucose oxidase,,
+en:e350i,E350I,Sodium malate,,
+en:e946,E946,octafluorocyclobutane,8263.0,Octafluorocyclobutane|PERFLUOROCYCLOBUTANE|115-25-3|Cyclooctafluorobutane|Freon C-318
+en:e640,E640,Glycine and its sodium salt,,
+en:e161b,E161B,Lutein,,
+en:e219,E219,Sodium methyl p-hydroxybenzoate,,
+en:e225,E225,Calcium Disulphite,24958.0,"POTASSIUM SULFITE|10117-38-1|Dipotassium sulfite|Potassium sulphite|Sulfurous acid, dipotassium salt"
+en:e963,E963,Tagatose,,
+en:e241,E241,Gum Guaicum,,
+en:e905cii,E905CII,Paraffin wax,,
+en:e504,E504,Magnesium carbonates,11029.0,MAGNESIUM CARBONATE|546-93-0|Magnesite|Magnesium carbonate anhydrous|Kimboshi
+en:e1001,E1001,Choline salt,,
+en:e404,E404,Calcium alginate,,
+en:e450iii,E450III,Tetrasodium diphosphate,,
+en:e312,E312,Dodecyl gallate,14425.0,"Dodecyl gallate|Lauryl gallate|1166-52-5|Dodecyl 3,4,5-trihydroxybenzoate|Nipagallin LA"
+en:e1405,E1405,Enzyme treated starch,21896341.0,1-ethylcyclopentyl acrylate|326925-69-3|2-Propenoic acid 1-ethylcyclopentyl ester|1-Ethylcyclopentyl Acrylate (stabilized with MEHQ)|(1-ethylcyclopentyl) prop-2-enoate
+en:e124,E124,Ponceau 4r,17467.0,"7244-14-6|7-hydroxy-8-[(4-sulphonaphthyl)azo]naphthalene-1,3-disulphonic acid|Ponceau 4R free acid|7-Hydroxy-8-((4-sulphonaphthyl)azo)naphthalene-1,3-disulphonic acid|7VIW11169Y"
+en:e621,E621,Monosodium glutamate,,
+en:e150b,E150B,Caustic sulphite caramel,,
+en:e352i,E352I,Calcium malate,,
+en:e324,E324,Ethoxyquin,3293.0,"ethoxyquin|91-53-2|6-Ethoxy-2,2,4-trimethyl-1,2-dihydroquinoline|Santoquin|Ethoxyquine"
+en:e220,E220,Sulphur dioxide,1119.0,sulfur dioxide|sulphur dioxide|7446-09-5|Sulfurous anhydride|Sulfurous oxide
+en:e509,E509,Calcium chloride,5284359.0,CALCIUM CHLORIDE|10043-52-4|Calcium chloride anhydrous|Calcium dichloride|CaCl2
+en:e315,E315,Erythorbic acid,54675810.0,Erythorbic acid|89-65-6|D-Isoascorbic acid|Isoascorbic acid|D-Araboascorbic acid
+en:e642,E642,E642,,
+en:e1404,E1404,Oxidised starch,,
+xx:e386,E386,Desconocido,8759.0,139-33-3|EDTA disodium salt|Disodium EDTA|Edta disodium|Titriplex III
+en:e409,E409,Arabinogalactan,,
+en:e129,E129,Allura red,33258.0,E129|RefChem:1084024|Allura Red AC|25956-17-6|Allura Red
+en:e161i,E161I,Citranaxanthin,,
+en:e329,E329,Magnesium lactate,,
+en:e1521,E1521,Polyethylene glycol,,
+en:e420i,E420I,D-sorbitol,,
+en:e452vi,E452VI,Sodium tripolyphosphate,,
+en:e922,E922,Potassium persulfate,,
+en:e472a,E472A,Acetic acid esters of mono- and diglycerides of fatty acids,,
+en:e246,E246,Glycolipids,,
+en:e905g,E905G,Mineral oil medium and low viscosity class III,,
+en:e914,E914,Oxidised polyethylene wax,,
+en:e470,E470,Sodium/potassium/calcium and magnesium salts of fatty acids,,
+en:e570,E570,Fatty acids,5281.0,stearic acid|Octadecanoic acid|57-11-4|n-Octadecanoic acid|Stearophanic acid
+en:e433,E433,Polyoxyethylene sorbitan monooleate,,
+en:e925,E925,Chlorine,,
+en:e263,E263,Calcium acetate,6116.0,"Calcium acetate|62-54-4|Calcium diacetate|Acetic acid, calcium salt|Lime acetate"
+en:e941,E941,Nitrogen,947.0,Nitrogen|Nitrogen gas|Molecular nitrogen|Dinitrogen|7727-37-9
+en:e101ii,E101II,Riboflavin-5′-phosphate,,
+en:e131,E131,Patent blue v,77073.0,Patent Blue V|Acid blue 3|Carmine Blue V|Merantine Blue V|Solar Pure Blue VX
+en:e634,E634,Calcium 5'-ribonucleotide,,
+en:e503ii,E503II,Ammonium hydrogen carbonate,,
+en:e341iii,E341III,Tricalcium phosphate,,
+en:e331,E331,Sodium citrates,6224.0,Sodium citrate|68-04-2|TRISODIUM CITRATE|Citrosodine|Natrocitral
+en:e919,E919,Nitrosyl chloride,,
+en:e440ii,E440II,Amidated pectin,,
+en:e554,E554,Sodium aluminium silicate,72941443.0,Decalso|Zeolex|Decalso F|Alusil ET|Vulkasil A 1
+en:e500iii,E500III,Sodium sesquicarbonate,,
+en:e470a,E470A,Sodium/potassium and calcium salts of fatty acids,,
+en:e450vi,E450VI,Dicalcium diphosphate,,
+en:e237,E237,Sodium formiate,2723810.0,"SODIUM FORMATE|141-53-7|Formic acid, sodium salt|Salachlor|Formic acid, sodium salt (1:1)"
+en:e920,E920,l-cysteine,5862.0,L-cysteine|cysteine|52-90-4|Cystein|Thioserine
+en:e467,E467,Ethulose,,
+en:e514i,E514I,Sodium sulphate,,
+en:e572,E572,Magnesium stearate,,
+en:e472,E472,acid esters of mono- and diglycerides of fatty acids,,
+en:e559,E559,Aluminium silicate,92024769.0,"Kaolin, light|Weisserton|Chishizhi|Natural kaolin|Red halloysite"
+en:e459,E459,Beta-cyclodextrine,444041.0,beta-CYCLODEXTRIN|7585-39-9|Betadex|Cycloheptaamylose|Cyclomaltoheptaose
+en:e281,E281,Sodium propionate,2723816.0,"SODIUM PROPIONATE|137-40-6|Sodium propanoate|Propionic acid sodium salt|Propanoic acid, sodium salt"
+en:e541i,E541I,Acid sodium aluminium phosphate,,
+en:e425i,E425I,Konjac gum,,
+en:e575,E575,Glucono-delta-lactone,7027.0,"gluconolactone|90-80-2|delta-gluconolactone|D-glucono-1,5-lactone|Gluconic acid lactone"
+en:e626,E626,Guanylic acid,135887992.0,"CHEMBL1242996|SCHEMBL18785103|BDBM50326433|E626|((2R,3R,4S,5R)-5-(2-amino-6-oxo-1H-purin-9(6H)-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methyl dihydrogen phosphate"
+en:e343i,E343I,Monomagnesium phosphate,,
+en:e475,E475,Polyglycerol esters of fatty acids,,
+en:e479b,E479B,Thermally oxidised soya bean oil interacted with mono- and diglycerides of fatty acids,,
+en:e451ii,E451II,Pentapotassium triphosphate,,
+en:e1411,E1411,Distarch glycerol,,
+en:e163b,E163B,Delphinidin,,
+en:e450iv,E450IV,dipotassium dihydrogenpyrophosphate,,
+en:e955,E955,Sucralose,,
+en:e243,E243,Ethyl lauroyl arginate,,
+en:e961,E961,Neotame,9810996.0,"Neotame|165450-17-9|N-(N-(3,3-dimethylbutyl)-L-alpha-aspartyl)-L-phenylalanine 1-methyl ester|VJ597D52EX|INS-961"
+en:e161f,E161F,Rhodoxanthin,,
+en:e450viii,E450VIII,E450viii,,
+en:e508,E508,Potassium chloride,4873.0,potassium chloride|7447-40-7|Klotrix|Sylvite|Enseal
+en:e1519,E1519,Benzyl alcohol,244.0,benzyl alcohol|phenylmethanol|benzenemethanol|100-51-6|phenylcarbinol
+en:e408,E408,Bakers yeast glycan,,
+en:e952,E952,Cyclamic acid and its Na and Ca salts,7533.0,Cyclamic acid|Cyclohexylsulfamic acid|100-88-9|N-Cyclohexylsulfamic acid|CYCLAMATE
+en:e450i,E450I,Disodium diphosphate,,
+en:e128,E128,Red 2G,19523.0,"acid red 1 free acid|E0X7EHI364|EINECS 246-823-0|CI ACID RED 1 PARENT|5-(Acetylamino)-4-hydroxy-3-(phenylazo)naphthalene-2,7-disulphonicacid"
+en:e536,E536,Potassium ferrocyanide,,
+en:e202,E202,Potassium sorbate,,
+en:e436,E436,Polyoxyethylene sorbitan tristearate,,
+en:e266,E266,Sodium dehydroacetate,,
+en:e713,E713,Tylosin,5280440.0,Tylosin|Tylosin A|Tylosine|1401-69-0|Tilosina
+en:e328,E328,ammonium lactate,10129918.0,ammonia lactate|ammonium;2-hydroxypropanoate|SCHEMBL36407|SCHEMBL1954972|CHEMBL1200747
+en:e510,E510,Ammonium chloride,12820921.0,"azane;hydrochloride|Ammonium chloride-beta solid|Ammonium chloride, for cell culture|Ammonium chloride, for molecular biology|Ammonium chloride, United States Pharmacopeia (USP) Reference Standard"
+en:e410,E410,Locust bean gum,8834.0,"Citronellyl propionate|141-14-0|Citronellyl propanoate|6-Octen-1-ol, 3,7-dimethyl-, 1-propanoate|6-Octen-1-ol, 3,7-dimethyl-, propanoate"
+en:e161h,E161H,Zeaxanthin,,
+en:e452iv,E452IV,Calcium polyphosphate,,
+en:e429,E429,peptone,,
+en:e529,E529,Calcium oxide,,
+en:e415,E415,Xanthan gum,131750926.0,E415|Biozan R|SCHEMBL23243659
+en:e309,E309,Delta-tocopherol,92094.0,"delta-Tocopherol|119-13-1|(+)-delta-Tocopherol|8-Methyltocol|(2R)-3,4-dihydro-2,8-dimethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-2H-1-benzopyran-6-ol"
+en:e515,E515,Potassium sulphates,,
+en:e339ii,E339II,Disodium phosphate,,
+en:e905c,E905C,Petroleum wax,,
+en:e104,E104,Quinoline yellow,,
+en:e960d,E960D,Glucosylated steviol glycosides,,
+en:e950,E950,Acesulfame k,3262017.0,E950|BDBM50050775|NCGC00090729-03|NCGC00090729-04|NCGC00090729-05
+en:e623,E623,Calcium diglutamate,,
+en:e1103,E1103,Invertase,521132.0,Ethyl 2-amino-4-methylthiophene-3-carboxylate|43088-42-2|DTXSID00334559|RefChem:138567|DTXCID10285649
+en:e218,E218,Methyl p-hydroxybenzoate,7456.0,Methyl 4-hydroxybenzoate|METHYLPARABEN|99-76-3|Methyl paraben|Methyl p-hydroxybenzoate
+en:e452i,E452I,Sodium polyphosphate,,
+en:e424,E424,Curdlan,,
+en:e1201,E1201,Polyvinylpyrrolidone,268963.0,Ethyl 4-Chloroquinoline-3-carboxylate|DTXSID00296461|RefChem:595400|DTXCID00247599|802-791-5
+en:e524,E524,Sodium hydroxide,,
+en:e200,E200,Sorbic acid,643460.0,"sorbic acid|110-44-1|(2E,4E)-hexa-2,4-dienoic acid|2E,4E-Hexadienoic acid|Sorbistat"
+en:e304,E304,Fatty acid esters of ascorbic acid,54680660.0,ASCORBYL PALMITATE|137-66-6|L-Ascorbyl 6-palmitate|L-Ascorbic acid 6-palmitate|Ascorbyl monopalmitate
+en:e924b,E924B,Calcium bromate,,
+en:e412,E412,Guar gum,,
+en:e460ii,E460II,Powdered cellulose,,
+en:e512,E512,Stannous chloride,10198436.0,"tin(2+);dichloride;dihydrate|tin dichloride.2H2O|Tin chloride (SnCl2), dihydrate (8CI,9CI)|SnCl2.2H2O|Stannouschloridedihydrate"
+en:e504i,E504I,Magnesium carbonate,,
+en:e270,E270,Lactic acid,612.0,lactic acid|2-hydroxypropanoic acid|DL-Lactic acid|50-21-5|2-hydroxypropionic acid
+en:e928,E928,Benzole peroxide,7187.0,"BENZOYL PEROXIDE|94-36-0|Dibenzoyl peroxide|Benzoyl superoxide|Peroxide, dibenzoyl"
+en:e152,E152,Black 7984,,
+en:e446,E446,Succistearin,,
+en:e546,E546,Magnesium pyrophosphate,,
+en:e174,E174,Silver,104755.0,"Silver cation|Silver, ion (Ag1+)|UNII-57N7B0K90A|57N7B0K90A|NANOVER"
+en:e150a,E150A,Plain caramel,,
+en:e352,E352,Calcium malates,,
+en:e155,E155,Brown ht,5486417.0,E155|CHEMBL1697823
+en:e161,E161,Xanthophylls,,
+en:e355,E355,Adipic acid,196.0,"adipic acid|hexanedioic acid|124-04-9|Adipinic acid|1,4-Butanedicarboxylic acid"
+en:e553ai,E553AI,Synthetic magnesium silicate,,
+en:e463,E463,Hydroxypropyl cellulose,,
+en:e233,E233,Thiabendazole,5430.0,thiabendazole|148-79-8|Tiabendazole|Mintezol|2-(4-Thiazolyl)benzimidazole
+en:e336i,E336I,Monopotassium tartrate,,
+en:e904,E904,Shellac,,
+en:e150,E150,Caramel,,
+en:e160d,E160D,Lycopene,446925.0,"LYCOPENE|502-65-8|all-trans-Lycopene|Psi,psi-carotene|lycored"
+en:e160ai,E160AI,Beta-carotene,,
+en:e267,E267,Buffered vinegar,,
+en:e478,E478,Lactylated fatty acid esters of glycerol and propane-1,,
+en:e537,E537,ferrous hexacyanomanganate,,
+en:e578,E578,calcium gluconate,,
+en:e350,E350,Sodium malates,8736.0,"Malic acid, disodium salt|RefChem:887666|Sodium malate|Disodium malate|676-46-0"
+en:e383,E383,calcium glycerophosphate,,
+en:e640i,E640I,Glycine,,
+en:e161a,E161A,Flavoxanthin,,
+en:e909,E909,Spermaceti,,
+en:e481,E481,Sodium stearoyl-2-lactylate,,
+en:e1440,E1440,Hydroxypropyl starch,86017709.0,RefChem:596557|878-627-1|815574-81-3|Ethylamine Trifluoroacetate|ethylammonium trifluoroacetate
+en:e543,E543,E543 food additive,,
+en:e405,E405,Propane-1‚2-diol alginate,131752735.0,Dricoid|Colloid 602|Many other trade names|SCHEMBL29350400|FEMA 2941
+en:e931,E931,Nitrogen,,
+en:e505,E505,Ferrous carbonate,,
+en:e319,E319,Tertiary-butylhydroquinone (tbhq),16043.0,tert-Butylhydroquinone|1948-33-0|TBHQ|2-tert-Butylhydroquinone|T-BUTYLHYDROQUINONE
+en:e443,E443,Brominated vegetable oil,,
+en:e125,E125,Scarlet GN,,
+en:e1412,E1412,Distarch phosphate,58986478.0,"4,4'-(Ethyne-1,2-diyl)diphthalic Anhydride|RefChem:506482|695-093-3|129808-00-0|MFCD28976167"
+en:e141,E141,Copper complexes of chlorophylls and chlorophyllins,,
+en:e331iii,E331III,Trisodium citrate,,
+en:e627,E627,Disodium guanylate,135414246.0,5550-12-9|Guanosine 5'-monophosphate disodium salt|Disodium guanylate|DISODIUM 5'-GUANYLATE|Sodium guanylate
+en:e943b,E943B,Isobutane,6360.0,"ISOBUTANE|2-Methylpropane|75-28-5|Trimethylmethane|1,1-Dimethylethane"
+en:e325,E325,sodium lactate,23666456.0,SODIUM LACTATE|72-17-3|Sodium DL-lactate|sodium 2-hydroxypropanoate|Lactic acid sodium salt
+en:e905b,E905B,petroleum jelly,,
+en:e341,E341,Calcium phosphates,,
+en:e262ii,E262II,Sodium diacetate,,
+en:e160aiii,E160AIII,Beta-carotene from blakeslea trispora,,
+en:e122,E122,Azorubine,19119.0,4-Hydroxy-3-((4-sulpho-1-naphthyl)azo)naphthalene-1-sulphonic acid|4-hydroxy-3-[(4-sulpho-1-naphthyl)azo]naphthalene-1-sulphonic acid|RefChem:523789|Azo rubin S|13613-55-3
+en:e210,E210,Benzoic acid,243.0,benzoic acid|65-85-0|Dracylic acid|benzenecarboxylic acid|Benzeneformic acid
+en:exxx,EXXX,Exxx food additive,,
+en:e314,E314,Guaiacum,,
+en:e466,E466,Sodium carboxy methyl cellulose,23706213.0,"sodium;2,3,4,5,6-pentahydroxyhexanal;acetate|Carboxymethyl Cellulose SodiumCMC|Carboxymethyl cellulose sodium salt|Carboxymethyl Cellulose Sodium|C8H15NaO8"
+en:e958,E958,Glycyrrhizin,14982.0,Glycyrrhizic acid|glycyrrhizin|Glycyrrhizinic acid|1405-86-3|Glycyron
+en:e402,E402,Potassium alginate,,
+en:e236,E236,Formic acid,284.0,formic acid|64-18-6|Methanoic acid|Formylic acid|Aminic acid
+en:e502,E502,Carbonates,,
+en:e1518,E1518,Glyceryl triacetate,5541.0,triacetin|102-76-1|Glyceryl triacetate|Glycerol triacetate|Enzactin
+en:e322,E322,Lecithins,,
+en:e172i,E172I,Black iron oxide,,
+en:e160e,E160E,Beta-apo-8′-carotenal (c30),5478003.0,Apocarotenal|1107-26-2|beta-apo-8'-carotenal|8'-Apo-beta-carotenal|C.I. Food Orange 6
+en:e163c,E163C,Malvidin,,
+en:e472f,E472F,Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids,,
+en:e215,E215,Sodium ethyl p-hydroxybenzoate,23681179.0,"Sodium ethylparaben|Sodium 4-(ethoxycarbonyl)phenolate|ethylparaben sodium|sodium;4-ethoxycarbonylphenolate|Ethylparaben, sodium salt"
+en:e333i,E333I,Monocalcium citrate,,
+en:e1202,E1202,Polyvinylpolypyrrolidone,22013558.0,128073-16-5|ethyl 3-chloro-5-(trifluoromethyl)pyridine-2-carboxylate|DTXSID20621493|RefChem:343374|DTXCID50572247
+en:e120,E120,Cochineal,10255083.0,CARMINIC ACID|1260-17-9|Natural red 4|Cochineal tincture|Sun Red No. 1
+en:e212,E212,Potassium benzoate,23661960.0,"POTASSIUM BENZOATE|582-25-2|Benzoic acid, potassium salt|763YQN2K7K|INS NO.212"
+en:e322a,E322A,Oat lecithin,,
+en:e500,E500,Sodium carbonates,516892.0,SODIUM BICARBONATE|144-55-8|Sodium hydrogen carbonate|Baking soda|Sodium hydrogencarbonate
+en:e491,E491,Sorbitan monostearate,3793749.0,"DTXSID30859629|3,6-Anhydro-1-O-octadecanoylhexitol|96094-21-2|RefChem:272234|DTXCID90209429"
+en:e400,E400,Alginic acid,131704328.0,Sazio|SCHEMBL25223442|E400|PD060953
+en:e518,E518,Magnesium sulphate,,
+en:e320,E320,Butylated hydroxyanisole (bha),8456.0,"25013-16-5|Phenol, (1,1-dimethylethyl)-4-methoxy-|tert-Butyl-4-hydroxyanisole|2(3)-tert-Butyl-4-hydroxyanisole|Antrancine 12"
+en:e900b,E900B,Methylphenylpolysiloxane,,
+en:e224,E224,Potassium metabisulphite,,
+en:e418,E418,Gellan gum,,
+en:e170i,E170I,Calcium carbonate,,
+xx:e387,E387,Desconocido,,
+en:e555,E555,Potassium aluminium silicate,,
+en:e630,E630,Inosinic acid,,
+en:e363,E363,Succinic acid,1110.0,succinic acid|butanedioic acid|110-15-6|Amber acid|Asuccin
+en:e579,E579,iron gluconate,,
+en:e515i,E515I,Potassium sulphate,,
+en:e231,E231,Orthophenyl phenol,7017.0,2-Phenylphenol|2-Hydroxybiphenyl|90-43-7|O-PHENYLPHENOL|Biphenyl-2-ol
+en:e461,E461,methyl cellulose,44263857.0,E461|LNAZSHAWQACDHT-XIYTZBAFSA-N
+en:e965ii,E965II,Maltitol syrup,,
+en:e163,E163,Anthocyanins,,
+en:e452,E452,Polyphosphates,,
+en:e908,E908,Rice bran wax,,
+en:e552,E552,Calcium silicate,73415800.0,Calcarea silicata|Huberderm 1000|INS NO.552|INS-552|S4255P4G5M
+en:e161g,E161G,Canthaxanthin,5281227.0,Canthaxanthin|514-78-3|Canthaxanthine|Orobronze|Carophyll Red
+en:e910,E910,Wax ester,491773.0,CHEMBL536288|E910|SCHEMBL6012937|CHEMBL1188399|BDBM50190518
+en:e474,E474,Sucroglycerides,,
+en:e574,E574,Gluconic acid,10690.0,gluconic acid|D-gluconic acid|526-95-4|dextronic acid|maltonic acid
+en:e1503,E1503,Castor oil,,
+en:e304i,E304I,Ascorbyl palmitate,,
+en:e924a,E924A,Potassium bromate,,
+en:e440aiii,E440AIII,Potassium pectate,,
+en:e632,E632,Dipotassium inosinate,135564569.0,Dipotassium 5'-inosinate|UNII-3BYM6LW3RF|3BYM6LW3RF|potassium inosinate|dipotassium inosinate
+en:e929,E929,acetone peroxide,,
+en:e163a,E163A,Cyanidin,,
+en:e381,E381,ferric ammonium citrate,,
+en:e496,E496,Sorbitan trioleate,,
+en:e483,E483,Stearyl tartrate,,
+en:e915,E915,Esters of Colophane,,
+en:e181,E181,Tannin,46905123.0,E181|CHEMBL1159467|BDBM50469585
+en:e337,E337,Potassium sodium tartrate,,
+en:e924,E924,Potassium bromate,23673461.0,"POTASSIUM BROMATE|7758-01-2|Bromic acid, potassium salt|potassium trioxobromate|04MB35W6ZA"
+en:e550,E550,Sodium silicate,,
+en:e635,E635,Disodium 5'-ribonucleotide,137254985.0,Disodium 5'-ribonucleotide|RefChem:589391|Sodium 5'-ribonucleotide|DTXSID3020544|80702-47-2
+en:e450,E450,Diphosphates,,
+en:e912,E912,Montanic acid esters,,
+en:e15x,E15X,E15x food additive,,
+en:e522,E522,Aluminium potassium sulphate,,
+en:e422,E422,Glycerol,753.0,"glycerol|glycerin|56-81-5|Glycerine|1,2,3-Propanetriol"
+en:e470b,E470B,Magnesium salts of fatty acids,,
+en:e102,E102,Tartrazine,164825.0,Tartrazine|1934-21-0|Acid yellow 23|Yellow 5|Aizen tartrazine
+en:e166,E166,Sandalwood,,
+en:e332ii,E332II,Tripotassium citrate,,
+en:e514,E514,Sodium sulphates,,
+en:e414,E414,Acacia gum,23669833.0,Salcaprozate sodium|203787-91-1|sodium 8-[(2-hydroxybenzoyl)amino]octanoate|E414|1YTW0422YU
+en:e1101,E1101,Protease,9690119.0,e1101
+en:e228,E228,Potassium bisulphite,,
+en:e1203,E1203,Polyvinyl alcohol,,
+en:e302,E302,Calcium ascorbate,,
+en:e150c,E150C,Ammonia caramel,,
+en:e366,E366,Potassium fumarate,6433511.0,"POTASSIUM FUMARATE|7704-72-5|Dipotassium fumarate|Fumaric acid, potassium salt|4151-35-3"
+en:e905f,E905F,Mineral oil medium and low viscosity class II,,
+en:e143,E143,Fast Green FCF,,
+en:e105,E105,Fast Yellow AB,75918.0,"79873-36-2|Benzenesulfonic acid, 2-amino-5-(2-(4-sulfophenyl)diazenyl)-, sodium salt (1:?)|RefChem:1078712|DTXSID701090457|Fast Yellow AB"
+en:e525,E525,Potassium hydroxide,,
+en:e297,E297,Fumaric acid,444972.0,fumaric acid|110-17-8|trans-Butenedioic acid|Allomaleic acid|Lichenic acid
+en:e541,E541,Sodium aluminium phosphate,,
+en:e441,E441,Superglycerinated hydrogenated rapeseed oil,,
+en:e425,E425,Konjac,,
+en:e519,E519,Copper sulphate,,
+en:e343,E343,Magnesium phosphates,,
+en:e419,E419,Gum ghatti,,
+en:e335ii,E335II,Disodium tartrate,,
+en:e333iii,E333III,Tricalcium citrate,,
+en:e586,E586,4-hexylresorcinol,,
+en:e967,E967,Xylitol,827.0,Pentitol|6917-36-8|GlyTouCan:G72699UV|RefChem:1048587|CHEBI:25899
+en:e420,E420,Sorbitol,5780.0,D-Sorbitol|sorbitol|D-Glucitol|50-70-4|glucitol
+en:e520,E520,Aluminium sulphate,,
+en:e493,E493,Sorbitan monolaurate,347468.0,"16287-68-6|[2-(3,4-dihydroxyoxolan-2-yl)-2-hydroxyethyl] dodecanoate|Span 20|Sorbitan laurate (INN)|Sorbitan monolaurate (NF)"
+en:e318,E318,Calcium erythorbin,,
+en:e486,E486,Calcium stearoyl fumarate,,
+en:e414a,E414A,E414a food additive,,
+en:e100,E100,Curcumin,969516.0,curcumin|458-37-7|Diferuloylmethane|Natural yellow 3|Kacha haldi
+en:e954,E954,saccharin and its salts,5143.0,saccharin|81-07-2|o-Benzoic sulfimide|o-Sulfobenzimide|Saccharine
+en:e472b,E472B,Lactic acid esters of mono- and diglycerides of fatty acids,,
+en:e172iii,E172III,Yellow iron oxide,,
+en:e391,E391,Phytic acid,890.0,"Phytate|(2,3,4,5,6-pentaphosphonooxycyclohexyl) dihydrogen phosphate|Inositol 1,2,3,4,5,6-hexakisphosphate|RefChem:929237|Phytic acid"
+en:e300,E300,Ascorbic acid,54670067.0,l-ascorbic acid|ascorbic acid|vitamin C|50-81-7|L(+)-Ascorbic acid
+en:e161c,E161C,Cryptoaxanthin,,
+en:e959,E959,Neohesperidine dihydrochalcone,4453.0,"Neosperidin dihydrochalcone|3,5-dihydroxy-4-[3-(3-hydroxy-4-methoxyphenyl)propanoyl]phenyl 2-O-(6-deoxyhexopyranosyl)hexopyranoside|C28H36O15|E959|NHDHC"
+en:e1413,E1413,Phosphated distarch phosphate,,
+en:e209,E209,Heptylparaben,132542931.0,"CHEMBL4288940|E209|GTPL10465|BDBM50589165|1-[2-(4-{dispiro[adamantane-2,2'-[1,3,4,6]tetraoxane-5',1''-cyclohexan]-4''-yl}phenoxy)ethyl]-4-fluoropiperidine"
+en:e331i,E331I,Monosodium citrate,,

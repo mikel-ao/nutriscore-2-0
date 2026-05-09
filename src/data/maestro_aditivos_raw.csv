@@ -1,0 +1,652 @@
+id,codigo_e,nombre
+en:e333ii,E333II,E333ii - Dicalcium citrate
+en:e321,E321,E321 - Butylated hydroxytoluene
+en:e345,E345,E345 - Magnesium citrate
+en:e303,E303,E303 - Potassium ascorbate
+en:e1104,E1104,E1104 - lipase
+en:e501,E501,E501 - Potassium carbonates
+en:e490,E490,E490 - Propylene glycol
+en:e523,E523,E523 - Aluminium ammonium sulphate
+en:e401,E401,E401 - sodium alginate
+en:e103,E103,E103 - Alkannin
+en:e121,E121,E121 - Citrus Red 2
+en:e624,E624,E624 - Monoammonium glutamate
+en:e1452,E1452,E1452 - Starch aluminium octenyl succinate
+en:e342,E342,E342 - Ammonium phosphate
+en:e1105,E1105,E1105 - Lysozyme
+en:e170ii,E170II,E170ii - Calcium hydrogen carbonate
+en:e968,E968,E968 - Erythritol
+en:e556,E556,E556 - Calcium aluminium silicate
+en:e317,E317,E317 - Erythorbin acid
+en:e142,E142,E142 - Green s
+en:e1422,E1422,E1422 - Acetylated distarch adipate
+en:e932,E932,E932 - Nitrogen oxide
+en:e161e,E161E,E161e - Violaxanthin
+en:e629,E629,E629 - Calcium guanylate
+en:e636,E636,E636 - Maltol
+en:e249,E249,E249 - Potassium nitrite
+en:e492,E492,E492 - Sorbitan tristearate
+en:e211,E211,E211 - Sodium benzoate
+en:e340,E340,E340 - Potassium phosphates
+en:e172ii,E172II,E172ii - Red iron oxide
+en:e440aii,E440AII,E440aii - Sodium pectate
+en:e140,E140,E140 - Chlorophylls and Chlorophyllins
+en:e1402,E1402,E1402 - Alkaline modified starch
+en:e916,E916,E916 - Calcium iodate
+en:e262i,E262I,E262i - Sodium acetate
+en:e495,E495,E495 - Sorbitan monopalmitate
+en:e930,E930,E930 - calcium peroxide
+en:e227,E227,E227 - Calcium bisulphite
+en:e526,E526,E526 - Calcium hydroxide
+en:e426,E426,E426 - Soybean hemicellulose
+en:e580,E580,E580 - Magnesium Gluconate
+en:e338,E338,E338 - Phosphoric acid
+en:e162,E162,E162 - Beetroot red
+en:e106,E106,E106 - flavin mononucleotide
+en:e948,E948,E948 - Oxygen
+en:e999,E999,E999 - Quillaia extract
+en:e336ii,E336II,E336ii - Dipotassium tartrate
+en:e160a,E160A,E160a - carotene
+en:e306,E306,E306 - Tocopherol-rich extract
+en:e165,E165,E165 - Gardenia Blue
+en:e351,E351,E351 - Potassium malate
+en:e365,E365,E365 - Sodium fumarate
+en:e151,E151,E151 - Brilliant black bn
+en:e161d,E161D,E161d - Rubixanthin
+en:e640ii,E640II,E640ii - Sodiumglycinate
+en:e553,E553,E553 - Magnesium silicates
+en:e1100,E1100,E1100 - Alpha-Amylase
+en:e907,E907,E907 - Hydrogenated poly-1-decene
+en:e482,E482,E482 - Calcium stearoyl-2-lactylate
+en:e150d,E150D,E150d - Sulphite ammonia caramel
+en:e160,E160,E160 - Carotenoids
+en:e504ii,E504II,E504ii - Magnesium hydroxide carbonate
+en:e633,E633,E633 - Calcium inosinate
+en:e264,E264,E264 - Ammonium acetate
+en:e434,E434,E434 - Polyoxyethylene sorbitan monopalmitate
+en:e913,E913,E913 - Lanolin
+en:e1208,E1208,E1208 - Polyvinylpyrrolidone-vinyl acetate copolymer
+xx:e364,E364,Desconocido
+en:e553a,E553A,E553a - synthetic magnesium silicates
+en:e585,E585,E585 - Ferrous lactate
+en:e485,E485,E485 - Sodium stearoyl fumarate
+en:e539,E539,E539 - sodium thiosulfate
+en:e440a,E440A,E440a - Pectin
+en:e1403,E1403,E1403 - Bleached starch
+en:e442,E442,E442 - Ammonium phosphatides
+en:e163e,E163E,E163e - Peonidin
+en:e542,E542,E542 - Bone phosphate
+en:e160c,E160C,E160c - Paprika extract
+en:e356,E356,E356 - Sodium adipate
+en:e517,E517,E517 - Ammonium sulphate
+en:e417,E417,E417 - Tara gum
+en:e323,E323,E323 - Anoxomer
+en:e301,E301,E301 - Sodium ascorbate
+en:e331ii,E331II,E331ii - Disodium citrate
+en:e101,E101,E101 - Riboflavin
+en:e123,E123,E123 - Amaranth
+en:e445,E445,E445 - Glycerol esters of wood rosin
+en:e421,E421,E421 - Mannitol
+en:e503,E503,E503 - Ammonium carbonates
+en:e521,E521,E521 - Aluminium sodium sulphate
+en:e403,E403,E403 - Ammonium alginate
+en:e545,E545,E545 - Ammonium polyphosphate
+en:e957,E957,E957 - Thaumatin
+en:e332i,E332I,E332i - Monopotassium citrate
+en:e964,E964,E964 - Polyglycitol syrup
+en:e1423,E1423,E1423 - Acetylated distarch glycerol
+en:e540,E540,E540 - Dicalcium diphosphate
+en:e1441,E1441,E1441 - Hydroxy propyl distarch glycerine
+en:e440,E440,E440 - Pectins
+en:e392,E392,E392 - Extracts of rosemary
+en:e101a,E101A,E101a - E101a food additive
+en:e969,E969,E969 - Advantame
+en:e335i,E335I,E335i - Monosodium tartrate
+en:e213,E213,E213 - Calcium benzoate
+en:e628,E628,E628 - Dipotassium guanylate
+en:e235,E235,E235 - Natamycin
+en:e553aii,E553AII,E553aii - Magnesium trisilicate
+en:e465,E465,E465 - Ethyl methyl cellulose
+en:e353,E353,E353 - Metatartaric acid
+en:e551,E551,E551 - Silicon dioxide
+en:e451,E451,E451 - Triphosphates
+en:e163d,E163D,E163d - Pelargonidin
+en:e153,E153,E153 - Vegetable carbon
+en:e126,E126,E126 - Ponceau 6R
+en:e180,E180,E180 - Litholrubine bk
+en:e232,E232,E232 - Sodium orthophenyl phenol
+en:e406,E406,E406 - Agar
+xx:e389,E389,Desconocido
+en:e462,E462,E462 - Ethyl cellulose
+en:e380,E380,E380 - Triammonium citrate
+en:e326,E326,E326 - potassium lactate
+en:e284,E284,E284 - Boric acid
+en:e477,E477,E477 - Propane-1‚2-diol esters of fatty acids
+en:e577,E577,E577 - Potassium gluconate
+en:e538,E538,E538 - Calcium ferrocyanide
+en:e927a,E927A,E927a - Azodicarbonamide
+en:e515ii,E515II,E515ii - Potassium hydrogen sulphate
+en:e339,E339,E339 - Sodium phosphates
+en:e911,E911,E911 - Fatty acid methyl ester
+en:e965i,E965I,E965i - D-Maltitol
+en:e949,E949,E949 - Hydrogen
+en:e385,E385,E385 - Calcium disodium ethylenediaminetetraacetate
+en:e304ii,E304II,E304ii - Ascorbyl stearate
+en:e182,E182,E182 - Orcein
+en:e216,E216,E216 - Propyl para-hydroxybenzoate
+en:e334,E334,E334 - L(+)-tartaric acid
+en:e560,E560,E560 - Potassium silicate
+en:e230,E230,E230 - Biphenyl
+en:e927,E927,E927 - Azodicarbonamide and Carbamide
+en:e307b,E307B,E307b - concentrated tocopherol
+en:e460,E460,E460 - Cellulose
+en:e960b,E960B,E960b - Rebaudioside from multiple gene donors expressed in Yarrowia lipolityca
+en:e944,E944,E944 - Propane
+en:e160aii,E160AII,E160aii - Plant carotenes
+en:e631,E631,E631 - Disodium inosinate
+en:e905e,E905E,E905e - Mineral oil medium viscosity
+en:e217,E217,E217 - Sodium propyl para-hydroxybenzoate
+en:e926,E926,E926 - Chlorine dioxide
+en:e242,E242,E242 - Dimethyl dicarbonate
+en:e352ii,E352II,E352ii - Calcium hydrogen malate
+en:e407a,E407A,E407a - Processed eucheuma seaweed
+en:e1414,E1414,E1414 - Acetylated distarch phosphate
+en:e203,E203,E203 - Calcium sorbate
+en:e221,E221,E221 - Sodium sulphite
+en:e553b,E553B,E553b - Talc
+en:e1520,E1520,E1520 - Propylene Glycol
+en:e953,E953,E953 - isomalt
+en:e1207,E1207,E1207 - Anionic methacrylate copolymer
+en:e620,E620,E620 - Glutamic acid
+en:e494,E494,E494 - Sorbitan monooleate
+en:e127,E127,E127 - Erythrosine
+en:e507,E507,E507 - Hydrochloric acid
+en:e240,E240,E240 - Formaldehyde
+en:e350ii,E350II,E350ii - Sodium hydrogen malate
+en:e344,E344,E344 - Lecithin citrate
+en:e407,E407,E407 - Carrageenan
+en:e327,E327,E327 - calcium lactate
+en:e641,E641,E641 - Leucine
+en:e160b,E160B,E160b - Annatto
+en:e625,E625,E625 - Magnesium diglutamate
+en:e576,E576,E576 - Sodium gluconate
+en:e1205,E1205,E1205 - Basic methacrylate copolymer
+en:e1442,E1442,E1442 - Hydroxypropyl distarch phosphate
+en:e476,E476,E476 - Polyglycerol polyricinoleate
+en:e339iii,E339III,E339iii - Trisodium phosphate
+en:e111,E111,E111 - Orange GGN
+en:e710,E710,E710 - Spiramycin
+en:e513,E513,E513 - Sulphuric acid
+en:e349,E349,E349 - ammonium malate
+en:e413,E413,E413 - Tragacanth
+en:e1204,E1204,E1204 - Pullulan
+en:e622,E622,E622 - Monopotassium glutamate
+en:e939,E939,E939 - Helium
+en:e311,E311,E311 - Octyl gallate
+en:e489,E489,E489 - Methyl glucoside-coconut oil ester
+en:e251,E251,E251 - Sodium nitrate
+en:e341ii,E341II,E341ii - Dicalcium phosphate
+en:e1206,E1206,E1206 - Neutral methacrylate copolymer
+en:e905d,E905D,E905d - Mineral oil high viscosity
+en:e650,E650,E650 - Zinc acetate
+en:e535,E535,E535 - Sodium ferrocyanide
+en:e901,E901,E901 - white and yellow beeswax
+en:e473a,E473A,E473a - Oligoesters of sucrose type I
+en:e265,E265,E265 - Dehydroacetic acid
+en:e435,E435,E435 - Polyoxyethylene sorbitan monostearate
+en:e141ii,E141II,E141ii - Copper complexes of chlorophyllins
+en:e923,E923,E923 - ammonium persulfate
+en:e322ii,E322II,E322ii - Partially hydrolyzed lecithin
+en:e340i,E340I,E340i - Monopotassium phosphate
+en:e956,E956,E956 - Alitame
+en:e468,E468,E468 - Cross-linked sodium carboxymethylcellulose
+en:e238,E238,E238 - Calcium formiate
+en:e484,E484,E484 - Stearyl citrate
+en:e1410,E1410,E1410 - Monostarch phosphate
+en:e307c,E307C,E307c - DL-Alpha-tocopherol
+en:e140i,E140I,E140i - Chlorophylls
+en:e960c,E960C,E960c - Enzymatically produced steviol glycosides
+en:e262,E262,E262 - Sodium acetates
+en:e432,E432,E432 - Polyoxyethylene sorbitan monolaurate
+en:e1200,E1200,E1200 - Polydextrose
+en:e171,E171,E171 - Titanium dioxide
+en:e473,E473,E473 - Sucrose esters of fatty acids
+en:e573,E573,E573 - Aluminium stearate
+en:e501i,E501I,E501i - Potassium carbonate
+en:e369,E369,E369 - Alanin
+en:e160aiv,E160AIV,E160aiv - Algal carotenes
+en:e1504,E1504,E1504 - ethyl acetate
+en:e164,E164,E164 - saffron
+en:e260,E260,E260 - Acetic acid
+en:e430,E430,E430 - Polyoxyethylene (8) stearate
+en:e450vii,E450VII,E450vii - Calcium dihydrogen diphosphate
+en:e530,E530,E530 - Magnesium oxide
+en:e1505,E1505,E1505 - Triethyl citrate
+en:e388,E388,E388 - Thiodipropionic acid
+en:e416,E416,E416 - Karaya-gum
+en:e516,E516,E516 - Calcium sulphate
+en:e500ii,E500II,E500ii - Sodium hydrogen carbonate
+en:e357,E357,E357 - Potassium adipate
+en:e290,E290,E290 - Carbon dioxide
+en:e201,E201,E201 - Sodium sorbate
+en:e905ci,E905CI,E905ci - Microcrystalline wax
+en:e339i,E339I,E339i - Monosodium phosphate
+en:e965,E965,E965 - maltitol
+en:e223,E223,E223 - Sodium metabisulphite
+en:e1451,E1451,E1451 - Acetylated oxidised starch
+en:e951,E951,E951 - Aspartame
+en:e962,E962,E962 - Salt of aspartame-acesulfame
+en:e1443,E1443,E1443 - Hydroxy propyl distarch glycerol
+en:e906,E906,E906 - Benzoin resin
+en:e460i,E460I,E460i - Microcrystalline cellulose
+en:e399,E399,E399 - Calcium lactobionate
+en:e307a,E307A,E307a - D-Alpha-tocopherol
+en:e960a,E960A,E960a - Steviol glycosides from Stevia
+en:e160bii,E160BII,E160bii - Annatto norbixin
+en:e938,E938,E938 - Argon
+xx:e390,E390,Desconocido
+en:e1421,E1421,E1421 - Acetylated starch
+en:e452ii,E452II,E452ii - Potassium polyphosphate
+en:e511,E511,E511 - Magnesium chloride
+en:e411,E411,E411 - E411 food additive
+en:e440aiv,E440AIV,E440aiv - Ammonium Pectate
+en:e472e,E472E,E472e - Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids
+en:e451i,E451I,E451i - Pentasodium triphosphate
+en:e160f,E160F,E160f - Ethyl ester of beta-apo-8'-carotenic acid (C 30)
+en:e313,E313,E313 - Ethyl gallate
+en:e960,E960,E960 - Steviol glycosides
+en:e427,E427,E427 - Cassia gum
+en:e527,E527,E527 - Ammonium hydroxide
+en:e107,E107,E107 - Yellow 2G
+en:e470aiii,E470AIII,E470aiii - Calcium salts of fatty acids
+en:e450ii,E450II,E450ii - Trisodium diphosphate
+en:e544,E544,E544 - Calcium polyphosphate
+en:e307,E307,E307 - Alpha-tocopherol
+en:e1401,E1401,E1401 - Acid-treated modified starch
+en:e444,E444,E444 - Sucrose acetate isobutyrate
+en:e927b,E927B,E927b - Carbamide
+en:e1430,E1430,E1430 - Distarch glycerine
+en:e332,E332,E332 - Potassium citrates
+en:e514ii,E514II,E514ii - Sodium hydrogen sulphate
+en:e14xx,E14XX,E14XX - Modified Starch
+en:e132,E132,E132 - Indigotine
+en:e917,E917,E917 - potassium iodate
+en:e368,E368,E368 - ammonium fumarate
+en:e440i,E440I,E440i - non-amidated pectines
+en:e450v,E450V,E450v - Tetrapotassium diphosphate
+en:e384,E384,E384 - Isopropyl citrates
+en:e226,E226,E226 - Calcium sulphite
+en:e942,E942,E942 - Nitrous oxide
+en:e280,E280,E280 - Propionic acid
+en:e470ai,E470AI,E470ai - Sodium salts of fatty acids
+en:e343ii,E343II,E343ii - Dimagnesium phosphate
+en:e637,E637,E637 - Ethyl maltol
+en:e335,E335,E335 - Sodium tartrates
+en:e903,E903,E903 - Carnauba wax
+en:e921,E921,E921 - L-cysteine hydrochloride monohydrate
+en:e945,E945,E945 - chloropentafluoroethane
+en:e425ii,E425II,E425ii - Konjac glucomannan
+en:e541ii,E541II,E541ii - Alkaline sodium aluminium phosphate
+en:e330,E330,E330 - Citric acid
+en:e234,E234,E234 - Nisin
+en:e464,E464,E464 - Hydroxypropyl methyl cellulose
+en:e440b,E440B,E440b - pectin amide
+en:e316,E316,E316 - sodium erythorbate
+en:e557,E557,E557 - hemimorphite
+en:e488,E488,E488 - Ethoxylated Mono- and Di-Glycerides
+en:e457,E457,E457 - Alpha-Cyclodextrine
+en:e340iii,E340III,E340iii - Tripotassium phosphate
+en:e130,E130,E130 - Indanthrene blue RS
+en:e420ii,E420II,E420ii - Sorbitol syrup
+en:e282,E282,E282 - calcium propionate
+en:e940,E940,E940 - Dichlorodifluoromethane
+en:e472d,E472D,E472d - Tartaric acid esters of mono- and diglycerides of fatty acids
+en:e452v,E452V,E452v - Ammonium polyphosphate
+en:e471,E471,E471 - Mono- and diglycerides of fatty acids
+en:e239,E239,E239 - Hexamethylene tetramine
+en:e571,E571,E571
+en:e469,E469,E469 - Enzymatically hydrolysed carboxymethylcellulose
+en:e1000,E1000,E1000 - Cholic acid
+en:e173,E173,E173 - Aluminium
+en:e285,E285,E285 - Sodium tetraborate (borax)
+en:e101i,E101I,E101i - Riboflavin
+en:e1209,E1209,E1209 - Polyvinyl alcohol-polyethylene glycol-graft-co-polymer
+en:e503i,E503I,E503i - Ammonium carbonate
+en:e501ii,E501II,E501ii - Potassium hydrogen carbonate
+en:e133,E133,E133 - Brilliant blue FCF
+en:e261,E261,E261 - Potassium acetate
+en:e431,E431,E431 - Polyoxyethylene (40) stearate
+en:e905,E905,E905 - Synthetic wax
+en:e161j,E161J,E161j - Astaxanthin
+en:e333,E333,E333 - Calcium citrates
+en:e1420,E1420,E1420 - Acetylated starch
+en:e470aii,E470AII,E470aii - Potassium salts of fatty acids
+en:e558,E558,E558 - Bentonite
+en:e487,E487,E487 - sodium dodecyl sulfate
+en:e902,E902,E902 - Candelilla wax
+en:e458,E458,E458 - Gamma-Cyclodextrine
+en:e966,E966,E966 - Lactitol
+en:e370,E370,E370 - 1‚4-Heptonolactone
+en:e500i,E500I,E500i - Sodium carbonate
+en:e900a,E900A,E900a - Dimethyl polysiloxane
+en:e252,E252,E252 - Potassium nitrate
+en:e170,E170,E170 - Calcium carbonates
+en:e1210,E1210,E1210 - Carbomer
+en:e1450,E1450,E1450 - Starch sodium octenyl succinate
+en:e375,E375,E375 - Nicotinic acid
+en:e141i,E141I,E141i - Copper complexes of chlorophylls
+en:e283,E283,E283 - Potassium propionate
+en:e638,E638,E638
+en:e296,E296,E296 - Malic acid
+en:e175,E175,E175 - Gold
+en:e1400,E1400,E1400 - Dextrin
+en:e359,E359,E359 - ammonium adipate
+en:e943a,E943A,E943a - Butane
+en:e472g,E472G,E472g - Succinylated monoglycerides
+en:e341i,E341I,E341i - Monocalcium phosphate
+en:e905a,E905A,E905a - mineral oil
+en:e900,E900,E900 - Dimethylpolysiloxane and Methylphenylpolysiloxane
+en:e154,E154,E154 - Brown FK
+en:e1517,E1517,E1517 - Glyceryl diacetate
+en:e140ii,E140II,E140ii - Chlorophyllins
+en:e340ii,E340II,E340ii - Dipotassium phosphate
+en:e250,E250,E250 - Sodium nitrite
+en:e322i,E322I,E322i - Lecithin
+en:e354,E354,E354 - Calcium tartrate
+en:e172,E172,E172 - Iron oxides and iron hydroxides
+en:e918,E918,E918 - Nitrogen oxides
+en:e367,E367,E367 - Calcium fumarate
+en:e452iii,E452III,E452iii - Sodium calcium polyphosphate
+en:e336,E336,E336 - Potassium tartrates
+en:e428,E428,E428 - Gelatine
+en:e214,E214,E214 - Ethyl p-hydroxybenzoate
+en:e163f,E163F,E163f - Petunidin
+en:e160bi,E160BI,E160bi - Annatto bixin
+en:e310,E310,E310 - Propyl gallate
+en:e528,E528,E528 - Magnesium hydroxide
+en:e472c,E472C,E472c - Citric acid esters of mono- and diglycerides of fatty acids
+en:e1510,E1510,E1510 - Ethanol
+en:e308,E308,E308 - Gamme-tocopherol
+en:e222,E222,E222 - Sodium bisulphite
+en:e110,E110,E110 - Sunset yellow FCF
+en:e1102,E1102,E1102 - Glucose oxidase
+en:e350i,E350I,E350i - Sodium malate
+en:e946,E946,E946 - octafluorocyclobutane
+en:e640,E640,E640 - Glycine and its sodium salt
+en:e161b,E161B,E161b - Lutein
+en:e219,E219,E219 - Sodium methyl p-hydroxybenzoate
+en:e225,E225,E225 - Calcium Disulphite
+en:e963,E963,E963 - Tagatose
+en:e241,E241,E241 - Gum Guaicum
+en:e905cii,E905CII,E905cii - Paraffin wax
+en:e504,E504,E504 - Magnesium carbonates
+en:e1001,E1001,E1001 - Choline salt
+en:e404,E404,E404 - Calcium alginate
+en:e450iii,E450III,E450iii - Tetrasodium diphosphate
+en:e312,E312,E312 - Dodecyl gallate
+en:e1405,E1405,E1405 - Enzyme treated starch
+en:e124,E124,E124 - Ponceau 4r
+en:e621,E621,E621 - Monosodium glutamate
+en:e150b,E150B,E150b - Caustic sulphite caramel
+en:e352i,E352I,E352i - Calcium malate
+en:e324,E324,E324 - Ethoxyquin
+en:e220,E220,E220 - Sulphur dioxide
+en:e509,E509,E509 - Calcium chloride
+en:e315,E315,E315 - Erythorbic acid
+en:e642,E642,E642
+en:e1404,E1404,E1404 - Oxidised starch
+xx:e386,E386,Desconocido
+en:e409,E409,E409 - Arabinogalactan
+en:e129,E129,E129 - Allura red
+en:e161i,E161I,E161i - Citranaxanthin
+en:e329,E329,E329 - Magnesium lactate
+en:e1521,E1521,E1521 - Polyethylene glycol
+en:e420i,E420I,E420i - D-sorbitol
+en:e452vi,E452VI,E452vi - Sodium tripolyphosphate
+en:e922,E922,E922 - Potassium persulfate
+en:e472a,E472A,E472a - Acetic acid esters of mono- and diglycerides of fatty acids
+en:e246,E246,E246 - Glycolipids
+en:e905g,E905G,E905g - Mineral oil medium and low viscosity class III
+en:e914,E914,E914 - Oxidised polyethylene wax
+en:e470,E470,E470 - Sodium/potassium/calcium and magnesium salts of fatty acids
+en:e570,E570,E570 - Fatty acids
+en:e433,E433,E433 - Polyoxyethylene sorbitan monooleate
+en:e925,E925,E925 - Chlorine
+en:e263,E263,E263 - Calcium acetate
+en:e941,E941,E941 - Nitrogen
+en:e101ii,E101II,E101ii - Riboflavin-5′-phosphate
+en:e131,E131,E131 - Patent blue v
+en:e634,E634,E634 - Calcium 5'-ribonucleotide
+en:e503ii,E503II,E503ii - Ammonium hydrogen carbonate
+en:e341iii,E341III,E341iii - Tricalcium phosphate
+en:e331,E331,E331 - Sodium citrates
+en:e919,E919,E919 - Nitrosyl chloride
+en:e440ii,E440II,E440ii - Amidated pectin
+en:e554,E554,E554 - Sodium aluminium silicate
+en:e500iii,E500III,E500iii - Sodium sesquicarbonate
+en:e470a,E470A,E470a - Sodium/potassium and calcium salts of fatty acids
+en:e450vi,E450VI,E450vi - Dicalcium diphosphate
+en:e237,E237,E237 - Sodium formiate
+en:e920,E920,E920 - l-cysteine
+en:e467,E467,E467 - Ethulose
+en:e514i,E514I,E514i - Sodium sulphate
+en:e572,E572,E572 - Magnesium stearate
+en:e472,E472,E472 - acid esters of mono- and diglycerides of fatty acids
+en:e559,E559,E559 - Aluminium silicate
+en:e459,E459,E459 - Beta-cyclodextrine
+en:e281,E281,E281 - Sodium propionate
+en:e541i,E541I,E541i - Acid sodium aluminium phosphate
+en:e425i,E425I,E425i - Konjac gum
+en:e575,E575,E575 - Glucono-delta-lactone
+en:e626,E626,E626 - Guanylic acid
+en:e343i,E343I,E343i - Monomagnesium phosphate
+en:e475,E475,E475 - Polyglycerol esters of fatty acids
+en:e479b,E479B,E479b - Thermally oxidised soya bean oil interacted with mono- and diglycerides of fatty acids
+en:e451ii,E451II,E451ii - Pentapotassium triphosphate
+en:e1411,E1411,E1411 - Distarch glycerol
+en:e163b,E163B,E163b - Delphinidin
+en:e450iv,E450IV,E450iv - dipotassium dihydrogenpyrophosphate
+en:e955,E955,E955 - Sucralose
+en:e243,E243,E243 - Ethyl lauroyl arginate
+en:e961,E961,E961 - Neotame
+en:e161f,E161F,E161f - Rhodoxanthin
+en:e450viii,E450VIII,E450viii
+en:e508,E508,E508 - Potassium chloride
+en:e1519,E1519,E1519 - Benzyl alcohol
+en:e408,E408,E408 - Bakers yeast glycan
+en:e952,E952,E952 - Cyclamic acid and its Na and Ca salts
+en:e450i,E450I,E450i - Disodium diphosphate
+en:e128,E128,E128 - Red 2G
+en:e536,E536,E536 - Potassium ferrocyanide
+en:e202,E202,E202 - Potassium sorbate
+en:e436,E436,E436 - Polyoxyethylene sorbitan tristearate
+en:e266,E266,E266 - Sodium dehydroacetate
+en:e713,E713,E713 - Tylosin
+en:e328,E328,E328 - ammonium lactate
+en:e510,E510,E510 - Ammonium chloride
+en:e410,E410,E410 - Locust bean gum
+en:e161h,E161H,E161h - Zeaxanthin
+en:e452iv,E452IV,E452iv - Calcium polyphosphate
+en:e429,E429,E429 - peptone
+en:e529,E529,E529 - Calcium oxide
+en:e415,E415,E415 - Xanthan gum
+en:e309,E309,E309 - Delta-tocopherol
+en:e515,E515,E515 - Potassium sulphates
+en:e339ii,E339II,E339ii - Disodium phosphate
+en:e905c,E905C,E905c - Petroleum wax
+en:e104,E104,E104 - Quinoline yellow
+en:e960d,E960D,E960d - Glucosylated steviol glycosides
+en:e950,E950,E950 - Acesulfame k
+en:e623,E623,E623 - Calcium diglutamate
+en:e1103,E1103,E1103 - Invertase
+en:e218,E218,E218 - Methyl p-hydroxybenzoate
+en:e452i,E452I,E452i - Sodium polyphosphate
+en:e424,E424,E424 - Curdlan
+en:e1201,E1201,E1201 - Polyvinylpyrrolidone
+en:e524,E524,E524 - Sodium hydroxide
+en:e200,E200,E200 - Sorbic acid
+en:e304,E304,E304 - Fatty acid esters of ascorbic acid
+en:e924b,E924B,E924b - Calcium bromate
+en:e412,E412,E412 - Guar gum
+en:e460ii,E460II,E460ii - Powdered cellulose
+en:e512,E512,E512 - Stannous chloride
+en:e504i,E504I,E504i - Magnesium carbonate
+en:e270,E270,E270 - Lactic acid
+en:e928,E928,E928 - Benzole peroxide
+en:e152,E152,E152 - Black 7984
+en:e446,E446,E446 - Succistearin
+en:e546,E546,E546 - Magnesium pyrophosphate
+en:e174,E174,E174 - Silver
+en:e150a,E150A,E150a - Plain caramel
+en:e352,E352,E352 - Calcium malates
+en:e155,E155,E155 - Brown ht
+en:e161,E161,E161 - Xanthophylls
+en:e355,E355,E355 - Adipic acid
+en:e553ai,E553AI,E553ai - Synthetic magnesium silicate
+en:e463,E463,E463 - Hydroxypropyl cellulose
+en:e233,E233,E233 - Thiabendazole
+en:e336i,E336I,E336i - Monopotassium tartrate
+en:e904,E904,E904 - Shellac
+en:e150,E150,E150 - Caramel
+en:e160d,E160D,E160d - Lycopene
+en:e160ai,E160AI,E160ai - Beta-carotene
+en:e267,E267,E267 - Buffered vinegar
+en:e478,E478,E478 - Lactylated fatty acid esters of glycerol and propane-1
+en:e537,E537,E537 - ferrous hexacyanomanganate
+en:e578,E578,E578 - calcium gluconate
+en:e350,E350,E350 - Sodium malates
+en:e383,E383,E383 - calcium glycerophosphate
+en:e640i,E640I,E640i - Glycine
+en:e161a,E161A,E161a - Flavoxanthin
+en:e909,E909,E909 - Spermaceti
+en:e481,E481,E481 - Sodium stearoyl-2-lactylate
+en:e1440,E1440,E1440 - Hydroxypropyl starch
+en:e543,E543,E543 - E543 food additive
+en:e405,E405,E405 - Propane-1‚2-diol alginate
+en:e931,E931,E931 - Nitrogen
+en:e505,E505,E505 - Ferrous carbonate
+en:e319,E319,E319 - Tertiary-butylhydroquinone (tbhq)
+en:e443,E443,E443 - Brominated vegetable oil
+en:e125,E125,E125 - Scarlet GN
+en:e1412,E1412,E1412 - Distarch phosphate
+en:e141,E141,E141 - Copper complexes of chlorophylls and chlorophyllins
+en:e331iii,E331III,E331iii - Trisodium citrate
+en:e627,E627,E627 - Disodium guanylate
+en:e943b,E943B,E943b - Isobutane
+en:e325,E325,E325 - sodium lactate
+en:e905b,E905B,E905b - petroleum jelly
+en:e341,E341,E341 - Calcium phosphates
+en:e262ii,E262II,E262ii - Sodium diacetate
+en:e160aiii,E160AIII,E160aiii - Beta-carotene from blakeslea trispora
+en:e122,E122,E122 - Azorubine
+en:e210,E210,E210 - Benzoic acid
+en:exxx,EXXX,Exxx - Exxx food additive
+en:e314,E314,E314 - Guaiacum
+en:e466,E466,E466 - Sodium carboxy methyl cellulose
+en:e958,E958,E958 - Glycyrrhizin
+en:e402,E402,E402 - Potassium alginate
+en:e236,E236,E236 - Formic acid
+en:e502,E502,E502 - Carbonates
+en:e1518,E1518,E1518 - Glyceryl triacetate
+en:e322,E322,E322 - Lecithins
+en:e172i,E172I,E172i - Black iron oxide
+en:e160e,E160E,E160e - Beta-apo-8′-carotenal (c30)
+en:e163c,E163C,E163c - Malvidin
+en:e472f,E472F,E472f - Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids
+en:e215,E215,E215 - Sodium ethyl p-hydroxybenzoate
+en:e333i,E333I,E333i - Monocalcium citrate
+en:e1202,E1202,E1202 - Polyvinylpolypyrrolidone
+en:e120,E120,E120 - Cochineal
+en:e212,E212,E212 - Potassium benzoate
+en:e322a,E322A,E322a - Oat lecithin
+en:e500,E500,E500 - Sodium carbonates
+en:e491,E491,E491 - Sorbitan monostearate
+en:e400,E400,E400 - Alginic acid
+en:e518,E518,E518 - Magnesium sulphate
+en:e320,E320,E320 - Butylated hydroxyanisole (bha)
+en:e900b,E900B,E900b - Methylphenylpolysiloxane
+en:e224,E224,E224 - Potassium metabisulphite
+en:e418,E418,E418 - Gellan gum
+en:e170i,E170I,E170i - Calcium carbonate
+xx:e387,E387,Desconocido
+en:e555,E555,E555 - Potassium aluminium silicate
+en:e630,E630,E630 - Inosinic acid
+en:e363,E363,E363 - Succinic acid
+en:e579,E579,E579 - iron gluconate
+en:e515i,E515I,E515i - Potassium sulphate
+en:e231,E231,E231 - Orthophenyl phenol
+en:e461,E461,E461 - methyl cellulose
+en:e965ii,E965II,E965ii - Maltitol syrup
+en:e163,E163,E163 - Anthocyanins
+en:e452,E452,E452 - Polyphosphates
+en:e908,E908,E908 - Rice bran wax
+en:e552,E552,E552 - Calcium silicate
+en:e161g,E161G,E161g - Canthaxanthin
+en:e910,E910,E910 - Wax ester
+en:e474,E474,E474 - Sucroglycerides
+en:e574,E574,E574 - Gluconic acid
+en:e1503,E1503,E1503 - Castor oil
+en:e304i,E304I,E304i - Ascorbyl palmitate
+en:e924a,E924A,E924a - Potassium bromate
+en:e440aiii,E440AIII,E440aiii - Potassium pectate
+en:e632,E632,E632 - Dipotassium inosinate
+en:e929,E929,E929 - acetone peroxide
+en:e163a,E163A,E163a - Cyanidin
+en:e381,E381,E381 - ferric ammonium citrate
+en:e496,E496,E496 - Sorbitan trioleate
+en:e483,E483,E483 - Stearyl tartrate
+en:e915,E915,E915 - Esters of Colophane
+en:e181,E181,E181 - Tannin
+en:e337,E337,E337 - Potassium sodium tartrate
+en:e924,E924,E924 - Potassium bromate
+en:e550,E550,E550 - Sodium silicate
+en:e635,E635,E635 - Disodium 5'-ribonucleotide
+en:e450,E450,E450 - Diphosphates
+en:e912,E912,E912 - Montanic acid esters
+en:e15x,E15X,E15x - E15x food additive
+en:e522,E522,E522 - Aluminium potassium sulphate
+en:e422,E422,E422 - Glycerol
+en:e470b,E470B,E470b - Magnesium salts of fatty acids
+en:e102,E102,E102 - Tartrazine
+en:e166,E166,E166 - Sandalwood
+en:e332ii,E332II,E332ii - Tripotassium citrate
+en:e514,E514,E514 - Sodium sulphates
+en:e414,E414,E414 - Acacia gum
+en:e1101,E1101,E1101 - Protease
+en:e228,E228,E228 - Potassium bisulphite
+en:e1203,E1203,E1203 - Polyvinyl alcohol
+en:e302,E302,E302 - Calcium ascorbate
+en:e150c,E150C,E150c - Ammonia caramel
+en:e366,E366,E366 - Potassium fumarate
+en:e905f,E905F,E905f - Mineral oil medium and low viscosity class II
+en:e143,E143,E143 - Fast Green FCF
+en:e105,E105,E105 - Fast Yellow AB
+en:e525,E525,E525 - Potassium hydroxide
+en:e297,E297,E297 - Fumaric acid
+en:e541,E541,E541 - Sodium aluminium phosphate
+en:e441,E441,E441 - Superglycerinated hydrogenated rapeseed oil
+en:e425,E425,E425 - Konjac
+en:e519,E519,E519 - Copper sulphate
+en:e343,E343,E343 - Magnesium phosphates
+en:e419,E419,E419 - Gum ghatti
+en:e335ii,E335II,E335ii - Disodium tartrate
+en:e333iii,E333III,E333iii - Tricalcium citrate
+en:e586,E586,E586 - 4-hexylresorcinol
+en:e967,E967,E967 - Xylitol
+en:e420,E420,E420 - Sorbitol
+en:e520,E520,E520 - Aluminium sulphate
+en:e493,E493,E493 - Sorbitan monolaurate
+en:e318,E318,E318 - Calcium erythorbin
+en:e486,E486,E486 - Calcium stearoyl fumarate
+en:e414a,E414A,E414a - E414a food additive
+en:e100,E100,E100 - Curcumin
+en:e954,E954,E954 - saccharin and its salts
+en:e472b,E472B,E472b - Lactic acid esters of mono- and diglycerides of fatty acids
+en:e172iii,E172III,E172iii - Yellow iron oxide
+en:e391,E391,E391 - Phytic acid
+en:e300,E300,E300 - Ascorbic acid
+en:e161c,E161C,E161c - Cryptoaxanthin
+en:e959,E959,E959 - Neohesperidine dihydrochalcone
+en:e1413,E1413,E1413 - Phosphated distarch phosphate
+en:e209,E209,E209 - Heptylparaben
+en:e331i,E331I,E331i - Monosodium citrate
