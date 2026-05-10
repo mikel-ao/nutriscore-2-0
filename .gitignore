@@ -1,5 +1,3 @@
-# Ignorar cuadernos de extracción pesados o temporales
-extraccion_dataset_aditivos.ipynb
+src/data/alimentos_tesis.parquet
 
-# Ignorar datasets de gran volumen (800k registros)
-dataset_800k_aditivos.csv
+src/data/dataset_800k_aditivos.csv
