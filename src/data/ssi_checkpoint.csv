@@ -1,0 +1,651 @@
+nombre,e_code,status,ssi,confidence,total_papers,papers_negative,ratio_negative,pct_human_studies,reason
+Dicalcium citrate,E333II,SAFE,0.0055,0.07,27,3,0.121,11.0,Low negative evidence
+Butylated hydroxytoluene,E321,DANGEROUS,0.7492,0.96,2298,1517,0.66,24.0,High negative evidence
+Magnesium citrate,E345,SAFE,0.0823,0.23,129,51,0.399,57.0,Low negative evidence
+Potassium ascorbate,E303,SAFE,0.059,0.16,66,25,0.382,69.0,Low negative evidence
+lipase,E1104,DANGEROUS,0.5163,1.0,26789,15524,0.58,32.0,High negative evidence
+Potassium carbonates,E501,SAFE,0.0465,0.17,69,20,0.297,66.0,Low negative evidence
+Propylene glycol,E490,DANGEROUS,0.363,0.99,2430,860,0.354,35.0,High negative evidence
+Aluminium ammonium sulphate,E523,SAFE,0.0412,0.11,33,16,0.505,50.0,Low negative evidence
+sodium alginate,E401,WATCHLIST,0.2345,1.0,3933,657,0.167,34.0,Moderate concerns (SSI: 23.5%)
+Alkannin,E103,SAFE,0.0921,0.32,257,88,0.342,74.0,Low negative evidence
+Citrus Red 2,E121,SAFE,0.0788,0.31,236,74,0.315,77.0,Low negative evidence
+Monoammonium glutamate,E624,SAFE,0.0261,0.1,26,6,0.253,67.0,Low negative evidence
+Starch aluminium octenyl succinate,E1452,UNKNOWN,0.0219,0.03,5,3,0.6,50.0,Insufficient research (5 papers)
+Ammonium phosphate,E342,SAFE,0.1748,0.6,901,322,0.358,48.0,Low negative evidence
+Lysozyme,E1105,DANGEROUS,0.4282,1.0,18040,7959,0.441,32.0,High negative evidence
+Calcium hydrogen carbonate,E170II,UNKNOWN,0.0064,0.02,4,1,0.333,33.0,Insufficient research (4 papers)
+Erythritol,E968,DANGEROUS,0.3798,0.87,1896,955,0.504,31.0,High negative evidence
+Calcium aluminium silicate,E556,SAFE,0.0358,0.13,43,13,0.323,61.0,Low negative evidence
+Erythorbin acid,E317,DANGEROUS,0.4828,1.0,1941172,1027229,0.529,35.0,High negative evidence
+Green s,E142,SAFE,0.1077,1.0,5693,763,0.134,58.0,Low negative evidence
+Acetylated distarch adipate,E1422,SAFE,0.0458,0.09,21,8,0.42,50.0,Low negative evidence
+Nitrogen oxide,E932,WATCHLIST,0.2544,0.72,1294,472,0.365,51.0,Moderate concerns (SSI: 25.4%)
+Violaxanthin,E161E,SAFE,0.1943,0.66,1077,449,0.417,28.0,Low negative evidence
+Calcium guanylate,E629,DANGEROUS,0.3943,0.78,1504,923,0.614,21.0,High negative evidence
+Maltol,E636,SAFE,0.1242,0.35,300,112,0.374,44.0,Low negative evidence
+Potassium nitrite,E249,SAFE,0.0945,0.23,137,64,0.474,70.0,Low negative evidence
+Sorbitan tristearate,E492,SAFE,0.065,0.19,87,32,0.377,45.0,Low negative evidence
+Sodium benzoate,E211,WATCHLIST,0.2371,0.58,831,345,0.416,38.0,Moderate concerns (SSI: 23.7%)
+Potassium phosphates,E340,SAFE,0.0606,0.19,91,31,0.35,57.0,Low negative evidence
+Red iron oxide,E172II,SAFE,0.0,0.08,18,0,0.0,100.0,Low negative evidence
+Sodium pectate,E440AII,SAFE,0.0316,0.06,10,1,0.167,67.0,Low negative evidence
+Chlorophylls and Chlorophyllins,E140,WATCHLIST,0.2287,0.43,467,268,0.576,38.0,Moderate concerns (SSI: 22.9%)
+Alkaline modified starch,E1402,SAFE,0.1095,0.45,510,126,0.248,41.0,Low negative evidence
+Calcium iodate,E916,SAFE,0.0318,0.1,24,7,0.309,27.0,Low negative evidence
+Sodium acetate,E262I,WATCHLIST,0.3437,1.0,3103,1288,0.415,30.0,Moderate concerns (SSI: 34.4%)
+Sorbitan monopalmitate,E495,SAFE,0.062,0.14,51,20,0.406,72.0,Low negative evidence
+calcium peroxide,E930,WATCHLIST,0.2141,0.33,279,110,0.397,53.0,Moderate concerns (SSI: 21.4%)
+Calcium bisulphite,E227,SAFE,0.1279,0.28,197,116,0.593,58.0,Low negative evidence
+Calcium hydroxide,E526,SAFE,0.1685,1.0,3009,483,0.161,52.0,Low negative evidence
+Soybean hemicellulose,E426,SAFE,0.0529,0.14,48,19,0.398,69.0,Low negative evidence
+Magnesium Gluconate,E580,SAFE,0.0433,0.13,44,16,0.366,44.0,Low negative evidence
+Phosphoric acid,E338,SAFE,0.1522,1.0,7582,1417,0.187,55.0,Low negative evidence
+Beetroot red,E162,SAFE,0.0674,0.23,132,44,0.338,68.0,Low negative evidence
+flavin mononucleotide,E106,DANGEROUS,0.5644,1.0,3527,2089,0.592,31.0,High negative evidence
+Oxygen,E948,DANGEROUS,0.4806,1.0,396131,206799,0.522,41.0,High negative evidence
+Quillaia extract,E999,SAFE,0.0202,0.08,17,3,0.195,38.0,Low negative evidence
+Dipotassium tartrate,E336II,UNKNOWN,0.0094,0.03,5,3,0.6,50.0,Insufficient research (5 papers)
+carotene,E160A,DANGEROUS,0.4405,1.0,11499,6748,0.587,53.0,High negative evidence
+Tocopherol-rich extract,E306,SAFE,0.0581,0.18,81,32,0.395,59.0,Low negative evidence
+Gardenia Blue,E165,SAFE,0.0976,0.26,175,63,0.365,67.0,Low negative evidence
+Potassium malate,E351,SAFE,0.0679,0.18,77,33,0.437,64.0,Low negative evidence
+Sodium fumarate,E365,SAFE,0.0674,0.18,79,33,0.422,53.0,Low negative evidence
+Brilliant black bn,E151,SAFE,0.0677,0.25,160,61,0.383,71.0,Low negative evidence
+Rubixanthin,E161D,SAFE,0.0276,0.08,16,5,0.36,60.0,Low negative evidence
+Sodiumglycinate,E640II,UNKNOWN,0.0,0.0,0,0,0.0,0.0,No scientific literature found
+Magnesium silicates,E553,SAFE,0.1238,0.45,506,145,0.288,43.0,Low negative evidence
+Alpha-Amylase,E1100,DANGEROUS,0.4911,1.0,9937,5025,0.506,37.0,High negative evidence
+Hydrogenated poly-1-decene,E907,SAFE,0.0465,0.08,16,8,0.552,50.0,Low negative evidence
+Calcium stearoyl-2-lactylate,E482,SAFE,0.0639,0.13,40,12,0.313,50.0,Low negative evidence
+Sulphite ammonia caramel,E150D,SAFE,0.0501,0.07,13,8,0.635,50.0,Low negative evidence
+Carotenoids,E160,DANGEROUS,0.5282,1.0,22152,12471,0.563,47.0,High negative evidence
+Magnesium hydroxide carbonate,E504II,SAFE,0.0674,0.39,381,69,0.181,42.0,Low negative evidence
+Calcium inosinate,E633,WATCHLIST,0.2169,0.4,392,206,0.526,22.0,Moderate concerns (SSI: 21.7%)
+Ammonium acetate,E264,WATCHLIST,0.2682,1.0,3254,1179,0.363,42.0,Moderate concerns (SSI: 26.8%)
+Polyoxyethylene sorbitan monopalmitate,E434,SAFE,0.0474,0.12,36,19,0.548,66.0,Low negative evidence
+Lanolin,E913,SAFE,0.127,0.34,291,68,0.236,52.0,Low negative evidence
+Polyvinylpyrrolidone-vinyl acetate copolymer,E1208,SAFE,0.0235,0.08,18,4,0.258,55.0,Low negative evidence
+Desconocido,E364,SAFE,0.1052,0.23,133,64,0.481,82.0,Low negative evidence
+synthetic magnesium silicates,E553A,SAFE,0.0672,0.16,65,32,0.502,37.0,Low negative evidence
+Ferrous lactate,E585,SAFE,0.0358,0.14,50,21,0.422,50.0,Low negative evidence
+Sodium stearoyl fumarate,E485,SAFE,0.0529,0.14,46,14,0.318,57.0,Low negative evidence
+sodium thiosulfate,E539,WATCHLIST,0.2923,0.54,738,325,0.441,40.0,Moderate concerns (SSI: 29.2%)
+Pectin,E440A,DANGEROUS,0.3938,1.0,8879,3456,0.389,30.0,High negative evidence
+Bleached starch,E1403,SAFE,0.0614,0.19,95,34,0.361,45.0,Low negative evidence
+Ammonium phosphatides,E442,SAFE,0.0339,0.14,48,15,0.323,58.0,Low negative evidence
+Peonidin,E163E,SAFE,0.132,0.44,490,185,0.378,53.0,Low negative evidence
+Bone phosphate,E542,SAFE,0.0613,0.15,58,21,0.377,45.0,Low negative evidence
+Paprika extract,E160C,UNKNOWN,0.0107,0.02,9,3,0.373,20.0,Insufficient research (9 papers)
+Sodium adipate,E356,SAFE,0.039,0.15,57,17,0.309,53.0,Low negative evidence
+Ammonium sulphate,E517,DANGEROUS,0.5099,0.98,2414,1119,0.464,31.0,High negative evidence
+Tara gum,E417,SAFE,0.043,0.2,103,23,0.224,44.0,Low negative evidence
+Anoxomer,E323,SAFE,0.0633,0.18,79,31,0.394,70.0,Low negative evidence
+Sodium ascorbate,E301,WATCHLIST,0.2026,0.54,725,311,0.43,45.0,Moderate concerns (SSI: 20.3%)
+Disodium citrate,E331II,SAFE,0.008,0.04,10,1,0.18,33.0,Low negative evidence
+Riboflavin,E101,DANGEROUS,0.6699,1.0,8742,4764,0.545,47.0,High negative evidence
+Amaranth,E123,WATCHLIST,0.2912,0.83,1725,618,0.359,45.0,Moderate concerns (SSI: 29.1%)
+Glycerol esters of wood rosin,E445,SAFE,0.0588,0.16,64,26,0.41,48.0,Low negative evidence
+Mannitol,E421,DANGEROUS,0.5214,1.0,10314,5252,0.509,26.0,High negative evidence
+Ammonium carbonates,E503,DANGEROUS,0.3812,1.0,12151,4780,0.393,28.0,High negative evidence
+Aluminium sodium sulphate,E521,SAFE,0.017,0.12,37,7,0.215,62.0,Low negative evidence
+Ammonium alginate,E403,SAFE,0.0521,0.16,67,25,0.376,64.0,Low negative evidence
+Ammonium polyphosphate,E545,SAFE,0.0727,0.38,366,34,0.095,60.0,Low negative evidence
+Thaumatin,E957,SAFE,0.1058,0.48,570,191,0.336,43.0,Low negative evidence
+Monopotassium citrate,E332I,SAFE,0.0121,0.03,10,4,0.4,14.0,Low negative evidence
+Polyglycitol syrup,E964,SAFE,0.0136,0.08,15,5,0.352,54.0,Low negative evidence
+Acetylated distarch glycerol,E1423,SAFE,0.0193,0.07,11,3,0.303,67.0,Low negative evidence
+Dicalcium diphosphate,E540,SAFE,0.0518,0.12,36,17,0.494,47.0,Low negative evidence
+Hydroxy propyl distarch glycerine,E1441,UNKNOWN,0.0048,0.06,9,0,0.089,60.0,Insufficient research (9 papers)
+Pectins,E440,DANGEROUS,0.4003,1.0,5577,2496,0.448,32.0,High negative evidence
+Extracts of rosemary,E392,SAFE,0.0399,0.16,64,16,0.257,58.0,Low negative evidence
+E101a food additive,E101A,UNKNOWN,0.0394,0.04,7,8,1.179,50.0,Insufficient research (7 papers)
+Advantame,E969,SAFE,0.0563,0.13,42,18,0.442,61.0,Low negative evidence
+Monosodium tartrate,E335I,UNKNOWN,0.0773,0.04,9,8,0.919,27.0,Insufficient research (9 papers)
+Calcium benzoate,E213,SAFE,0.0716,0.22,122,44,0.361,75.0,Low negative evidence
+Dipotassium guanylate,E628,SAFE,0.0393,0.09,20,6,0.309,60.0,Low negative evidence
+Natamycin,E235,SAFE,0.1512,0.43,464,160,0.346,48.0,Low negative evidence
+Magnesium trisilicate,E553AII,SAFE,0.116,0.33,276,87,0.316,38.0,Low negative evidence
+Ethyl methyl cellulose,E465,SAFE,0.0571,0.13,41,18,0.449,63.0,Low negative evidence
+Metatartaric acid,E353,SAFE,0.0667,0.19,92,33,0.363,62.0,Low negative evidence
+Silicon dioxide,E551,WATCHLIST,0.2429,1.0,26555,7173,0.27,48.0,Moderate concerns (SSI: 24.3%)
+Triphosphates,E451,DANGEROUS,0.6981,1.0,4116,2621,0.637,30.0,High negative evidence
+Pelargonidin,E163D,SAFE,0.1952,0.48,587,277,0.474,47.0,Low negative evidence
+Vegetable carbon,E153,SAFE,0.0876,0.26,170,61,0.359,74.0,Low negative evidence
+Ponceau 6R,E126,SAFE,0.0901,0.26,170,70,0.415,66.0,Low negative evidence
+Litholrubine bk,E180,SAFE,0.0443,0.23,136,33,0.245,76.0,Low negative evidence
+Sodium orthophenyl phenol,E232,SAFE,0.0474,0.2,99,29,0.299,76.0,Low negative evidence
+Agar,E406,DANGEROUS,0.412,1.0,46657,19234,0.412,40.0,High negative evidence
+Desconocido,E389,SAFE,0.0931,0.24,142,55,0.388,88.0,Low negative evidence
+Ethyl cellulose,E462,SAFE,0.0802,0.47,556,83,0.151,40.0,Low negative evidence
+Triammonium citrate,E380,SAFE,0.0524,0.17,73,26,0.37,62.0,Low negative evidence
+potassium lactate,E326,SAFE,0.0368,0.26,175,38,0.222,39.0,Low negative evidence
+Boric acid,E284,WATCHLIST,0.3013,0.95,2250,670,0.298,42.0,Moderate concerns (SSI: 30.1%)
+Propane-1‚2-diol esters of fatty acids,E477,SAFE,0.0538,0.15,54,22,0.413,73.0,Low negative evidence
+Potassium gluconate,E577,SAFE,0.074,0.2,105,39,0.376,25.0,Low negative evidence
+Calcium ferrocyanide,E538,SAFE,0.099,0.19,88,35,0.401,32.0,Low negative evidence
+Azodicarbonamide,E927A,SAFE,0.0933,0.2,97,48,0.495,54.0,Low negative evidence
+Potassium hydrogen sulphate,E515II,SAFE,0.1439,0.38,358,153,0.428,34.0,Low negative evidence
+Sodium phosphates,E339,SAFE,0.0631,0.19,94,29,0.316,67.0,Low negative evidence
+Fatty acid methyl ester,E911,SAFE,0.1775,0.6,908,373,0.412,37.0,Low negative evidence
+D-Maltitol,E965I,UNKNOWN,0.0,0.01,1,1,1.04,20.0,Insufficient research (1 papers)
+Hydrogen,E949,WATCHLIST,0.3273,1.0,504075,194139,0.385,35.0,Moderate concerns (SSI: 32.7%)
+Calcium disodium ethylenediaminetetraacetate,E385,SAFE,0.0534,0.16,67,26,0.391,52.0,Low negative evidence
+Ascorbyl stearate,E304II,UNKNOWN,0.0584,0.04,7,5,0.814,33.0,Insufficient research (7 papers)
+Orcein,E182,SAFE,0.1637,0.41,425,132,0.311,51.0,Low negative evidence
+Propyl para-hydroxybenzoate,E216,SAFE,0.0364,0.21,106,25,0.24,60.0,Low negative evidence
+L(+)-tartaric acid,E334,SAFE,0.0932,0.36,324,106,0.327,55.0,Low negative evidence
+Potassium silicate,E560,SAFE,0.0704,0.25,151,37,0.251,39.0,Low negative evidence
+Biphenyl,E230,DANGEROUS,0.3827,1.0,15416,6891,0.447,30.0,High negative evidence
+Azodicarbonamide and Carbamide,E927,SAFE,0.0383,0.11,28,10,0.391,56.0,Low negative evidence
+concentrated tocopherol,E307B,DANGEROUS,0.441,1.0,3935,2541,0.646,37.0,High negative evidence
+Cellulose,E460,DANGEROUS,0.4778,1.0,80360,29295,0.365,31.0,High negative evidence
+Rebaudioside from multiple gene donors expressed in Yarrowia lipolityca,E960B,UNKNOWN,0.0,0.0,0,0,0.0,0.0,No scientific literature found
+Propane,E944,WATCHLIST,0.2388,1.0,7350,2189,0.298,36.0,Moderate concerns (SSI: 23.9%)
+Plant carotenes,E160AII,DANGEROUS,0.5195,1.0,18871,12300,0.652,45.0,High negative evidence
+Disodium inosinate,E631,SAFE,0.0676,0.11,33,20,0.626,53.0,Low negative evidence
+Mineral oil medium viscosity,E905E,SAFE,0.0447,0.09,19,7,0.395,67.0,Low negative evidence
+Sodium propyl para-hydroxybenzoate,E217,SAFE,0.0965,0.23,137,62,0.454,48.0,Low negative evidence
+Chlorine dioxide,E926,WATCHLIST,0.2492,0.72,1301,506,0.389,48.0,Moderate concerns (SSI: 24.9%)
+Dimethyl dicarbonate,E242,SAFE,0.0846,0.22,120,50,0.418,60.0,Low negative evidence
+Calcium hydrogen malate,E352II,SAFE,0.0768,0.2,98,48,0.497,9.0,Low negative evidence
+Processed eucheuma seaweed,E407A,UNKNOWN,0.032,0.04,7,4,0.7,40.0,Insufficient research (7 papers)
+Acetylated distarch phosphate,E1414,SAFE,0.0671,0.11,29,14,0.498,47.0,Low negative evidence
+Calcium sorbate,E203,SAFE,0.0912,0.25,156,68,0.439,59.0,Low negative evidence
+Sodium sulphite,E221,SAFE,0.0841,0.29,204,67,0.33,52.0,Low negative evidence
+Talc,E553B,WATCHLIST,0.3209,0.65,1045,345,0.33,68.0,Moderate concerns (SSI: 32.1%)
+Propylene Glycol,E1520,DANGEROUS,0.3622,0.98,2407,852,0.354,35.0,High negative evidence
+isomalt,E953,SAFE,0.0597,0.17,69,21,0.308,61.0,Low negative evidence
+Anionic methacrylate copolymer,E1207,SAFE,0.0214,0.07,11,3,0.331,57.0,Low negative evidence
+Glutamic acid,E620,DANGEROUS,0.4612,1.0,34160,19437,0.569,21.0,High negative evidence
+Sorbitan monooleate,E494,SAFE,0.071,0.28,197,51,0.262,36.0,Low negative evidence
+Erythrosine,E127,SAFE,0.1965,0.53,704,276,0.392,42.0,Low negative evidence
+Hydrochloric acid,E507,WATCHLIST,0.2914,1.0,9719,2475,0.255,36.0,Moderate concerns (SSI: 29.1%)
+Formaldehyde,E240,DANGEROUS,0.483,1.0,22926,9123,0.398,41.0,High negative evidence
+Sodium hydrogen malate,E350II,SAFE,0.1023,0.23,138,74,0.537,17.0,Low negative evidence
+Lecithin citrate,E344,SAFE,0.0643,0.2,102,33,0.326,49.0,Low negative evidence
+Carrageenan,E407,WATCHLIST,0.3484,1.0,4387,1319,0.301,17.0,Moderate concerns (SSI: 34.8%)
+calcium lactate,E327,SAFE,0.1008,0.39,371,118,0.32,43.0,Low negative evidence
+Leucine,E641,DANGEROUS,0.6932,1.0,53009,34111,0.644,27.0,High negative evidence
+Annatto,E160B,SAFE,0.0511,0.21,110,33,0.3,35.0,Low negative evidence
+Magnesium diglutamate,E625,SAFE,0.0422,0.11,33,13,0.406,71.0,Low negative evidence
+Sodium gluconate,E576,SAFE,0.1057,0.3,227,94,0.416,34.0,Low negative evidence
+Basic methacrylate copolymer,E1205,SAFE,0.0159,0.07,12,2,0.229,43.0,Low negative evidence
+Hydroxypropyl distarch phosphate,E1442,SAFE,0.0361,0.11,31,9,0.294,43.0,Low negative evidence
+Polyglycerol polyricinoleate,E476,SAFE,0.0619,0.2,98,25,0.257,44.0,Low negative evidence
+Trisodium phosphate,E339III,SAFE,0.0145,0.27,176,18,0.106,32.0,Low negative evidence
+Orange GGN,E111,SAFE,0.0974,0.29,205,77,0.378,74.0,Low negative evidence
+Spiramycin,E710,WATCHLIST,0.2312,0.49,597,201,0.338,35.0,Moderate concerns (SSI: 23.1%)
+Sulphuric acid,E513,SAFE,0.1784,0.76,1436,317,0.221,46.0,Low negative evidence
+ammonium malate,E349,SAFE,0.0698,0.18,82,28,0.349,58.0,Low negative evidence
+Tragacanth,E413,SAFE,0.1195,0.33,273,75,0.275,41.0,Low negative evidence
+Pullulan,E1204,WATCHLIST,0.2276,0.68,1156,443,0.384,37.0,Moderate concerns (SSI: 22.8%)
+Monopotassium glutamate,E622,SAFE,0.0425,0.15,59,15,0.266,52.0,Low negative evidence
+Helium,E939,SAFE,0.0811,1.0,11065,1023,0.093,48.0,Low negative evidence
+Octyl gallate,E311,SAFE,0.1285,0.28,200,93,0.469,48.0,Low negative evidence
+Methyl glucoside-coconut oil ester,E489,WATCHLIST,0.2375,0.76,1458,572,0.393,27.0,Moderate concerns (SSI: 23.7%)
+Sodium nitrate,E251,DANGEROUS,0.3993,0.68,1159,749,0.647,35.0,High negative evidence
+Dicalcium phosphate,E341II,SAFE,0.0925,0.47,560,133,0.239,27.0,Low negative evidence
+Neutral methacrylate copolymer,E1206,SAFE,0.023,0.07,11,5,0.455,100.0,Low negative evidence
+Mineral oil high viscosity,E905D,WATCHLIST,0.3179,1.0,4279,1265,0.296,35.0,Moderate concerns (SSI: 31.8%)
+Zinc acetate,E650,SAFE,0.1144,0.59,865,183,0.212,36.0,Low negative evidence
+Sodium ferrocyanide,E535,SAFE,0.0961,0.19,92,45,0.491,49.0,Low negative evidence
+white and yellow beeswax,E901,SAFE,0.0322,0.12,39,10,0.259,46.0,Low negative evidence
+Oligoesters of sucrose type I,E473A,UNKNOWN,0.0024,0.01,1,1,1.0,100.0,Insufficient research (1 papers)
+Dehydroacetic acid,E265,SAFE,0.0817,0.29,206,52,0.256,59.0,Low negative evidence
+Polyoxyethylene sorbitan monostearate,E435,SAFE,0.0481,0.16,66,22,0.347,60.0,Low negative evidence
+Copper complexes of chlorophyllins,E141II,UNKNOWN,0.0224,0.01,1,2,2.5,0.0,Insufficient research (1 papers)
+ammonium persulfate,E923,SAFE,0.0929,0.45,504,107,0.213,55.0,Low negative evidence
+Partially hydrolyzed lecithin,E322II,SAFE,0.0359,0.04,10,5,0.54,42.0,Low negative evidence
+Monopotassium phosphate,E340I,SAFE,0.0528,0.14,46,20,0.45,53.0,Low negative evidence
+Alitame,E956,SAFE,0.0191,0.14,49,12,0.251,64.0,Low negative evidence
+Cross-linked sodium carboxymethylcellulose,E468,SAFE,0.0499,0.15,53,16,0.302,59.0,Low negative evidence
+Calcium formiate,E238,SAFE,0.0651,0.19,92,36,0.395,61.0,Low negative evidence
+Stearyl citrate,E484,SAFE,0.0761,0.14,49,24,0.501,72.0,Low negative evidence
+Monostarch phosphate,E1410,SAFE,0.043,0.07,12,7,0.609,62.0,Low negative evidence
+DL-Alpha-tocopherol,E307C,SAFE,0.197,0.29,213,134,0.63,23.0,Low negative evidence
+Chlorophylls,E140I,DANGEROUS,0.3931,1.0,3138,1372,0.437,33.0,High negative evidence
+Enzymatically produced steviol glycosides,E960C,SAFE,0.0289,0.08,15,11,0.737,50.0,Low negative evidence
+Sodium acetates,E262,SAFE,0.065,0.19,89,32,0.36,63.0,Low negative evidence
+Polyoxyethylene sorbitan monolaurate,E432,SAFE,0.0444,0.17,76,21,0.283,60.0,Low negative evidence
+Polydextrose,E1200,SAFE,0.0849,0.29,206,89,0.434,52.0,Low negative evidence
+Titanium dioxide,E171,WATCHLIST,0.2897,1.0,17997,5647,0.314,43.0,Moderate concerns (SSI: 29.0%)
+Sucrose esters of fatty acids,E473,SAFE,0.0397,0.15,54,15,0.285,68.0,Low negative evidence
+Aluminium stearate,E573,SAFE,0.0385,0.13,40,12,0.3,62.0,Low negative evidence
+Potassium carbonate,E501I,SAFE,0.0869,0.53,707,146,0.207,35.0,Low negative evidence
+Alanin,E369,SAFE,0.1626,0.28,200,97,0.487,45.0,Low negative evidence
+Algal carotenes,E160AIV,WATCHLIST,0.2538,0.53,711,380,0.535,31.0,Moderate concerns (SSI: 25.4%)
+ethyl acetate,E1504,WATCHLIST,0.3082,1.0,8209,2858,0.348,40.0,Moderate concerns (SSI: 30.8%)
+saffron,E164,SAFE,0.1764,0.59,876,264,0.301,49.0,Low negative evidence
+Acetic acid,E260,WATCHLIST,0.3484,1.0,35969,13778,0.383,30.0,Moderate concerns (SSI: 34.8%)
+Polyoxyethylene (8) stearate,E430,SAFE,0.0586,0.13,44,19,0.435,62.0,Low negative evidence
+Calcium dihydrogen diphosphate,E450VII,WATCHLIST,0.3079,0.48,572,321,0.562,22.0,Moderate concerns (SSI: 30.8%)
+Magnesium oxide,E530,SAFE,0.1936,1.0,2506,462,0.185,47.0,Low negative evidence
+Triethyl citrate,E1505,SAFE,0.0402,0.19,90,17,0.195,39.0,Low negative evidence
+Thiodipropionic acid,E388,SAFE,0.051,0.17,74,36,0.494,56.0,Low negative evidence
+Karaya-gum,E416,SAFE,0.1003,0.22,118,44,0.376,62.0,Low negative evidence
+Calcium sulphate,E516,SAFE,0.0522,0.29,205,38,0.188,44.0,Low negative evidence
+Sodium hydrogen carbonate,E500II,SAFE,0.0649,0.21,110,40,0.372,44.0,Low negative evidence
+Potassium adipate,E357,SAFE,0.0875,0.2,104,37,0.356,51.0,Low negative evidence
+Carbon dioxide,E290,DANGEROUS,0.4082,1.0,90483,34609,0.382,40.0,High negative evidence
+Sodium sorbate,E201,SAFE,0.0876,0.23,138,64,0.466,64.0,Low negative evidence
+Microcrystalline wax,E905CI,SAFE,0.0109,0.09,19,2,0.118,50.0,Low negative evidence
+Monosodium phosphate,E339I,SAFE,0.0613,0.2,99,34,0.345,15.0,Low negative evidence
+maltitol,E965,SAFE,0.1296,0.32,251,107,0.428,52.0,Low negative evidence
+Sodium metabisulphite,E223,SAFE,0.0761,0.26,171,55,0.327,62.0,Low negative evidence
+Acetylated oxidised starch,E1451,SAFE,0.1023,0.23,132,70,0.538,35.0,Low negative evidence
+Aspartame,E951,DANGEROUS,0.3801,0.65,1065,573,0.539,60.0,High negative evidence
+Salt of aspartame-acesulfame,E962,SAFE,0.03,0.08,16,7,0.443,62.0,Low negative evidence
+Hydroxy propyl distarch glycerol,E1443,UNKNOWN,0.0133,0.04,8,3,0.393,57.0,Insufficient research (8 papers)
+Benzoin resin,E906,SAFE,0.0133,0.08,16,2,0.165,80.0,Low negative evidence
+Microcrystalline cellulose,E460I,SAFE,0.1967,0.8,1584,433,0.274,32.0,Low negative evidence
+Calcium lactobionate,E399,SAFE,0.0576,0.18,82,28,0.348,65.0,Low negative evidence
+D-Alpha-tocopherol,E307A,SAFE,0.19,0.26,163,107,0.661,34.0,Low negative evidence
+Steviol glycosides from Stevia,E960A,SAFE,0.1398,0.32,255,115,0.453,38.0,Low negative evidence
+Annatto norbixin,E160BII,UNKNOWN,0.0071,0.01,2,0,0.375,50.0,Insufficient research (2 papers)
+Argon,E938,SAFE,0.082,1.0,10985,1158,0.105,43.0,Low negative evidence
+Desconocido,E390,SAFE,0.1058,0.23,134,60,0.455,83.0,Low negative evidence
+Acetylated starch,E1421,SAFE,0.0722,0.19,91,32,0.353,48.0,Low negative evidence
+Potassium polyphosphate,E452II,SAFE,0.1754,0.36,323,153,0.476,27.0,Low negative evidence
+Magnesium chloride,E511,DANGEROUS,0.4094,1.0,2777,1208,0.435,25.0,High negative evidence
+E411 food additive,E411,SAFE,0.0602,0.15,60,25,0.42,77.0,Low negative evidence
+Ammonium Pectate,E440AIV,SAFE,0.0499,0.12,34,17,0.51,33.0,Low negative evidence
+Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids,E472E,UNKNOWN,0.0057,0.02,3,2,0.667,100.0,Insufficient research (3 papers)
+Pentasodium triphosphate,E451I,UNKNOWN,0.0217,0.04,9,1,0.192,25.0,Insufficient research (9 papers)
+Ethyl ester of beta-apo-8'-carotenic acid (C 30),E160F,UNKNOWN,0.0,0.0,0,0,0.0,0.0,No scientific literature found
+Ethyl gallate,E313,SAFE,0.0709,0.26,173,52,0.306,54.0,Low negative evidence
+Steviol glycosides,E960,SAFE,0.1943,0.36,320,155,0.485,53.0,Low negative evidence
+Cassia gum,E427,SAFE,0.0474,0.17,72,20,0.291,64.0,Low negative evidence
+Ammonium hydroxide,E527,SAFE,0.1526,0.68,1164,315,0.271,46.0,Low negative evidence
+Yellow 2G,E107,SAFE,0.1264,0.32,257,116,0.453,67.0,Low negative evidence
+Calcium salts of fatty acids,E470AIII,SAFE,0.024,0.05,45,19,0.433,3.0,Low negative evidence
+Trisodium diphosphate,E450II,SAFE,0.0286,0.11,28,11,0.394,37.0,Low negative evidence
+Calcium polyphosphate,E544,SAFE,0.0405,0.19,91,26,0.291,28.0,Low negative evidence
+Alpha-tocopherol,E307,DANGEROUS,0.448,1.0,8374,5274,0.63,36.0,High negative evidence
+Acid-treated modified starch,E1401,SAFE,0.0192,0.09,19,5,0.27,56.0,Low negative evidence
+Sucrose acetate isobutyrate,E444,SAFE,0.0689,0.16,64,33,0.519,56.0,Low negative evidence
+Carbamide,E927B,SAFE,0.0673,0.5,621,91,0.148,51.0,Low negative evidence
+Distarch glycerine,E1430,UNKNOWN,0.0106,0.06,9,2,0.262,62.0,Insufficient research (9 papers)
+Potassium citrates,E332,DANGEROUS,0.3505,0.78,1516,602,0.397,30.0,High negative evidence
+Sodium hydrogen sulphate,E514II,UNKNOWN,0.0042,0.03,4,1,0.25,100.0,Insufficient research (4 papers)
+Modified Starch,E14XX,SAFE,0.1491,0.54,724,121,0.168,33.0,Low negative evidence
+Indigotine,E132,SAFE,0.0937,0.3,219,80,0.366,66.0,Low negative evidence
+potassium iodate,E917,SAFE,0.0689,0.25,161,61,0.38,61.0,Low negative evidence
+ammonium fumarate,E368,SAFE,0.0539,0.16,61,23,0.378,68.0,Low negative evidence
+non-amidated pectines,E440I,UNKNOWN,0.0,0.0,0,0,0.0,0.0,No scientific literature found
+Tetrapotassium diphosphate,E450V,UNKNOWN,0.0012,0.04,9,0,0.076,40.0,Insufficient research (9 papers)
+Isopropyl citrates,E384,SAFE,0.0462,0.15,56,21,0.387,62.0,Low negative evidence
+Calcium sulphite,E226,SAFE,0.0439,0.18,84,24,0.288,69.0,Low negative evidence
+Nitrous oxide,E942,DANGEROUS,0.3595,1.0,12703,3832,0.302,53.0,High negative evidence
+Propionic acid,E280,DANGEROUS,0.3606,1.0,6533,2878,0.441,21.0,High negative evidence
+Sodium salts of fatty acids,E470AI,UNKNOWN,0.0575,0.02,7,3,0.493,25.0,Insufficient research (7 papers)
+Dimagnesium phosphate,E343II,UNKNOWN,0.0071,0.04,8,2,0.3,33.0,Insufficient research (8 papers)
+Ethyl maltol,E637,SAFE,0.0885,0.17,76,31,0.408,56.0,Low negative evidence
+Sodium tartrates,E335,SAFE,0.162,0.53,713,248,0.349,39.0,Low negative evidence
+Carnauba wax,E903,SAFE,0.0453,0.27,178,21,0.119,37.0,Low negative evidence
+L-cysteine hydrochloride monohydrate,E921,SAFE,0.0098,0.1,24,3,0.125,50.0,Low negative evidence
+chloropentafluoroethane,E945,SAFE,0.0276,0.09,20,8,0.411,67.0,Low negative evidence
+Konjac glucomannan,E425II,SAFE,0.1253,0.45,514,96,0.187,28.0,Low negative evidence
+Alkaline sodium aluminium phosphate,E541II,UNKNOWN,0.0034,0.01,2,1,0.5,0.0,Insufficient research (2 papers)
+Citric acid,E330,DANGEROUS,0.5037,1.0,19561,9335,0.477,36.0,High negative evidence
+Nisin,E234,WATCHLIST,0.2745,0.95,2255,873,0.387,33.0,Moderate concerns (SSI: 27.4%)
+Hydroxypropyl methyl cellulose,E464,SAFE,0.039,0.24,142,25,0.179,38.0,Low negative evidence
+pectin amide,E440B,UNKNOWN,0.0,0.01,1,1,1.0,100.0,Insufficient research (1 papers)
+sodium erythorbate,E316,SAFE,0.0802,0.23,131,49,0.379,38.0,Low negative evidence
+hemimorphite,E557,SAFE,0.0406,0.15,57,16,0.283,75.0,Low negative evidence
+Ethoxylated Mono- and Di-Glycerides,E488,SAFE,0.0561,0.14,48,21,0.452,76.0,Low negative evidence
+Alpha-Cyclodextrine,E457,SAFE,0.0604,0.15,53,21,0.411,50.0,Low negative evidence
+Tripotassium phosphate,E340III,UNKNOWN,-0.0001,0.02,8,0,0.075,0.0,Insufficient research (8 papers)
+Indanthrene blue RS,E130,SAFE,0.0685,0.24,143,50,0.354,63.0,Low negative evidence
+Sorbitol syrup,E420II,UNKNOWN,0.0,0.01,1,0,0.0,20.0,Insufficient research (1 papers)
+calcium propionate,E282,SAFE,0.0949,0.29,205,79,0.388,34.0,Low negative evidence
+Dichlorodifluoromethane,E940,SAFE,0.0789,0.21,111,37,0.336,42.0,Low negative evidence
+Tartaric acid esters of mono- and diglycerides of fatty acids,E472D,UNKNOWN,0.0069,0.02,2,2,1.0,100.0,Insufficient research (2 papers)
+Ammonium polyphosphate,E452V,SAFE,0.0524,0.36,319,23,0.072,40.0,Low negative evidence
+Mono- and diglycerides of fatty acids,E471,SAFE,0.0649,0.15,59,23,0.407,46.0,Low negative evidence
+Hexamethylene tetramine,E239,SAFE,0.0609,0.25,151,43,0.291,68.0,Low negative evidence
+E571,E571,SAFE,0.0286,0.11,28,9,0.321,80.0,Low negative evidence
+Enzymatically hydrolysed carboxymethylcellulose,E469,SAFE,0.0566,0.17,72,27,0.386,65.0,Low negative evidence
+Cholic acid,E1000,DANGEROUS,0.6391,0.9,2039,1178,0.578,27.0,High negative evidence
+Aluminium,E173,WATCHLIST,0.2549,1.0,10055,2619,0.261,49.0,Moderate concerns (SSI: 25.5%)
+Sodium tetraborate (borax),E285,SAFE,0.0654,0.2,98,33,0.346,70.0,Low negative evidence
+Riboflavin,E101I,DANGEROUS,0.6887,1.0,8497,4670,0.55,46.0,High negative evidence
+Polyvinyl alcohol-polyethylene glycol-graft-co-polymer,E1209,SAFE,0.0063,0.08,15,1,0.108,67.0,Low negative evidence
+Ammonium carbonate,E503I,SAFE,0.0595,0.31,244,47,0.193,30.0,Low negative evidence
+Potassium hydrogen carbonate,E501II,SAFE,0.0135,0.08,16,4,0.281,80.0,Low negative evidence
+Brilliant blue FCF,E133,SAFE,0.0777,0.33,277,74,0.268,66.0,Low negative evidence
+Potassium acetate,E261,SAFE,0.1211,0.45,517,144,0.28,24.0,Low negative evidence
+Polyoxyethylene (40) stearate,E431,SAFE,0.0458,0.15,53,15,0.292,65.0,Low negative evidence
+Synthetic wax,E905,SAFE,0.0319,0.12,34,9,0.288,43.0,Low negative evidence
+Astaxanthin,E161J,DANGEROUS,0.3767,0.93,2148,965,0.45,27.0,High negative evidence
+Calcium citrates,E333,DANGEROUS,0.526,0.94,2228,1102,0.495,37.0,High negative evidence
+Acetylated starch,E1420,SAFE,0.0797,0.19,93,35,0.379,58.0,Low negative evidence
+Potassium salts of fatty acids,E470AII,SAFE,0.0162,0.03,10,4,0.48,17.0,Low negative evidence
+Bentonite,E558,WATCHLIST,0.2154,1.0,4338,911,0.21,39.0,Moderate concerns (SSI: 21.5%)
+sodium dodecyl sulfate,E487,DANGEROUS,0.6161,1.0,31191,14975,0.48,31.0,High negative evidence
+Candelilla wax,E902,SAFE,0.0339,0.19,88,9,0.103,47.0,Low negative evidence
+Gamma-Cyclodextrine,E458,SAFE,0.0512,0.14,48,24,0.504,62.0,Low negative evidence
+Lactitol,E966,SAFE,0.1078,0.25,154,77,0.504,51.0,Low negative evidence
+1‚4-Heptonolactone,E370,SAFE,0.0584,0.17,72,24,0.342,71.0,Low negative evidence
+Sodium carbonate,E500I,WATCHLIST,0.2097,0.83,1722,474,0.276,41.0,Moderate concerns (SSI: 21.0%)
+Dimethyl polysiloxane,E900A,SAFE,0.0582,0.15,58,16,0.279,62.0,Low negative evidence
+Potassium nitrate,E252,SAFE,0.1784,0.58,831,302,0.364,49.0,Low negative evidence
+Calcium carbonates,E170,SAFE,0.0872,0.35,315,89,0.283,63.0,Low negative evidence
+Carbomer,E1210,SAFE,0.033,0.21,115,18,0.159,55.0,Low negative evidence
+Starch sodium octenyl succinate,E1450,SAFE,0.0389,0.08,18,8,0.472,70.0,Low negative evidence
+Nicotinic acid,E375,DANGEROUS,0.8681,1.0,5987,2363,0.395,43.0,High negative evidence
+Copper complexes of chlorophylls,E141I,UNKNOWN,0.0129,0.01,3,2,0.833,0.0,Insufficient research (3 papers)
+Potassium propionate,E283,SAFE,0.0756,0.19,90,38,0.427,60.0,Low negative evidence
+E638,E638,SAFE,0.041,0.11,31,10,0.332,64.0,Low negative evidence
+Malic acid,E296,DANGEROUS,0.4457,1.0,4196,2052,0.489,29.0,High negative evidence
+Gold,E175,WATCHLIST,0.2146,1.0,107118,25749,0.24,60.0,Moderate concerns (SSI: 21.5%)
+Dextrin,E1400,WATCHLIST,0.2408,0.65,1054,434,0.412,29.0,Moderate concerns (SSI: 24.1%)
+ammonium adipate,E359,SAFE,0.0522,0.16,65,23,0.358,73.0,Low negative evidence
+Butane,E943A,SAFE,0.1776,1.0,2914,682,0.234,42.0,Low negative evidence
+Succinylated monoglycerides,E472G,UNKNOWN,0.024,0.03,6,5,0.833,67.0,Insufficient research (6 papers)
+Monocalcium phosphate,E341I,SAFE,0.0522,0.28,190,45,0.24,9.0,Low negative evidence
+mineral oil,E905A,DANGEROUS,0.3628,0.92,2104,717,0.341,32.0,High negative evidence
+Dimethylpolysiloxane and Methylphenylpolysiloxane,E900,SAFE,0.0173,0.1,26,6,0.261,71.0,Low negative evidence
+Brown FK,E154,SAFE,0.088,0.25,162,61,0.377,70.0,Low negative evidence
+Glyceryl diacetate,E1517,SAFE,0.0234,0.1,27,5,0.194,33.0,Low negative evidence
+Chlorophyllins,E140II,SAFE,0.0911,0.11,29,14,0.512,38.0,Low negative evidence
+Dipotassium phosphate,E340II,SAFE,0.0624,0.12,34,16,0.472,50.0,Low negative evidence
+Sodium nitrite,E250,DANGEROUS,0.6116,0.91,2072,1170,0.565,24.0,High negative evidence
+Lecithin,E322I,DANGEROUS,0.7819,1.0,4922,2191,0.445,43.0,High negative evidence
+Calcium tartrate,E354,SAFE,0.0817,0.2,98,39,0.401,53.0,Low negative evidence
+Iron oxides and iron hydroxides,E172,SAFE,0.1868,0.57,815,318,0.391,59.0,Low negative evidence
+Nitrogen oxides,E918,WATCHLIST,0.3385,1.0,7255,2932,0.404,46.0,Moderate concerns (SSI: 33.8%)
+Calcium fumarate,E367,SAFE,0.0627,0.19,94,38,0.413,56.0,Low negative evidence
+Sodium calcium polyphosphate,E452III,SAFE,0.0867,0.26,172,61,0.359,42.0,Low negative evidence
+Potassium tartrates,E336,SAFE,0.1678,0.49,593,203,0.344,33.0,Low negative evidence
+Gelatine,E428,SAFE,0.1503,0.61,945,248,0.263,46.0,Low negative evidence
+Ethyl p-hydroxybenzoate,E214,SAFE,0.1183,0.26,167,82,0.492,64.0,Low negative evidence
+Petunidin,E163F,SAFE,0.1033,0.37,337,124,0.368,56.0,Low negative evidence
+Annatto bixin,E160BI,SAFE,0.0486,0.14,47,18,0.403,31.0,Low negative evidence
+Propyl gallate,E310,WATCHLIST,0.3135,0.55,752,443,0.59,31.0,Moderate concerns (SSI: 31.3%)
+Magnesium hydroxide,E528,SAFE,0.1101,0.58,832,183,0.22,52.0,Low negative evidence
+Citric acid esters of mono- and diglycerides of fatty acids,E472C,UNKNOWN,0.0042,0.01,3,1,0.333,0.0,Insufficient research (3 papers)
+Ethanol,E1510,DANGEROUS,0.4063,1.0,98314,42628,0.434,38.0,High negative evidence
+Gamme-tocopherol,E308,SAFE,0.0613,0.17,75,27,0.366,79.0,Low negative evidence
+Sodium bisulphite,E222,SAFE,0.1488,0.28,195,109,0.562,64.0,Low negative evidence
+Sunset yellow FCF,E110,SAFE,0.0935,0.36,323,104,0.322,60.0,Low negative evidence
+Glucose oxidase,E1102,DANGEROUS,0.3883,1.0,6503,3128,0.481,51.0,High negative evidence
+Sodium malate,E350I,UNKNOWN,0.0057,0.02,8,1,0.188,0.0,Insufficient research (8 papers)
+octafluorocyclobutane,E946,SAFE,0.0245,0.13,43,11,0.275,42.0,Low negative evidence
+Glycine and its sodium salt,E640,WATCHLIST,0.3239,0.72,1301,672,0.517,24.0,Moderate concerns (SSI: 32.4%)
+Lutein,E161B,DANGEROUS,0.3954,1.0,3822,2083,0.545,56.0,High negative evidence
+Sodium methyl p-hydroxybenzoate,E219,SAFE,0.0732,0.24,139,53,0.386,68.0,Low negative evidence
+Calcium Disulphite,E225,SAFE,0.0678,0.21,106,41,0.392,74.0,Low negative evidence
+Tagatose,E963,SAFE,0.1929,0.45,508,294,0.58,35.0,Low negative evidence
+Gum Guaicum,E241,SAFE,0.056,0.2,102,28,0.278,66.0,Low negative evidence
+Paraffin wax,E905CII,SAFE,0.1662,0.59,863,271,0.314,56.0,Low negative evidence
+Magnesium carbonates,E504,SAFE,0.0632,0.19,93,30,0.325,48.0,Low negative evidence
+Choline salt,E1001,SAFE,0.0429,0.12,35,12,0.357,44.0,Low negative evidence
+Calcium alginate,E404,WATCHLIST,0.228,0.75,1394,441,0.317,40.0,Moderate concerns (SSI: 22.8%)
+Tetrasodium diphosphate,E450III,UNKNOWN,0.006,0.02,4,1,0.312,25.0,Insufficient research (4 papers)
+Dodecyl gallate,E312,SAFE,0.0598,0.21,109,34,0.32,60.0,Low negative evidence
+Enzyme treated starch,E1405,WATCHLIST,0.2648,0.59,863,450,0.522,25.0,Moderate concerns (SSI: 26.5%)
+Ponceau 4r,E124,SAFE,0.1032,0.37,342,108,0.317,57.0,Low negative evidence
+Monosodium glutamate,E621,DANGEROUS,0.3537,0.71,1274,618,0.485,27.0,High negative evidence
+Caustic sulphite caramel,E150B,UNKNOWN,0.0,0.0,0,0,0.0,0.0,No scientific literature found
+Calcium malate,E352I,SAFE,0.0046,0.03,15,4,0.33,0.0,Low negative evidence
+Ethoxyquin,E324,DANGEROUS,0.3933,0.38,355,247,0.698,20.0,High negative evidence
+Sulphur dioxide,E220,SAFE,0.1808,0.6,887,259,0.292,72.0,Low negative evidence
+Calcium chloride,E509,DANGEROUS,0.403,1.0,6704,2262,0.337,21.0,High negative evidence
+Erythorbic acid,E315,SAFE,0.0965,0.24,148,71,0.481,59.0,Low negative evidence
+E642,E642,SAFE,0.0385,0.11,29,8,0.297,61.0,Low negative evidence
+Oxidised starch,E1404,SAFE,0.0409,0.08,18,8,0.451,50.0,Low negative evidence
+Desconocido,E386,SAFE,0.0834,0.23,129,55,0.429,88.0,Low negative evidence
+Arabinogalactan,E409,WATCHLIST,0.2962,0.87,1891,853,0.451,34.0,Moderate concerns (SSI: 29.6%)
+Allura red,E129,SAFE,0.1252,0.4,402,132,0.331,59.0,Low negative evidence
+Citranaxanthin,E161I,UNKNOWN,0.0013,0.02,8,0,0.117,0.0,Insufficient research (8 papers)
+Magnesium lactate,E329,SAFE,0.0631,0.18,84,32,0.387,69.0,Low negative evidence
+Polyethylene glycol,E1521,WATCHLIST,0.3352,1.0,14167,4823,0.34,37.0,Moderate concerns (SSI: 33.5%)
+D-sorbitol,E420I,SAFE,0.1512,0.45,499,218,0.439,35.0,Low negative evidence
+Sodium tripolyphosphate,E452VI,SAFE,0.0807,0.44,485,88,0.182,26.0,Low negative evidence
+Potassium persulfate,E922,SAFE,0.1148,0.44,484,130,0.269,58.0,Low negative evidence
+Acetic acid esters of mono- and diglycerides of fatty acids,E472A,UNKNOWN,0.0659,0.05,7,4,0.625,75.0,Insufficient research (7 papers)
+Glycolipids,E246,DANGEROUS,0.5456,1.0,11147,5952,0.534,36.0,High negative evidence
+Mineral oil medium and low viscosity class III,E905G,UNKNOWN,0.0024,0.01,1,1,1.0,100.0,Insufficient research (1 papers)
+Oxidised polyethylene wax,E914,SAFE,0.0477,0.16,67,17,0.256,31.0,Low negative evidence
+Sodium/potassium/calcium and magnesium salts of fatty acids,E470,SAFE,0.0499,0.11,30,10,0.356,67.0,Low negative evidence
+Fatty acids,E570,DANGEROUS,0.4843,1.0,143716,73990,0.515,31.0,High negative evidence
+Polyoxyethylene sorbitan monooleate,E433,SAFE,0.0544,0.2,97,31,0.325,66.0,Low negative evidence
+Chlorine,E925,DANGEROUS,0.3957,1.0,23658,9397,0.397,40.0,High negative evidence
+Calcium acetate,E263,SAFE,0.1134,0.36,318,109,0.344,49.0,Low negative evidence
+Nitrogen,E941,WATCHLIST,0.3367,1.0,244513,89014,0.364,34.0,Moderate concerns (SSI: 33.7%)
+Riboflavin-5′-phosphate,E101II,SAFE,0.1593,0.21,108,50,0.47,25.0,Low negative evidence
+Patent blue v,E131,SAFE,0.1033,0.31,245,87,0.357,67.0,Low negative evidence
+Calcium 5'-ribonucleotide,E634,SAFE,0.0301,0.12,34,14,0.43,42.0,Low negative evidence
+Ammonium hydrogen carbonate,E503II,SAFE,0.0243,0.12,35,9,0.257,50.0,Low negative evidence
+Tricalcium phosphate,E341III,SAFE,0.1676,1.0,2890,674,0.233,34.0,Low negative evidence
+Sodium citrates,E331,WATCHLIST,0.348,1.0,5476,2020,0.369,39.0,Moderate concerns (SSI: 34.8%)
+Nitrosyl chloride,E919,SAFE,0.0308,0.16,66,15,0.241,76.0,Low negative evidence
+Amidated pectin,E440II,SAFE,0.0287,0.1,27,7,0.275,42.0,Low negative evidence
+Sodium aluminium silicate,E554,SAFE,0.0528,0.12,36,16,0.465,52.0,Low negative evidence
+Sodium sesquicarbonate,E500III,SAFE,0.0116,0.04,25,7,0.311,5.0,Low negative evidence
+Sodium/potassium and calcium salts of fatty acids,E470A,UNKNOWN,0.032,0.02,6,6,1.054,25.0,Insufficient research (6 papers)
+Dicalcium diphosphate,E450VI,SAFE,0.0098,0.05,12,4,0.394,25.0,Low negative evidence
+Sodium formiate,E237,SAFE,0.0535,0.19,94,28,0.305,62.0,Low negative evidence
+l-cysteine,E920,DANGEROUS,0.5926,1.0,6837,4377,0.64,35.0,High negative evidence
+Ethulose,E467,SAFE,0.0589,0.14,50,19,0.392,75.0,Low negative evidence
+Sodium sulphate,E514I,SAFE,0.135,0.38,364,130,0.358,28.0,Low negative evidence
+Magnesium stearate,E572,SAFE,0.0555,0.17,71,22,0.312,57.0,Low negative evidence
+acid esters of mono- and diglycerides of fatty acids,E472,SAFE,0.0389,0.14,50,15,0.31,76.0,Low negative evidence
+Aluminium silicate,E559,SAFE,0.0479,0.2,97,23,0.241,53.0,Low negative evidence
+Beta-cyclodextrine,E459,SAFE,0.0591,0.18,80,31,0.392,61.0,Low negative evidence
+Sodium propionate,E281,SAFE,0.1341,0.36,330,132,0.401,27.0,Low negative evidence
+Acid sodium aluminium phosphate,E541I,UNKNOWN,0.0309,0.03,6,3,0.5,50.0,Insufficient research (6 papers)
+Konjac gum,E425I,SAFE,0.0675,0.14,46,6,0.13,29.0,Low negative evidence
+Glucono-delta-lactone,E575,SAFE,0.086,0.34,296,77,0.262,30.0,Low negative evidence
+Guanylic acid,E626,WATCHLIST,0.2048,0.27,189,100,0.53,37.0,Moderate concerns (SSI: 20.5%)
+Monomagnesium phosphate,E343I,UNKNOWN,0.0,0.01,1,0,0.0,100.0,Insufficient research (1 papers)
+Polyglycerol esters of fatty acids,E475,SAFE,0.0506,0.15,53,16,0.302,48.0,Low negative evidence
+Thermally oxidised soya bean oil interacted with mono- and diglycerides of fatty acids,E479B,UNKNOWN,0.0224,0.01,1,2,2.5,0.0,Insufficient research (1 papers)
+Pentapotassium triphosphate,E451II,UNKNOWN,0.0,0.01,3,0,0.0,0.0,Insufficient research (3 papers)
+Distarch glycerol,E1411,UNKNOWN,0.0141,0.06,8,1,0.208,67.0,Insufficient research (8 papers)
+Delphinidin,E163B,WATCHLIST,0.2133,0.6,915,399,0.436,45.0,Moderate concerns (SSI: 21.3%)
+dipotassium dihydrogenpyrophosphate,E450IV,UNKNOWN,0.0,0.0,0,0,0.0,0.0,No scientific literature found
+Sucralose,E955,WATCHLIST,0.2186,0.51,646,288,0.446,56.0,Moderate concerns (SSI: 21.9%)
+Ethyl lauroyl arginate,E243,SAFE,0.0708,0.24,142,47,0.333,70.0,Low negative evidence
+Neotame,E961,SAFE,0.0574,0.2,97,30,0.319,62.0,Low negative evidence
+Rhodoxanthin,E161F,SAFE,0.0166,0.08,31,7,0.229,15.0,Low negative evidence
+E450viii,E450VIII,UNKNOWN,0.0,0.0,0,0,0.0,0.0,No scientific literature found
+Potassium chloride,E508,DANGEROUS,0.4471,1.0,13318,5303,0.398,13.0,High negative evidence
+Benzyl alcohol,E1519,WATCHLIST,0.215,1.0,2765,714,0.258,31.0,Moderate concerns (SSI: 21.5%)
+Bakers yeast glycan,E408,SAFE,0.1965,0.38,364,220,0.606,36.0,Low negative evidence
+Cyclamic acid and its Na and Ca salts,E952,SAFE,0.0159,0.08,16,5,0.332,77.0,Low negative evidence
+Disodium diphosphate,E450I,UNKNOWN,0.0,0.01,3,0,0.0,20.0,Insufficient research (3 papers)
+Red 2G,E128,SAFE,0.0935,0.27,183,71,0.393,71.0,Low negative evidence
+Potassium ferrocyanide,E536,SAFE,0.1283,0.39,385,123,0.321,33.0,Low negative evidence
+Potassium sorbate,E202,SAFE,0.1301,0.51,653,175,0.269,43.0,Low negative evidence
+Polyoxyethylene sorbitan tristearate,E436,SAFE,0.0258,0.14,46,10,0.22,72.0,Low negative evidence
+Sodium dehydroacetate,E266,SAFE,0.069,0.2,96,32,0.342,62.0,Low negative evidence
+Tylosin,E713,SAFE,0.187,0.64,1024,325,0.318,17.0,Low negative evidence
+ammonium lactate,E328,SAFE,0.0546,0.22,118,42,0.357,46.0,Low negative evidence
+Ammonium chloride,E510,DANGEROUS,0.5573,1.0,6067,2768,0.456,26.0,High negative evidence
+Locust bean gum,E410,SAFE,0.1561,0.49,601,203,0.339,50.0,Low negative evidence
+Zeaxanthin,E161H,DANGEROUS,0.3945,1.0,2692,1602,0.595,57.0,High negative evidence
+Calcium polyphosphate,E452IV,SAFE,0.0316,0.16,66,19,0.29,25.0,Low negative evidence
+peptone,E429,DANGEROUS,0.3522,1.0,4415,1788,0.405,29.0,High negative evidence
+Calcium oxide,E529,SAFE,0.1059,0.59,865,156,0.181,35.0,Low negative evidence
+Xanthan gum,E415,SAFE,0.1765,0.76,1440,284,0.198,44.0,Low negative evidence
+Delta-tocopherol,E309,SAFE,0.1138,0.4,404,169,0.42,50.0,Low negative evidence
+Potassium sulphates,E515,SAFE,0.0539,0.13,41,16,0.406,68.0,Low negative evidence
+Disodium phosphate,E339II,SAFE,0.0627,0.19,95,25,0.269,32.0,Low negative evidence
+Petroleum wax,E905C,SAFE,0.1468,0.64,1027,250,0.244,26.0,Low negative evidence
+Quinoline yellow,E104,SAFE,0.116,0.33,277,115,0.418,68.0,Low negative evidence
+Glucosylated steviol glycosides,E960D,UNKNOWN,0.0545,0.03,6,6,1.15,67.0,Insufficient research (6 papers)
+Acesulfame k,E950,SAFE,0.1057,0.3,224,91,0.408,63.0,Low negative evidence
+Calcium diglutamate,E623,SAFE,0.0281,0.1,23,6,0.302,55.0,Low negative evidence
+Invertase,E1103,DANGEROUS,0.471,1.0,3629,1960,0.54,26.0,High negative evidence
+Methyl p-hydroxybenzoate,E218,SAFE,0.0786,0.25,160,57,0.36,54.0,Low negative evidence
+Sodium polyphosphate,E452I,SAFE,0.0275,0.16,65,12,0.194,51.0,Low negative evidence
+Curdlan,E424,SAFE,0.139,0.46,530,213,0.402,37.0,Low negative evidence
+Polyvinylpyrrolidone,E1201,WATCHLIST,0.2337,1.0,3908,746,0.191,38.0,Moderate concerns (SSI: 23.4%)
+Sodium hydroxide,E524,WATCHLIST,0.235,1.0,7267,1859,0.256,41.0,Moderate concerns (SSI: 23.5%)
+Sorbic acid,E200,WATCHLIST,0.3093,0.7,1216,655,0.539,55.0,Moderate concerns (SSI: 30.9%)
+Fatty acid esters of ascorbic acid,E304,SAFE,0.1054,0.25,156,75,0.485,46.0,Low negative evidence
+Calcium bromate,E924B,SAFE,0.0064,0.03,11,5,0.514,14.0,Low negative evidence
+Guar gum,E412,WATCHLIST,0.2543,0.75,1388,426,0.307,36.0,Moderate concerns (SSI: 25.4%)
+Powdered cellulose,E460II,SAFE,0.0609,0.12,36,9,0.257,17.0,Low negative evidence
+Stannous chloride,E512,SAFE,0.1745,0.44,478,199,0.417,33.0,Low negative evidence
+Magnesium carbonate,E504I,SAFE,0.0893,0.48,585,121,0.208,47.0,Low negative evidence
+Lactic acid,E270,DANGEROUS,0.3877,1.0,43379,20996,0.484,39.0,High negative evidence
+Benzole peroxide,E928,WATCHLIST,0.3325,0.64,1022,626,0.613,24.0,Moderate concerns (SSI: 33.3%)
+Black 7984,E152,SAFE,0.0968,0.26,170,71,0.419,74.0,Low negative evidence
+Succistearin,E446,SAFE,0.0332,0.13,44,15,0.341,57.0,Low negative evidence
+Magnesium pyrophosphate,E546,SAFE,0.0605,0.24,143,41,0.293,33.0,Low negative evidence
+Silver,E174,WATCHLIST,0.2705,1.0,77553,20442,0.264,47.0,Moderate concerns (SSI: 27.0%)
+Plain caramel,E150A,UNKNOWN,0.0192,0.03,6,4,0.756,56.0,Insufficient research (6 papers)
+Calcium malates,E352,WATCHLIST,0.2485,0.52,671,363,0.542,20.0,Moderate concerns (SSI: 24.9%)
+Brown ht,E155,SAFE,0.0989,0.26,171,75,0.442,67.0,Low negative evidence
+Xanthophylls,E161,DANGEROUS,0.3962,1.0,3740,2204,0.589,42.0,High negative evidence
+Adipic acid,E355,WATCHLIST,0.2256,0.63,997,367,0.369,40.0,Moderate concerns (SSI: 22.6%)
+Synthetic magnesium silicate,E553AI,SAFE,0.0406,0.15,53,11,0.212,25.0,Low negative evidence
+Hydroxypropyl cellulose,E463,SAFE,0.0481,0.36,322,40,0.127,45.0,Low negative evidence
+Thiabendazole,E233,WATCHLIST,0.2882,0.65,1064,436,0.41,30.0,Moderate concerns (SSI: 28.8%)
+Monopotassium tartrate,E336I,UNKNOWN,0.0,0.01,1,0,0.0,20.0,Insufficient research (1 papers)
+Shellac,E904,SAFE,0.0598,0.28,203,32,0.16,61.0,Low negative evidence
+Caramel,E150,SAFE,0.1736,0.52,682,245,0.36,60.0,Low negative evidence
+Lycopene,E160D,DANGEROUS,0.4712,1.0,3484,2295,0.659,59.0,High negative evidence
+Beta-carotene,E160AI,DANGEROUS,0.4142,1.0,9664,5760,0.596,52.0,High negative evidence
+Buffered vinegar,E267,SAFE,0.0584,0.19,90,34,0.385,62.0,Low negative evidence
+Lactylated fatty acid esters of glycerol and propane-1,E478,SAFE,0.0708,0.12,34,14,0.423,71.0,Low negative evidence
+ferrous hexacyanomanganate,E537,SAFE,0.0216,0.13,44,6,0.159,76.0,Low negative evidence
+calcium gluconate,E578,WATCHLIST,0.2131,0.38,364,150,0.412,47.0,Moderate concerns (SSI: 21.3%)
+Sodium malates,E350,DANGEROUS,0.4435,0.61,924,514,0.557,31.0,High negative evidence
+calcium glycerophosphate,E383,SAFE,0.0469,0.23,135,31,0.233,52.0,Low negative evidence
+Glycine,E640I,DANGEROUS,0.494,1.0,73199,36384,0.497,27.0,High negative evidence
+Flavoxanthin,E161A,SAFE,0.0173,0.07,12,5,0.486,67.0,Low negative evidence
+Spermaceti,E909,SAFE,0.017,0.14,51,7,0.143,33.0,Low negative evidence
+Sodium stearoyl-2-lactylate,E481,SAFE,0.0422,0.16,66,17,0.271,59.0,Low negative evidence
+Hydroxypropyl starch,E1440,SAFE,0.0417,0.18,80,18,0.235,34.0,Low negative evidence
+E543 food additive,E543,SAFE,0.0456,0.12,38,16,0.438,68.0,Low negative evidence
+Propane-1‚2-diol alginate,E405,SAFE,0.0627,0.22,126,38,0.306,59.0,Low negative evidence
+Nitrogen,E931,WATCHLIST,0.3367,1.0,244505,89010,0.364,34.0,Moderate concerns (SSI: 33.7%)
+Ferrous carbonate,E505,SAFE,0.0488,0.17,69,25,0.366,56.0,Low negative evidence
+Tertiary-butylhydroquinone (tbhq),E319,SAFE,0.0853,0.23,128,48,0.381,53.0,Low negative evidence
+Brominated vegetable oil,E443,SAFE,0.0603,0.17,74,30,0.412,52.0,Low negative evidence
+Scarlet GN,E125,SAFE,0.083,0.28,194,67,0.35,72.0,Low negative evidence
+Distarch phosphate,E1412,SAFE,0.0595,0.16,65,16,0.261,43.0,Low negative evidence
+Copper complexes of chlorophylls and chlorophyllins,E141,SAFE,0.1028,0.28,199,83,0.418,71.0,Low negative evidence
+Trisodium citrate,E331III,SAFE,0.0886,0.4,401,92,0.232,40.0,Low negative evidence
+Disodium guanylate,E627,SAFE,0.0475,0.14,48,15,0.331,62.0,Low negative evidence
+Isobutane,E943B,SAFE,0.0705,0.42,436,77,0.178,49.0,Low negative evidence
+sodium lactate,E325,SAFE,0.1654,0.51,659,252,0.383,34.0,Low negative evidence
+petroleum jelly,E905B,SAFE,0.0161,0.18,84,6,0.075,47.0,Low negative evidence
+Calcium phosphates,E341,WATCHLIST,0.2106,1.0,6318,1770,0.28,39.0,Moderate concerns (SSI: 21.1%)
+Sodium diacetate,E262II,SAFE,0.0228,0.24,139,20,0.149,28.0,Low negative evidence
+Beta-carotene from blakeslea trispora,E160AIII,SAFE,0.0714,0.19,94,64,0.691,39.0,Low negative evidence
+Azorubine,E122,SAFE,0.1033,0.32,253,88,0.351,65.0,Low negative evidence
+Benzoic acid,E210,WATCHLIST,0.3075,1.0,8130,3037,0.374,35.0,Moderate concerns (SSI: 30.7%)
+Exxx food additive,EXXX,DANGEROUS,0.6195,1.0,191460,106408,0.556,32.0,High negative evidence
+Guaiacum,E314,SAFE,0.0862,0.21,111,55,0.497,67.0,Low negative evidence
+Sodium carboxy methyl cellulose,E466,SAFE,0.0441,0.13,45,14,0.331,77.0,Low negative evidence
+Glycyrrhizin,E958,SAFE,0.1372,0.34,282,126,0.449,35.0,Low negative evidence
+Potassium alginate,E402,SAFE,0.0605,0.17,72,25,0.358,54.0,Low negative evidence
+Formic acid,E236,WATCHLIST,0.2604,1.0,10918,3428,0.314,39.0,Moderate concerns (SSI: 26.0%)
+Carbonates,E502,WATCHLIST,0.222,1.0,10588,2457,0.232,40.0,Moderate concerns (SSI: 22.2%)
+Glyceryl triacetate,E1518,SAFE,0.0298,0.12,36,11,0.321,29.0,Low negative evidence
+Lecithins,E322,DANGEROUS,0.5763,0.72,1289,409,0.318,39.0,High negative evidence
+Black iron oxide,E172I,SAFE,0.0263,0.07,11,3,0.279,67.0,Low negative evidence
+Beta-apo-8′-carotenal (c30),E160E,SAFE,0.0032,0.03,11,3,0.327,14.0,Low negative evidence
+Malvidin,E163C,SAFE,0.1294,0.53,695,227,0.327,51.0,Low negative evidence
+Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids,E472F,UNKNOWN,0.0069,0.02,2,2,1.0,100.0,Insufficient research (2 papers)
+Sodium ethyl p-hydroxybenzoate,E215,SAFE,0.0709,0.23,131,49,0.379,67.0,Low negative evidence
+Monocalcium citrate,E333I,UNKNOWN,0.0,0.01,1,1,1.0,100.0,Insufficient research (1 papers)
+Polyvinylpolypyrrolidone,E1202,SAFE,0.0492,0.25,159,42,0.27,49.0,Low negative evidence
+Cochineal,E120,SAFE,0.1067,0.4,391,115,0.297,44.0,Low negative evidence
+Potassium benzoate,E212,SAFE,0.0599,0.23,137,40,0.292,62.0,Low negative evidence
+Oat lecithin,E322A,UNKNOWN,0.011,0.02,6,1,0.312,25.0,Insufficient research (6 papers)
+Sodium carbonates,E500,SAFE,0.0471,0.18,77,26,0.341,57.0,Low negative evidence
+Sorbitan monostearate,E491,SAFE,0.0623,0.2,97,32,0.332,39.0,Low negative evidence
+Alginic acid,E400,SAFE,0.1153,0.43,469,122,0.261,33.0,Low negative evidence
+Magnesium sulphate,E518,SAFE,0.1146,0.39,373,104,0.281,47.0,Low negative evidence
+Butylated hydroxyanisole (bha),E320,DANGEROUS,0.543,0.52,677,593,0.877,23.0,High negative evidence
+Methylphenylpolysiloxane,E900B,UNKNOWN,0.0017,0.01,2,0,0.25,0.0,Insufficient research (2 papers)
+Potassium metabisulphite,E224,SAFE,0.0664,0.24,139,48,0.352,48.0,Low negative evidence
+Gellan gum,E418,SAFE,0.1185,0.49,600,151,0.252,40.0,Low negative evidence
+Calcium carbonate,E170I,SAFE,0.196,1.0,9624,2192,0.228,29.0,Low negative evidence
+Desconocido,E387,SAFE,0.0809,0.23,132,49,0.375,87.0,Low negative evidence
+Potassium aluminium silicate,E555,SAFE,0.0429,0.14,46,12,0.282,56.0,Low negative evidence
+Inosinic acid,E630,WATCHLIST,0.3313,0.29,207,104,0.506,26.0,Moderate concerns (SSI: 33.1%)
+Succinic acid,E363,DANGEROUS,0.4568,1.0,4843,2532,0.523,25.0,High negative evidence
+iron gluconate,E579,SAFE,0.0313,0.14,47,12,0.266,53.0,Low negative evidence
+Potassium sulphate,E515I,SAFE,0.026,0.18,80,11,0.139,31.0,Low negative evidence
+Orthophenyl phenol,E231,SAFE,0.0554,0.19,90,29,0.323,73.0,Low negative evidence
+methyl cellulose,E461,SAFE,0.1502,0.54,727,179,0.247,33.0,Low negative evidence
+Maltitol syrup,E965II,UNKNOWN,0.0084,0.03,4,1,0.25,100.0,Insufficient research (4 papers)
+Anthocyanins,E163,DANGEROUS,0.4514,1.0,11157,5103,0.457,48.0,High negative evidence
+Polyphosphates,E452,DANGEROUS,0.4585,1.0,3603,1878,0.521,37.0,High negative evidence
+Rice bran wax,E908,SAFE,0.0397,0.16,68,11,0.171,29.0,Low negative evidence
+Calcium silicate,E552,SAFE,0.1162,0.88,1932,237,0.123,43.0,Low negative evidence
+Canthaxanthin,E161G,SAFE,0.1654,0.49,589,287,0.488,27.0,Low negative evidence
+Wax ester,E910,SAFE,0.1642,0.39,379,184,0.486,26.0,Low negative evidence
+Sucroglycerides,E474,SAFE,0.0403,0.14,50,15,0.319,64.0,Low negative evidence
+Gluconic acid,E574,WATCHLIST,0.3167,0.78,1532,760,0.496,30.0,Moderate concerns (SSI: 31.7%)
+Castor oil,E1503,WATCHLIST,0.2139,0.66,1096,307,0.28,33.0,Moderate concerns (SSI: 21.4%)
+Ascorbyl palmitate,E304I,SAFE,0.1009,0.24,150,66,0.441,29.0,Low negative evidence
+Potassium bromate,E924A,DANGEROUS,0.5234,0.35,315,374,1.188,37.0,High negative evidence
+Potassium pectate,E440AIII,UNKNOWN,0.0048,0.01,1,2,2.0,100.0,Insufficient research (1 papers)
+Dipotassium inosinate,E632,SAFE,0.0497,0.11,33,13,0.403,59.0,Low negative evidence
+acetone peroxide,E929,SAFE,0.0226,0.1,27,7,0.263,80.0,Low negative evidence
+Cyanidin,E163A,WATCHLIST,0.3464,0.94,2230,921,0.413,43.0,Moderate concerns (SSI: 34.6%)
+ferric ammonium citrate,E381,SAFE,0.1955,0.35,304,190,0.627,41.0,Low negative evidence
+Sorbitan trioleate,E496,SAFE,0.0494,0.16,62,18,0.301,52.0,Low negative evidence
+Stearyl tartrate,E483,SAFE,0.0611,0.14,47,20,0.435,68.0,Low negative evidence
+Esters of Colophane,E915,SAFE,0.03,0.09,19,5,0.301,64.0,Low negative evidence
+Tannin,E181,WATCHLIST,0.2836,1.0,3940,1041,0.264,28.0,Moderate concerns (SSI: 28.4%)
+Potassium sodium tartrate,E337,SAFE,0.0583,0.2,99,32,0.325,68.0,Low negative evidence
+Potassium bromate,E924,DANGEROUS,0.4955,0.36,326,379,1.164,38.0,High negative evidence
+Sodium silicate,E550,SAFE,0.0772,0.61,929,110,0.119,51.0,Low negative evidence
+Disodium 5'-ribonucleotide,E635,SAFE,0.039,0.11,33,11,0.343,54.0,Low negative evidence
+Diphosphates,E450,DANGEROUS,0.712,1.0,5530,3043,0.55,36.0,High negative evidence
+Montanic acid esters,E912,SAFE,0.0171,0.1,26,5,0.216,32.0,Low negative evidence
+E15x food additive,E15X,DANGEROUS,0.6195,1.0,191460,106408,0.556,32.0,High negative evidence
+Aluminium potassium sulphate,E522,SAFE,0.0426,0.13,42,12,0.294,67.0,Low negative evidence
+Glycerol,E422,DANGEROUS,0.4759,1.0,43491,20671,0.475,27.0,High negative evidence
+Magnesium salts of fatty acids,E470B,UNKNOWN,0.0158,0.01,2,2,1.25,0.0,Insufficient research (2 papers)
+Tartrazine,E102,WATCHLIST,0.242,0.59,865,313,0.362,53.0,Moderate concerns (SSI: 24.2%)
+Sandalwood,E166,SAFE,0.1123,0.37,346,130,0.376,58.0,Low negative evidence
+Tripotassium citrate,E332II,SAFE,0.0117,0.06,10,1,0.16,60.0,Low negative evidence
+Sodium sulphates,E514,DANGEROUS,0.5626,1.0,46154,21310,0.462,31.0,High negative evidence
+Acacia gum,E414,SAFE,0.0943,0.24,146,52,0.357,52.0,Low negative evidence
+Protease,E1101,DANGEROUS,0.5436,1.0,67375,45736,0.679,39.0,High negative evidence
+Potassium bisulphite,E228,SAFE,0.0909,0.25,152,60,0.398,56.0,Low negative evidence
+Polyvinyl alcohol,E1203,SAFE,0.1757,1.0,6498,1021,0.157,41.0,Low negative evidence
+Calcium ascorbate,E302,SAFE,0.0732,0.21,111,37,0.337,68.0,Low negative evidence
+Ammonia caramel,E150C,SAFE,0.0556,0.05,13,8,0.617,18.0,Low negative evidence
+Potassium fumarate,E366,SAFE,0.0509,0.17,71,26,0.375,69.0,Low negative evidence
+Mineral oil medium and low viscosity class II,E905F,UNKNOWN,0.0024,0.01,1,1,1.0,100.0,Insufficient research (1 papers)
+Fast Green FCF,E143,SAFE,0.1175,0.35,300,108,0.361,60.0,Low negative evidence
+Fast Yellow AB,E105,SAFE,0.0758,0.32,261,74,0.286,68.0,Low negative evidence
+Potassium hydroxide,E525,SAFE,0.1623,0.89,1989,400,0.201,44.0,Low negative evidence
+Fumaric acid,E297,WATCHLIST,0.2769,0.72,1290,598,0.464,32.0,Moderate concerns (SSI: 27.7%)
+Sodium aluminium phosphate,E541,SAFE,0.0641,0.12,38,18,0.484,63.0,Low negative evidence
+Superglycerinated hydrogenated rapeseed oil,E441,SAFE,0.1273,0.32,259,114,0.441,27.0,Low negative evidence
+Konjac,E425,SAFE,0.1711,0.57,817,203,0.249,32.0,Low negative evidence
+Copper sulphate,E519,WATCHLIST,0.3,0.48,582,288,0.497,26.0,Moderate concerns (SSI: 30.0%)
+Magnesium phosphates,E343,SAFE,0.0645,0.26,172,52,0.304,53.0,Low negative evidence
+Gum ghatti,E419,SAFE,0.0633,0.19,94,28,0.3,65.0,Low negative evidence
+Disodium tartrate,E335II,UNKNOWN,0.0031,0.02,6,0,0.087,20.0,Insufficient research (6 papers)
+Tricalcium citrate,E333III,UNKNOWN,0.0063,0.03,4,0,0.188,50.0,Insufficient research (4 papers)
+4-hexylresorcinol,E586,SAFE,0.0579,0.19,87,32,0.375,38.0,Low negative evidence
+Xylitol,E967,DANGEROUS,0.4522,1.0,2718,1509,0.555,49.0,High negative evidence
+Sorbitol,E420,DANGEROUS,0.4971,1.0,7108,3661,0.515,33.0,High negative evidence
+Aluminium sulphate,E520,SAFE,0.0799,0.26,172,61,0.356,50.0,Low negative evidence
+Sorbitan monolaurate,E493,SAFE,0.0621,0.22,122,35,0.291,49.0,Low negative evidence
+Calcium erythorbin,E318,DANGEROUS,0.4607,1.0,313426,160962,0.514,28.0,High negative evidence
+Calcium stearoyl fumarate,E486,SAFE,0.0535,0.11,33,16,0.512,72.0,Low negative evidence
+E414a food additive,E414A,UNKNOWN,0.0105,0.03,4,5,1.25,100.0,Insufficient research (4 papers)
+Curcumin,E100,DANGEROUS,0.509,1.0,4971,2805,0.564,40.0,High negative evidence
+saccharin and its salts,E954,SAFE,0.0792,0.19,89,35,0.397,31.0,Low negative evidence
+Lactic acid esters of mono- and diglycerides of fatty acids,E472B,UNKNOWN,0.0032,0.01,3,3,1.0,50.0,Insufficient research (3 papers)
+Yellow iron oxide,E172III,UNKNOWN,0.0,0.04,9,0,0.0,50.0,Insufficient research (9 papers)
+Phytic acid,E391,DANGEROUS,0.4474,1.0,4259,2062,0.484,42.0,High negative evidence
+Ascorbic acid,E300,DANGEROUS,0.586,1.0,36197,19502,0.539,41.0,High negative evidence
+Cryptoaxanthin,E161C,UNKNOWN,0.0,0.0,0,0,0.0,0.0,No scientific literature found
+Neohesperidine dihydrochalcone,E959,SAFE,0.0421,0.11,30,10,0.341,59.0,Low negative evidence
+Phosphated distarch phosphate,E1413,SAFE,0.0563,0.16,65,14,0.228,41.0,Low negative evidence
+Heptylparaben,E209,SAFE,0.0756,0.22,121,43,0.36,72.0,Low negative evidence
