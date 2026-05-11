@@ -1,0 +1,41 @@
+additive_info/
+├── README.md
+├── run_pipeline.sh
+│
+├── outputs/
+│   ├── plots/
+│   │
+│   └── alimentos_clasificacion_final_completa.csv
+│
+└── src/
+    ├── data/
+    │   ├── maestro_aditivos_limpio.csv
+    │   ├── ssi_final_con_semaforo.csv
+    │   ├── dataset_800k_aditivos.csv
+    │   └── alimentos_con_semaforo_final.csv
+    │
+    ├── models/
+    │   ├── scaler_alimentos.pkl
+    │   └── kmeans_alimentos.pkl
+    │
+    ├── notebooks/
+    │   ├── 01_extraccion_dataset_aditivos.ipynb
+    │   ├── 02_clasificacion_aditivos.ipynb
+    │   ├── 03_extraccion_dataset_alimentos.ipynb
+    │   ├── 04_fusion_aditivos_alimentos.ipynb
+    │   └── 05_clasificacion_final.ipynb
+    │
+    ├── resources/
+    │   ├── config.yaml
+    │   ├── palabras_clave_ssi.json
+    │   ├── efsa_approved.json
+    │   └── cluster_profiles.json
+    │
+    └── utils/
+        ├── __init__.py
+        ├── pipeline_maestro.py         ← AQUÍ (punto de entrada)
+        ├── ssi_pipeline.py
+        ├── food_classification_pipeline.py
+        ├── data_loader.py
+        └── logger.py
+
