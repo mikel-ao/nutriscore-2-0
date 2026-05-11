@@ -58,7 +58,7 @@ en:e553,E553,Magnesium silicates,0.1238,0.45,506,145,0.288,43.0,Low negative evi
 en:e1100,E1100,Alpha-Amylase,0.4911,1.0,9937,5025,0.506,37.0,High negative evidence,APROVED,EVITAR
 en:e907,E907,Hydrogenated poly-1-decene,0.0465,0.08,16,8,0.552,50.0,Low negative evidence,APROVED,SEGURO
 en:e482,E482,Calcium stearoyl-2-lactylate,0.0639,0.13,40,12,0.313,50.0,Low negative evidence,APPROVED,SEGURO
-en:e150d,E150D,Sulphite ammonia caramel,0.0501,0.07,13,8,0.635,50.0,Low negative evidence,APROVED,SEGURO
+en:e150d,E150D,Sulphite ammonia caramel,0.0501,0.07,13,8,0.635,50.0,Low negative evidence,APROVED,EVITAR
 en:e160,E160,Carotenoids,0.5282,1.0,22152,12471,0.563,47.0,High negative evidence,APROVED,EVITAR
 en:e504ii,E504II,Magnesium hydroxide carbonate,0.0674,0.39,381,69,0.181,42.0,Low negative evidence,APROVED,SEGURO
 en:e633,E633,Calcium inosinate,0.2169,0.4,392,206,0.526,22.0,Moderate concerns (SSI: 21.7%),APPROVED,PRECAUCION
@@ -387,7 +387,7 @@ en:e312,E312,Dodecyl gallate,0.0598,0.21,109,34,0.32,60.0,Low negative evidence,
 en:e1405,E1405,Enzyme treated starch,0.2648,0.59,863,450,0.522,25.0,Moderate concerns (SSI: 26.5%),APROVED,PRECAUCION
 en:e124,E124,Ponceau 4r,0.1032,0.37,342,108,0.317,57.0,Low negative evidence,APPROVED,SEGURO
 en:e621,E621,Monosodium glutamate,0.3537,0.71,1274,618,0.485,27.0,High negative evidence,APPROVED,EVITAR
-en:e150b,E150B,Caustic sulphite caramel,0.0,0.0,0,0,0.0,0.0,No scientific literature found,APROVED,SEGURO
+en:e150b,E150B,Caustic sulphite caramel,0.0,0.0,0,0,0.0,0.0,No scientific literature found,APROVED,PRECAUCION
 en:e352i,E352I,Calcium malate,0.0046,0.03,15,4,0.33,0.0,Low negative evidence,APROVED,SEGURO
 en:e324,E324,Ethoxyquin,0.3933,0.38,355,247,0.698,20.0,High negative evidence,APROVED,EVITAR
 en:e220,E220,Sulphur dioxide,0.1808,0.6,887,259,0.292,72.0,Low negative evidence,APPROVED,SEGURO
@@ -506,8 +506,8 @@ en:e553ai,E553AI,Synthetic magnesium silicate,0.0406,0.15,53,11,0.212,25.0,Low n
 en:e463,E463,Hydroxypropyl cellulose,0.0481,0.36,322,40,0.127,45.0,Low negative evidence,APPROVED,SEGURO
 en:e233,E233,Thiabendazole,0.2882,0.65,1064,436,0.41,30.0,Moderate concerns (SSI: 28.8%),APPROVED,PRECAUCION
 en:e336i,E336I,Monopotassium tartrate,0.0,0.01,1,0,0.0,20.0,Insufficient research (1 papers),APROVED,SEGURO
-en:e904,E904,Shellac,0.0598,0.28,203,32,0.16,61.0,Low negative evidence,APPROVED,SEGURO
-en:e150,E150,Caramel,0.1736,0.52,682,245,0.36,60.0,Low negative evidence,APROVED,SEGURO
+en:e904,E904,Shellac,0.0598,0.28,203,32,0.16,61.0,Low negative evidence,APPROVED,EVITAR
+en:e150,E150,Caramel,0.1736,0.52,682,245,0.36,60.0,Low negative evidence,APROVED,EVITAR
 en:e160d,E160D,Lycopene,0.4712,1.0,3484,2295,0.659,59.0,High negative evidence,APROVED,EVITAR
 en:e160ai,E160AI,Beta-carotene,0.4142,1.0,9664,5760,0.596,52.0,High negative evidence,APROVED,EVITAR
 en:e267,E267,Buffered vinegar,0.0584,0.19,90,34,0.385,62.0,Low negative evidence,APROVED,SEGURO
@@ -616,7 +616,7 @@ en:e1101,E1101,Protease,0.5436,1.0,67375,45736,0.679,39.0,High negative evidence
 en:e228,E228,Potassium bisulphite,0.0909,0.25,152,60,0.398,56.0,Low negative evidence,APROVED,SEGURO
 en:e1203,E1203,Polyvinyl alcohol,0.1757,1.0,6498,1021,0.157,41.0,Low negative evidence,APPROVED,SEGURO
 en:e302,E302,Calcium ascorbate,0.0732,0.21,111,37,0.337,68.0,Low negative evidence,APPROVED,SEGURO
-en:e150c,E150C,Ammonia caramel,0.0556,0.05,13,8,0.617,18.0,Low negative evidence,APROVED,SEGURO
+en:e150c,E150C,Ammonia caramel,0.0556,0.05,13,8,0.617,18.0,Low negative evidence,APROVED,EVITAR
 en:e366,E366,Potassium fumarate,0.0509,0.17,71,26,0.375,69.0,Low negative evidence,APPROVED,SEGURO
 en:e905f,E905F,Mineral oil medium and low viscosity class II,0.0024,0.01,1,1,1.0,100.0,Insufficient research (1 papers),APROVED,SEGURO
 en:e143,E143,Fast Green FCF,0.1175,0.35,300,108,0.361,60.0,Low negative evidence,APROVED,SEGURO
