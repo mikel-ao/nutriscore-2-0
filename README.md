@@ -1,6 +1,7 @@
 # Nutriscore 2.0: Hacia un etiquetado alimentario más transparente
 
 > **Continuación de:** [Análisis Exploratorio de Datos - Nutriscore es Incompleto y Manipulable](https://github.com/mikel-ao/food-labelling-audit.git)
+> 
 > **Presentación:** [Canva](https://canva.link/m8gp6zmxdfyloks)
 
 ## 📋 Resumen Ejecutivo
