@@ -21,22 +21,14 @@ def cargar_recursos():
     global df_ssi_aditivos, mapping_traffic_light, scaler_alimentos, kmeans_alimentos
     
     try:
-        # Obtener la ruta base del proyecto
-        # En Streamlit Cloud, __file__ es /mount/src/aditive_info/src/resources/streamlit/pipeline.py
-        # Subimos 4 niveles: streamlit -> resources -> src -> aditive_info (raíz del proyecto)
-        base_path = Path(__file__).parent.parent.parent.parent
-        
-        # Rutas a los archivos
-        ruta_csv = base_path / 'data' / 'ssi_final_con_semaforo.csv'
-        ruta_scaler = base_path / 'models' / 'scaler_alimentos.pkl'
-        ruta_kmeans = base_path / 'models' / 'kmeans_alimentos.pkl'
+        # Rutas relativas: 2 niveles arriba desde streamlit/
+        # src/resources/streamlit/ -> src/resources/ -> aditive_info/
+        ruta_csv = Path('../../data/ssi_final_con_semaforo.csv')
+        ruta_scaler = Path('../../models/scaler_alimentos.pkl')
+        ruta_kmeans = Path('../../models/kmeans_alimentos.pkl')
         
         # Cargar CSV
         print(f"📂 Buscando CSV en: {ruta_csv}")
-        if not ruta_csv.exists():
-            print(f"❌ CSV no encontrado en {ruta_csv}")
-            return None
-            
         df_ssi_aditivos = pd.read_csv(ruta_csv)
         print(f"✅ CSV cargado: {len(df_ssi_aditivos)} aditivos")
         
@@ -49,18 +41,10 @@ def cargar_recursos():
         
         # Cargar modelos
         print(f"📂 Buscando scaler en: {ruta_scaler}")
-        if not ruta_scaler.exists():
-            print(f"❌ Scaler no encontrado en {ruta_scaler}")
-            return None
-            
         scaler_alimentos = joblib.load(ruta_scaler)
         print(f"✅ Scaler cargado (espera {scaler_alimentos.n_features_in_} features)")
         
         print(f"📂 Buscando kmeans en: {ruta_kmeans}")
-        if not ruta_kmeans.exists():
-            print(f"❌ KMeans no encontrado en {ruta_kmeans}")
-            return None
-            
         kmeans_alimentos = joblib.load(ruta_kmeans)
         print(f"✅ K-Means cargado ({kmeans_alimentos.n_clusters} clusters)")
         
