@@ -559,32 +559,14 @@ Data Science | Bootcamp The Bridge, Campus Bilbao (2026)
 
 ### 📌 Conecta conmigo
 
-- 🔗 LinkedIn: [**[REEMPLAZA CON TU PERFIL]**]([https://linkedin.com/in](https://www.linkedin.com/in/mikelanibarroortega/))
-- 🔬 ORCID: [**[REEMPLAZA CON TU ORCID]**]([https://orcid.org](https://orcid.org/my-orcid?orcid=0000-0002-2835-5079))
-- 📧 Email: mikel.anibarro@example.com
-- 🐙 GitHub: [**[[mikel-ao](https://github.com/mikel-ao)]**](https://github.com)
-
-**Instrucciones para actualizar:**
-
-1. Abre este README en tu editor
-2. Busca `[REEMPLAZA CON TU PERFIL]` en LinkedIn
-3. Sustituye por: `https://linkedin.com/in/tu-nombre-usuario`
-4. Busca `[REEMPLAZA CON TU ORCID]`
-5. Obtén tu ORCID en https://orcid.org y sustituye
-6. Actualiza Email y GitHub username
+- 🔗 LinkedIn: [mikelanibarroortega](https://www.linkedin.com/in/mikelanibarroortega/)
+- 🔬 ORCID: [0000-0002-2835-5079](https://orcid.org/0000-0002-2835-5079)
+- 📧 Email: mklanibarro@gmail.com
+- 🐙 GitHub: [@mikel-ao](https://github.com/mikel-ao)
 
 ---
 
 ## 📚 Referencias
-
-### Documentos Técnicos
-- **Memoria Técnica Completa:** `results/reports/memoria_tecnica.pdf`
-- **Tabla Aditivos SSI:** `results/reports/ssi_aditivos_detallado.xlsx`
-
-### Artículos y Fuentes Científicas
-- EFSA (2023): *Evaluación de aditivos alimentarios permitidos en UE*
-- Open Food Facts (2024): *Metodología Nutriscore*
-- PubMed Central: 10,400+ papers consultados sobre seguridad de aditivos
 
 ### Repositorios Relacionados
 - [Open Food Facts GitHub](https://github.com/openfoodfacts)
@@ -595,14 +577,4 @@ Data Science | Bootcamp The Bridge, Campus Bilbao (2026)
 **Última actualización:** Mayo 2026  
 **Estado del proyecto:** ✅ Completo | 🚀 Listo para producción  
 **Reproducibilidad:** ✅ 100% | Todas las etapas documentadas
-
----
-
-## 📞 Soporte
-
-¿Preguntas o problemas?
-
-- 📖 Revisa `CONTRIBUTING.md`
-- 🐛 Abre un issue en GitHub
-- 💬 Contáctame en LinkedIn
 
