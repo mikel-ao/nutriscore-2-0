@@ -37,20 +37,11 @@ pipe.scaler_alimentos = recursos_globales['scaler']
 pipe.kmeans_alimentos = recursos_globales['kmeans']
 
 # ============================================================================
-# ENCABEZADO CON LOGO
+# ENCABEZADO
 # ============================================================================
 
-col_logo, col_title = st.columns([0.5, 3])
-
-with col_logo:
-    try:
-        st.image("nutri/1.png", width=100)
-    except:
-        st.image("nutri/1.png", width=100)
-
-with col_title:
-    st.title("NutriScore 2.0")
-    st.markdown("### Clasificación Multidimensional de Alimentos")
+st.title("NutriScore 2.0")
+st.markdown("### Clasificación Multidimensional de Alimentos")
 
 st.markdown("---")
 
