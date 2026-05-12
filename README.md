@@ -256,64 +256,29 @@ def categorizar_alimento(alimento):
 ```
 nutriscore-2.0/
 │
-├── README.md                          ← Este archivo
-├── requirements.txt                   ← Dependencias Python
-├── .env.example                       ← Variables de entorno (API keys)
-├── pipeline.py                        ← Orquestador principal (ejecuta todo)
-│
-├── data/
-│   ├── raw/
-│   │   ├── food.parquet              ← Dataset principal (836k alimentos)
-│   │   └── additives.json            ← Taxonomía de aditivos (651)
-│   │
-│   └── processed/
-│       ├── alimentos_clustering.csv   ← Datos con clusters asignados
-│       ├── aditivos_ssi.csv          ← Aditivos con SSI calculado
-│       └── nutriscore_2_0_final.csv  ← Clasificación final
-│
-├── notebooks/
-│   ├── 00_eda_exploratorio.ipynb     ← Análisis exploratorio previo (referencia)
-│   ├── 01_ssi_aditivos.ipynb         ← Clasificación de aditivos por PubMed
-│   ├── 02_kmeans_clustering.ipynb    ← K-Means + validación jerárquica
-│   ├── 03_visualizacion_resultados.ipynb ← Gráficos finales
-│   └── 04_nutriscore_2_0_final.ipynb ← Integración y exportación
+├── README.md                         
+├── pipeline.py                        
 │
 ├── src/
-│   ├── __init__.py
-│   ├── pubmed_scraper.py             ← Búsquedas en PubMed API
-│   ├── ssi_calculator.py             ← Cálculo Scientific Safety Index
-│   ├── clustering.py                 ← K-Means + métodos de validación
-│   └── utils.py                      ← Funciones auxiliares
-│
-├── results/
-│   ├── figures/
-│   │   ├── eda/
-│   │   │   ├── distribucion_nutriscore.png
-│   │   │   ├── distribucion_nova.png
-│   │   │   └── distribucion_aditivos.png
-│   │   ├── clustering/
-│   │   │   ├── metodo_codo_alimentos2.png
-│   │   │   ├── silhouette_4_clusters2.png
-│   │   │   └── dendrograma_ward_validacion.png
-│   │   ├── resultados/
-│   │   │   ├── matriz2.png
-│   │   │   ├── dispersion.png
-│   │   │   └── nutriscore2-0.png
-│   │   └── comparativas/
-│   │       ├── nutriscore_vs_nutriscore2.png
-│   │       └── distribucion_clusters.png
+│   ├── data/
 │   │
-│   └── reports/
-│       ├── memoria_tecnica.pdf       ← Documento completo
-│       └── ssi_aditivos_detallado.xlsx ← Tabla de aditivos con scores
+│   ├── models/
+│   │
+│   ├── notebooks/
+│   │
+│   ├── resources/
+│   │   └── streamlit/
+│   │ 
+│   └── utils/
+│    
 │
-├── app/
-│   ├── streamlit_app.py              ← Aplicación user-facing
-│   ├── requirements_app.txt           ← Dependencias específicas app
-│   └── assets/
-│       └── logo_nutriscore2.png
-│
-└── .gitignore                         ← Ignorar archivos grandes
+└── outputs/
+    ├── plots/
+    │
+    ├── memoria/
+    │
+    └── presentacion/
+    
 ```
 
 ---
