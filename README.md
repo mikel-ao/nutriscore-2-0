@@ -102,8 +102,8 @@ features = [
 | **Hierarchical Clustering (WARD)** | 4 ramas naturales en altura ~53 |
 
 ![Elbow Plot](outputs/plots/food_products/metodo_codo_alimentos2.png)
-![Silhouette Score](results/figures/silhouette_4_clusters2.png)
-![Dendrograma Validación](results/figures/dendrograma_ward_validacion.png)
+![Silhouette Score](outputs/plots/food_products/silhouette_4_clusters2.png)
+![Dendrograma Validación](outputs/plots/food_products/dendograma_ward_validacion.png)
 
 **Conclusión:** K=4 validado por dos métodos independientes → **ROBUSTO**.
 
@@ -115,7 +115,7 @@ features = [
 
 ### Matriz de Perfiles
 
-![Matriz de Perfiles de Clusters](results/figures/matriz2.png)
+![Matriz de Perfiles de Clusters](outputs/plots/food_products/matriz2.png)
 
 ### Perfil Detallado de Cada Cluster
 
@@ -236,108 +236,9 @@ def categorizar_alimento(alimento):
     categoria_final = f"{cluster}_{riesgo_final}"
     
     return categoria_final
-```
-
-**Ejemplo en la práctica:**
 
 ```
-YOGUR DANONE NATURAL
-├─ Nutriscore: A (1)
-├─ NOVA: 2 (procesado)
-├─ Aditivos: E406, E1442
-│
-├─ K-Means Cluster: 0 ("Falso Saludable")
-│  └─ Razón: Nutriscore bueno BUT NOVA 2 + 2 aditivos
-│
-├─ SSI de aditivos:
-│  ├─ E406 (carragenina): PRECAUCIÓN
-│  └─ E1442 (almidón modificado): SEGURO
-│
-├─ Riesgo dominante: PRECAUCIÓN (porque hay 1+ PRECAUCIÓN)
-│
-└─ CATEGORÍA FINAL: 0_PRECAUCIÓN ⚠️
-   └─ Interpretación: "Parece saludable pero tiene aditivos cuestionables"
 
-═══════════════════════════════════════════════════════════════
-
-REFRESCO COCA COLA ZERO
-├─ Nutriscore: E (5)
-├─ NOVA: 4 (ultraprocesado)
-├─ Aditivos: E150d, E950, E951, E320, E321
-│
-├─ K-Means Cluster: 3 ("Ultraprocesado")
-│  └─ Razón: Nutriscore malo + NOVA máxima + muchos aditivos
-│
-├─ SSI de aditivos:
-│  ├─ E150d (caramelo): SEGURO
-│  ├─ E950 (acesulfame potásico): PRECAUCIÓN
-│  ├─ E951 (aspartamo): PRECAUCIÓN
-│  ├─ E320 (BHA): EVITABLE ← ⚠️ AQUÍ
-│  └─ E321 (BHT): EVITABLE ← ⚠️ Y AQUÍ
-│
-├─ Riesgo dominante: EVITABLE (porque hay 2+ EVITABLE)
-│
-└─ CATEGORÍA FINAL: 3_EVITABLE 🔴
-   └─ Interpretación: "Evitar. Ultraprocesado con aditivos peligrosos"
-
-═══════════════════════════════════════════════════════════════
-
-MANZANA ROJA ECO
-├─ Nutriscore: A (1)
-├─ NOVA: 1 (natural)
-├─ Aditivos: (ninguno)
-│
-├─ K-Means Cluster: 2 ("Verdaderamente Saludable")
-│  └─ Razón: Nutriscore excelente + NOVA natural + sin aditivos
-│
-├─ SSI de aditivos: (vacío)
-│
-├─ Riesgo dominante: SEGUROS (sin aditivos)
-│
-└─ CATEGORÍA FINAL: 2_SEGUROS ✅
-   └─ Interpretación: "Mejor opción"
-```
-
-### Matriz de 12 Categorías Finales
-
-```
-                SEGUROS      PRECAUCIÓN     EVITABLE
-CLUSTER 0   →  0_SEGUROS    0_PRECAUCIÓN   0_EVITABLE
-CLUSTER 1   →  1_SEGUROS    1_PRECAUCIÓN   1_EVITABLE
-CLUSTER 2   →  2_SEGUROS    2_PRECAUCIÓN   2_EVITABLE
-CLUSTER 3   →  3_SEGUROS    3_PRECAUCIÓN   3_EVITABLE
-```
-
-### Interpretación por Categoría
-
-| Categoría | Cluster | Aditivos | Significado | Acción |
-|-----------|---------|----------|-------------|--------|
-| **0_SEGUROS** | Falso Saludable | Ninguno peligroso | Parece bien pero NO es | ⚠️ Revisar NOVA |
-| **0_PRECAUCIÓN** | Falso Saludable | Cuestionables | Engañoso + dudas | ❌ Evitar |
-| **0_EVITABLE** | Falso Saludable | Peligrosos | Marketing falso | 🔴 NUNCA |
-| **1_SEGUROS** | Simple Malo | Ninguno peligroso | Malo pero honesto | ⚠️ Ocasional |
-| **1_PRECAUCIÓN** | Simple Malo | Cuestionables | Malo + dudas | ❌ Evitar |
-| **1_EVITABLE** | Simple Malo | Peligrosos | Muy malo | 🔴 NUNCA |
-| **2_SEGUROS** | Verdad. Saludable | Ninguno peligroso | Excelente | ✅ MEJOR |
-| **2_PRECAUCIÓN** | Verdad. Saludable | Cuestionables | Raro pero posible | ⚠️ Revisar |
-| **2_EVITABLE** | Verdad. Saludable | Peligrosos | Muy raro | 🔴 NUNCA |
-| **3_SEGUROS** | Ultraprocesado | Ninguno peligroso | Raro, muy bueno | ✅ BIEN |
-| **3_PRECAUCIÓN** | Ultraprocesado | Cuestionables | Ultra + dudas | ❌ Evitar |
-| **3_EVITABLE** | Ultraprocesado | Peligrosos | Peor que peor | 🔴 NUNCA |
-
----
-
-## 📊 Output Esperado: nutriscore_2_0_final.csv
-
-```csv
-product_name,product_id,nutriscore_grade,nova_group,total_aditivos,cluster,aditivos_ssi,riesgo_dominante,categoria_final
-Yogur Danone Natural,123456,A,2,2,0,PRECAUCIÓN,PRECAUCIÓN,0_PRECAUCIÓN
-Manzana Roja,789012,A,1,0,2,ninguno,SEGUROS,2_SEGUROS
-Coca Cola Zero,456789,E,4,5,3,EVITABLE,EVITABLE,3_EVITABLE
-Refresco Fanta,111222,D,3,4,1,PRECAUCIÓN,PRECAUCIÓN,1_PRECAUCIÓN
-Aceite Oliva Virgen,333444,A,1,0,2,ninguno,SEGUROS,2_SEGUROS
-Galletas Digestive,555666,C,3,3,1,SEGURO,SEGUROS,1_SEGUROS
-```
 
 **Columnas clave:**
 - `cluster` → 0, 1, 2, 3 (del K-Means)
@@ -346,7 +247,7 @@ Galletas Digestive,555666,C,3,3,1,SEGURO,SEGUROS,1_SEGUROS
 
 ---
 
-![Nutriscore 2.0 Concept](results/figures/nutriscore2-0.png)
+![Nutriscore 2.0 Concept](outputs/plots/food_products/A.png)
 
 ---
 
@@ -462,7 +363,7 @@ NOMBRE_HERRAMIENTA="NutriscorePyProject"
 
 ```bash
 # ✅ OPCIÓN 1: Ejecutar todo de una vez (RECOMENDADO)
-python pipeline.py
+python pipeline_maestro_final.py
 
 # ✅ OPCIÓN 2: Ejecutar notebooks en orden (más control)
 jupyter notebook notebooks/01_ssi_aditivos.ipynb
@@ -473,119 +374,6 @@ jupyter notebook notebooks/04_nutriscore_2_0_final.ipynb
 # ✅ OPCIÓN 3: Ejecutar Streamlit app (después de completar pipeline)
 streamlit run app/streamlit_app.py
 ```
-
-**¿Qué hace cada opción?**
-
-| Opción | Tiempo | Control | Cuándo usar |
-|--------|--------|---------|-------------|
-| `python pipeline.py` | ~30-40 min | Automático | Primera vez, producción |
-| Notebooks secuenciales | ~30-40 min | Total | Desarrollo, debugging |
-| Streamlit app | N/A | UI interactiva | Explorar resultados |
-
-**Recomendación:** Si es primera vez, usa `python pipeline.py`. Si necesitas debuggear, usa notebooks.
-
-### Qué contiene `pipeline.py`
-
-El archivo `pipeline.py` es el **orquestador maestro** que ejecuta todo en orden:
-
-```python
-# pipeline.py (pseudocódigo)
-
-import logging
-from src.pubmed_scraper import scrape_additives_pubmed
-from src.ssi_calculator import calculate_ssi
-from src.clustering import kmeans_clustering, hierarchical_validation
-from src.categorization import categorizar_alimentos
-from src.utils import load_data, save_results
-
-# 1. Descargar datos si no existen
-print("📥 Descargando food.parquet y additives.json...")
-load_data()
-
-# 2. Etapa 1: Clasificar aditivos por PubMed → SSI
-print("🔬 Clasificando 651 aditivos (PubMed)... (~15 min)")
-aditivos_ssi = scrape_additives_pubmed()  # Output: aditivos_ssi.csv
-calculate_ssi(aditivos_ssi)
-
-# 3. Etapa 2: Clustering de alimentos (K-Means)
-print("🎯 K-Means clustering (836k alimentos)... (~5 min)")
-clusters = kmeans_clustering(k=4)  # Output: alimentos_clustering.csv
-
-# 4. Validación con Hierarchical Clustering
-print("✅ Validando con Hierarchical Clustering...")
-hierarchical_validation(clusters)
-
-# 5. Etapa 3: Mapear SSI a alimentos → Categorizar
-print("📊 Asignando categorías finales (Cluster + SSI)...")
-for each_alimento in food_data:
-    cluster = alimento['cluster']  # 0, 1, 2, 3
-    aditivos = alimento['additives_tags'].split(',')
-    
-    # Lógica: aditivo más peligroso gana
-    riesgos = [aditivos_ssi[e]['categoria'] for e in aditivos]
-    if 'EVITABLE' in riesgos:
-        riesgo_final = 'EVITABLE'
-    elif 'PRECAUCIÓN' in riesgos:
-        riesgo_final = 'PRECAUCIÓN'
-    else:
-        riesgo_final = 'SEGUROS'
-    
-    alimento['categoria_final'] = f"{cluster}_{riesgo_final}"
-
-nutriscore_2_0 = categorizar_alimentos(clusters, aditivos_ssi)
-# Output: nutriscore_2_0_final.csv (12 categorías)
-
-# 6. Guardar resultados
-print("💾 Guardando resultados...")
-save_results(nutriscore_2_0)
-
-print("✨ ¡DONE! Resultados en data/processed/ y results/figures/")
-```
-
-**Salidas esperadas:**
-```
-data/processed/
-├── aditivos_ssi.csv              (651 rows × 4 cols)
-│   └─ [E_code, nombre, ssi_score, ssi_categoria]
-├── alimentos_clustering.csv       (836k rows con clusters 0-3)
-│   └─ [product_id, cluster, ...]
-└── nutriscore_2_0_final.csv       (836k rows con 12 categorías)
-    └─ [product_id, cluster, riesgo_dominante, categoria_final]
-
-results/figures/
-├── clustering/
-│   ├── metodo_codo_alimentos2.png
-│   ├── silhouette_4_clusters2.png
-│   └── dendrograma_ward_validacion.png
-└── resultados/
-    ├── matriz2.png
-    ├── dispersion.png
-    └── nutriscore2-0.png
-```
-
-### Descarga de Datos
-
-Los datos se descargarán automáticamente si no existen:
-
-```python
-# Descarga automática en notebooks:
-# - food.parquet: ~2.5 GB (⚠️ Tomar 30-60 minutos)
-# - additives.json: ~5 MB (rápido)
-```
-
-**Descargar manualmente si prefieres:**
-
-```bash
-# Alimentos (836k productos)
-wget -O data/raw/food.parquet \
-  "https://huggingface.co/datasets/openfoodfacts/product-database/resolve/main/food.parquet?download=true"
-
-# Aditivos (651 aditivos)
-wget -O data/raw/additives.json \
-  "https://world.openfoodfacts.org/data/taxonomies/additives.json"
-```
-
-### Especificación Técnica de Datos
 
 #### Pipeline Lógico (Importante entender)
 
@@ -617,138 +405,7 @@ ETAPA 3: Mapear Aditivos a Alimentos
    4. Categoría = f"{cluster}_{riesgo_final}" → "0_PRECAUCIÓN"
 ```
 
-#### food.parquet (836,897 alimentos)
-
-**Columnas requeridas por pipeline:**
-
-```python
-REQUERIDAS = {
-    'product_name': str,           # Ej: "Yogur Natural Danone"
-    'product_id': int,             # ID único
-    'nutriscore_grade': str,       # 'A', 'B', 'C', 'D', 'E'
-    'nova_group': int,             # 1, 2, 3, 4
-    'additives_tags': str,         # "E100,E101,E102" (CSV separado)
-}
-
-NUTRIENTES_VALIDACION = {
-    'energy-kcal_100g': float,
-    'fat_100g': float,
-    'carbohydrates_100g': float,
-    'sugars_100g': float,
-    'proteins_100g': float,
-    'salt_100g': float,
-}
 ```
-
-**⚠️ Nota importante sobre nombres de columnas:**
-
-El dataset de HuggingFace puede tener variaciones de nombres. Antes de ejecutar pipeline, inspecciona:
-
-```python
-import pandas as pd
-
-df = pd.read_parquet('data/raw/food.parquet')
-print(df.shape)                           # Ej: (836897, 220+)
-print([c for c in df.columns if 'nutriscore' in c.lower()])  # Encontrar columna Nutriscore
-print([c for c in df.columns if 'nova' in c.lower()])        # Encontrar columna NOVA
-print([c for c in df.columns if 'additive' in c.lower()])    # Encontrar columna aditivos
-
-# Ejemplos de nombres reales encontrados:
-# - 'nutriscore_grade' o 'nutriscore_grade_en'
-# - 'nova_group' o 'nova'
-# - 'additives_tags' o 'additives' (puede ser lista)
-```
-
-**Limpieza de datos:**
-
-```python
-# Filtrar registros con datos completos
-df_clean = df.dropna(subset=['nutriscore_grade', 'nova_group', 'additives_tags'])
-print(f"Registros válidos: {len(df_clean)} / {len(df)}")
-
-# Ver ejemplos
-print(df_clean[['product_name', 'nutriscore_grade', 'nova_group', 'additives_tags']].head(3))
-```
-
-**Salida esperada:**
-
-```
-                              product_name nutriscore_grade nova_group          additives_tags
-0  Yogur Natural Activia Danone                        B              2  E406,E1442
-1  Zumo Naranja Natural Minute Maid                    B              3  E300,E330
-2  Manzana Roja Bio Ecológica                         A              1  
-```
-
-#### aditivos_ssi.csv (651 aditivos, OUTPUT de etapa 1)
-
-**Estructura después de procesar PubMed:**
-
-```csv
-E_code,nombre_quimico,ssi_score,ssi_categoria,papers_pubmed
-E100,Curcumina,0.92,SEGURO,145
-E101,Riboflavina,0.88,SEGURO,203
-E102,Tartrazina,0.34,PRECAUCIÓN,89
-E150d,Caramelo clase IV,0.79,SEGURO,56
-E320,BHA,0.12,EVITABLE,234
-E321,BHT,0.15,EVITABLE,198
-```
-
-**Cómo usar en categorización:**
-
-```python
-ssi_df = pd.read_csv('data/processed/aditivos_ssi.csv', index_col='E_code')
-
-# Para un alimento con E100, E102:
-aditivos = ['E100', 'E102']
-riesgos = [ssi_df.loc[e, 'ssi_categoria'] for e in aditivos]
-# → ['SEGURO', 'PRECAUCIÓN']
-
-# Ganador (el peor)
-if 'EVITABLE' in riesgos:
-    riesgo_final = 'EVITABLE'
-elif 'PRECAUCIÓN' in riesgos:
-    riesgo_final = 'PRECAUCIÓN'
-else:
-    riesgo_final = 'SEGUROS'
-# → 'PRECAUCIÓN'
-```
-
-#### additives.json (651 aditivos UE, INPUT)
-
-**Estructura esperada:**
-
-```json
-{
-  "E100": {
-    "id": "E100",
-    "name": "Curcumina",
-    "vegan": true,
-    "vegetarian": true
-  },
-  "E101": {
-    "id": "E101",
-    "name": "Riboflavina (B2)",
-    "vegan": false,
-    "vegetarian": false
-  }
-}
-```
-
-**Cómo verificar:**
-
-```python
-import json
-
-with open('data/raw/additives.json', 'r') as f:
-    aditivos = json.load(f)
-
-print(f"Total aditivos cargados: {len(aditivos)}")
-print(f"Primeras claves: {list(aditivos.keys())[:10]}")
-print(f"Estructura E100: {aditivos['E100']}")
-```
-
----
-
 ## 📚 Fuentes de Datos
 
 ### APIs y Datasets Utilizados
@@ -883,29 +540,6 @@ Hierarchical Clustering WARD (aglomerativo)       → 4 ramas naturales
 | **Sesgo geográfico** | Datos principalmente de Europa occidental | Expandir a más regiones |
 | **Ingredientes base** | No analiza azúcares/grasas saturadas específicas | Integrar nutritional labels detallados |
 
----
-
-## 🚀 Mejoras Futuras
-
-```
-Corto plazo (1-3 meses):
-✅ Análisis de interacciones peligrosas entre aditivos
-✅ ML predictivo: qué cambios de formulación moverían clusters
-✅ Integración con apps de supermercado (Carrefour, Mercadona)
-✅ Traducción a 5+ idiomas
-
-Mediano plazo (3-6 meses):
-✅ Propuesta formal a EFSA como estándar europeo
-✅ Integración con sistemas de recomendación nutricional
-✅ Análisis de costos: cuánto cuesta formular en Cluster 2
-
-Largo plazo (6-12 meses):
-✅ Modelo predictivo de cambios EFSA (qué aditivos serán retirados)
-✅ APIs públicas para desarrolladores
-✅ Mobile app nativa (iOS + Android)
-```
-
----
 
 ## 🤝 Contribuciones
 
@@ -917,13 +551,6 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 4. Push a rama (`git push origin feature/AmazingFeature`)
 5. Abre Pull Request
 
----
-
-## 📄 Licencia
-
-Este proyecto está bajo licencia **MIT**. Ver archivo `LICENSE` para detalles.
-
----
 
 ## 👤 Autor
 
@@ -932,12 +559,10 @@ Data Science | Bootcamp The Bridge, Campus Bilbao (2026)
 
 ### 📌 Conecta conmigo
 
-> **⚠️ TODO:** Reemplazar placeholders con tus datos reales
-
-- 🔗 LinkedIn: [**[REEMPLAZA CON TU PERFIL]**](https://linkedin.com/in)
-- 🔬 ORCID: [**[REEMPLAZA CON TU ORCID]**](https://orcid.org)
+- 🔗 LinkedIn: [**[REEMPLAZA CON TU PERFIL]**]([https://linkedin.com/in](https://www.linkedin.com/in/mikelanibarroortega/))
+- 🔬 ORCID: [**[REEMPLAZA CON TU ORCID]**]([https://orcid.org](https://orcid.org/my-orcid?orcid=0000-0002-2835-5079))
 - 📧 Email: mikel.anibarro@example.com
-- 🐙 GitHub: [**[REEMPLAZA CON TU USUARIO]**](https://github.com)
+- 🐙 GitHub: [**[[mikel-ao](https://github.com/mikel-ao)]**](https://github.com)
 
 **Instrucciones para actualizar:**
 
