@@ -3,6 +3,7 @@ import streamlit as st
 import pipeline as pipe
 from pathlib import Path
 import time
+from PIL import Image
 
 # ============================================================================
 # CONFIGURACIÓN DE LA PÁGINA
@@ -10,7 +11,7 @@ import time
 
 st.set_page_config(
     page_title="NutriScore 2.0",
-    page_icon="🍎",
+    page_icon=Image.open("nutri/1.png"),
     layout="wide",
     initial_sidebar_state="collapsed"
 )
@@ -38,11 +39,21 @@ pipe.scaler_alimentos = recursos_globales['scaler']
 pipe.kmeans_alimentos = recursos_globales['kmeans']
 
 # ============================================================================
-# ENCABEZADO
+# ENCABEZADO CON LOGO
 # ============================================================================
 
-st.title("🍎 NutriScore 2.0")
-st.markdown("### Clasificación Inteligente de Alimentos")
+col_logo, col_title = st.columns([0.5, 3])
+
+with col_logo:
+    try:
+        st.image("nutri/1.png", width=100)
+    except:
+        st.write("🍎")
+
+with col_title:
+    st.title("NutriScore 2.0")
+    st.markdown("### Clasificación Multidimensional de Alimentos")
+
 st.markdown("---")
 
 # ============================================================================
@@ -87,7 +98,7 @@ if barcode_input and barcode_input.strip():
     
     # COLUMNA 1: IMAGEN
     with col1:
-        st.markdown("### 📦 Producto")
+        st.markdown("### 🛒 Producto")
         
         if info["imagen_url"]:
             st.image(info["imagen_url"], width=200)
@@ -99,8 +110,7 @@ if barcode_input and barcode_input.strip():
     
     # COLUMNA 2: NUTRISCORE 2.0 + ADITIVOS
     with col2:
-        st.markdown("### 🎯 NutriScore 2.0")
-        
+                
         # Mostrar imagen del Nutriscore 2.0
         imagen_path = Path(__file__).parent / "nutri" / f"{metricas['codigo_imagen']}.png"
         
