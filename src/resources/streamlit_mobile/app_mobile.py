@@ -1,6 +1,6 @@
 # app.py - VERSIÓN MÓVIL CON CÁMARA
 import streamlit as st
-import pipeline as pipe
+import pipeline_mobile as pipe
 from pathlib import Path
 import time
 from streamlit_webrtc import webrtc_streamer, RTCConfiguration
