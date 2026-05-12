@@ -53,9 +53,6 @@ En 2026, **millones de alimentos** circulan en mercados europeos, pero los consu
 🔴 PROBLEMA: 55-60% son ultraprocesados (NOVA 3-4)
 🔴 PROBLEMA: 40-45% contienen 1-3 aditivos; 5-10% contienen 8+ aditivos
 ```
-
-**Visualización completa:** Ver `results/figures/eda/` para gráficos de distribuciones.
-
 ---
 
 ## 🔍 Metodología
@@ -104,7 +101,7 @@ features = [
 | **Silhouette Score (K=4)** | 0.41 (Bueno) |
 | **Hierarchical Clustering (WARD)** | 4 ramas naturales en altura ~53 |
 
-![Elbow Plot](results/figures/metodo_codo_alimentos2.png)
+![Elbow Plot](outputs/plots/food_products/metodo_codo_alimentos2.png)
 ![Silhouette Score](results/figures/silhouette_4_clusters2.png)
 ![Dendrograma Validación](results/figures/dendrograma_ward_validacion.png)
 
