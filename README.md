@@ -103,7 +103,7 @@ features = [
 
 ![Elbow Plot](outputs/plots/food_products/metodo_codo_alimentos2.png)
 ![Silhouette Score](outputs/plots/food_products/silhouette_4_clusters2.png)
-![Dendrograma Validación](outputs/plots/food_products/dendograma_ward_validacion.png)
+![Dendrograma Validación](outputs/plots/food_products/dendrograma_ward_validacion.png)
 
 **Conclusión:** K=4 validado por dos métodos independientes → **ROBUSTO**.
 
