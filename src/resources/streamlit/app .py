@@ -44,9 +44,9 @@ col_logo, col_title = st.columns([0.5, 3])
 
 with col_logo:
     try:
-        st.image("nutri/A1.png", width=100)
+        st.image("nutri/1.png", width=100)
     except:
-        st.image("nutri/A1.png", width=100)
+        st.image("nutri/1.png", width=100)
 
 with col_title:
     st.title("NutriScore 2.0")
