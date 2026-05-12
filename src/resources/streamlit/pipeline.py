@@ -21,10 +21,13 @@ def cargar_recursos():
     global df_ssi_aditivos, mapping_traffic_light, scaler_alimentos, kmeans_alimentos
     
     try:
-        # Rutas locales en la carpeta de streamlit
-        ruta_csv = Path('./data/ssi_final_con_semaforo.csv')
-        ruta_scaler = Path('./models/scaler_alimentos.pkl')
-        ruta_kmeans = Path('./models/kmeans_alimentos.pkl')
+        # Rutas basadas en __file__ (ubicación de este script)
+        # __file__ = /mount/src/aditive_info/src/resources/streamlit/pipeline.py
+        base_path = Path(__file__).parent
+        
+        ruta_csv = base_path / 'data' / 'ssi_final_con_semaforo.csv'
+        ruta_scaler = base_path / 'models' / 'scaler_alimentos.pkl'
+        ruta_kmeans = base_path / 'models' / 'kmeans_alimentos.pkl'
         
         # Cargar CSV
         print(f"📂 Buscando CSV en: {ruta_csv}")
