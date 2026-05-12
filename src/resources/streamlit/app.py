@@ -14,6 +14,9 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
+# Metadata para preview (aparece cuando compartes el link)
+st.markdown('<meta name="description" content="NUTRI-SCORE 2.0">', unsafe_allow_html=True)
+
 # ============================================================================
 # CARGAR RECURSOS AL INICIAR
 # ============================================================================
