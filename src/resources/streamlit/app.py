@@ -3,7 +3,6 @@ import streamlit as st
 import pipeline as pipe
 from pathlib import Path
 import time
-from PIL import Image
 
 # ============================================================================
 # CONFIGURACIÓN DE LA PÁGINA
@@ -11,7 +10,6 @@ from PIL import Image
 
 st.set_page_config(
     page_title="NutriScore 2.0",
-    page_icon=Image.open("nutri/1.png"),
     layout="wide",
     initial_sidebar_state="collapsed"
 )
@@ -46,7 +44,7 @@ col_logo, col_title = st.columns([0.5, 3])
 
 with col_logo:
     try:
-        st.image("nutri/1.png", width=100)
+        st.image("nutri/A1.png", width=100)
     except:
         st.write("🍎")
 
