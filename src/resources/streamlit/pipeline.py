@@ -299,10 +299,10 @@ def perfilado_cluster_aditivos(cluster, traffic_light_dominante):
     Genera el perfil final basado en cluster y aditivos.
     """
     cluster_names = {
-        0: "Procesados Engañosos",
-        1: "Ultraprocesados Críticos",
+        0: "Diseño Industrial Engañoso",
+        1: "Ultraprocesados de Alta Carga Aditiva",
         2: "Base Natural",
-        3: "Procesados Críticos"
+        3: "Procesados/Ultraprocesados de Carga Calórica Vacía"
     }
     
     cluster_name = cluster_names.get(cluster, "Desconocido")
