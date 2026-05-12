@@ -1,6 +1,6 @@
 # Nutriscore 2.0: Sistema Inteligente de Clasificación Alimentaria
 
-> **Continuación de:** [Análisis Exploratorio de Datos - Nutriscore es Incompleto y Manipulable](link_a_eda_anterior)
+> **Continuación de:** [Análisis Exploratorio de Datos - Nutriscore es Incompleto y Manipulable](https://github.com/mikel-ao/food-labelling-audit.git)
 
 ## 📋 Resumen Ejecutivo
 
