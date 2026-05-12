@@ -165,7 +165,7 @@ Riesgo: MÁXIMO - Evitar cuando sea posible
 
 ### Visualización 3D
 
-![Scatter Plot 3D de Clusters](results/figures/dispersion.png)
+![Scatter Plot 3D de Clusters](outputs/plots/food_products/dispersion.png)
 
 **Interpretación:**
 - Cada punto = 1 alimento (836k puntos)
