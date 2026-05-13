@@ -183,7 +183,6 @@ else:
 # ============================================================================
 
 st.markdown("---")
-st.markdown("### 📊 Leyenda del NutriScore 2.0")
 
 # Intentar cargar imagen desde múltiples rutas
 ruta_imagen = None
@@ -199,7 +198,10 @@ for ruta in rutas_posibles:
         break
 
 if ruta_imagen:
-    st.image(str(ruta_imagen), use_container_width=True)
+    # Centrar imagen y hacerla más pequeña
+    col_center = st.columns([1, 2, 1])
+    with col_center[1]:
+        st.image(str(ruta_imagen), width=300)
 else:
     # Si no encuentra la imagen, mostrar leyenda en texto
     col_a, col_b, col_c, col_d, col_e = st.columns(5)
