@@ -8,7 +8,7 @@
 
 ## 📋 Resumen Ejecutivo
 
-Este proyecto es la **evolución del análisis exploratorio previo** que concluyó que el **Nutriscore clásico** (basado únicamente en nutrientes) es incompleto y puede ser manipulable. 
+Este proyecto de ML no supervisado es la **evolución del análisis exploratorio previo** que concluyó que el **Nutriscore clásico** (basado únicamente en nutrientes) es incompleto y puede ser manipulable. 
 
 **Nutriscore 2.0** resuelve esto combinando **3 dimensiones de evaluación:**
 - ✅ **Calidad nutricional** (Nutriscore 1-5)
