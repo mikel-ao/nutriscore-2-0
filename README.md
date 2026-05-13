@@ -260,30 +260,41 @@ def categorizar_alimento(alimento):
 ## 📁 Estructura del Proyecto
 
 ```
-nutriscore-2.0/
-│
-├── README.md                         
-├── pipeline.py                        
-│
-├── src/
-│   ├── data/
-│   │
-│   ├── models/
-│   │
-│   ├── notebooks/
-│   │
-│   ├── resources/
-│   │   └── streamlit/
-│   │ 
-│   └── utils/
-│    
-│
-└── outputs/
-    ├── plots/
-    │
-    ├── memoria/
-    │
-    └── presentacion/
+Directory structure:
+└── mikel-ao-aditive_info/
+    ├── README.md
+    ├── pipeline_maestro_final.py
+    ├── PIPELINE_README.md
+    ├── requirements.txt
+    ├── run_pipeline.sh
+    ├── outputs/
+    │   └── memoria/
+    │       └── MEMORIA_NUTRISCORE_2.0.ipynb
+    └── src/
+        ├── data/
+        │   ├── maestro_aditivos_limpio.csv
+        │   ├── maestro_aditivos_raw.csv
+        │   ├── ssi_progress.txt
+        │   └── .~lock.dataset_alimentos_quimica_nutricion.csv#
+        ├── models/
+        │   └── scaler_alimentos.pkl
+        ├── notebooks/
+        │   ├── 01_extraccion_dataset_aditivos.ipynb
+        │   └── 04_fusion_aditivos_alimentos.ipynb
+        ├── resources/
+        │   └── streamlit/
+        │       ├── app.py
+        │       ├── pipeline.py
+        │       ├── requirements.txt
+        │       └── models/
+        │           └── scaler_alimentos.pkl
+        └── utils/
+            ├── __init__.py
+            ├── ESTRUCTURA_PROYECTO.txt
+            ├── pipeline_maestro.py
+            ├── run_pipeline_v2.sh
+            └── verificar_barcode_entrenamiento.py
+
     
 ```
 
