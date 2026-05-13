@@ -252,6 +252,8 @@ def categorizar_alimento(alimento):
 ---
 
 ![Nutriscore 2.0 Concept](outputs/plots/food_products/A.png)
+![Nutriscore 2.0 Concept](outputs/plots/food_products/2.png)
+
 
 ---
 
