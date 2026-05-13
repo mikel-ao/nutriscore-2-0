@@ -4,7 +4,7 @@
 > 
 > **Presentación:** [Canva](https://canva.link/m8gp6zmxdfyloks)
 >
-> **Prototipo de ** [Nutriscore 2.0](https://nutriscore2-0.streamlit.app/)
+> **Prototipo de** [Nutriscore 2.0](https://nutriscore2-0.streamlit.app/)
 
 ## 📋 Resumen Ejecutivo
 
