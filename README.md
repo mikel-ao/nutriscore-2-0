@@ -3,6 +3,8 @@
 > **Continuación de:** [Análisis Exploratorio de Datos - Nutriscore es Incompleto y Manipulable](https://github.com/mikel-ao/food-labelling-audit.git)
 > 
 > **Presentación:** [Canva](https://canva.link/m8gp6zmxdfyloks)
+>
+> **Prototipo de Nutriscore 2.0** [Nutriscore](https://nutriscore2-0.streamlit.app/)
 
 ## 📋 Resumen Ejecutivo
 
