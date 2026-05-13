@@ -8,14 +8,13 @@
 
 ## 📋 Resumen Ejecutivo
 
-Este proyecto de ML no supervisado es la **evolución del análisis exploratorio previo** que concluyó que el **Nutriscore clásico** (basado únicamente en nutrientes) es incompleto y puede ser manipulable. 
+Este proyecto de ML no supervisado es la **evolución del análisis exploratorio previo** que concluyó que el **Nutriscore clásico** (basado únicamente en nutrientes) es incompleto y puede ser manipulable. Un producto puede tener Nutriscore A pero ser ultraprocesado y lleno de aditivos químicos. Nutriscore 2.0 soluciona esto combinando 3 dimensiones:
+ 
+- **Nutrientes** (Nutriscore 1-5)
+- **Procesamiento** (NOVA 1-4)
+- **Aditivos** (Safety Index basado en PubMed)
 
-**Nutriscore 2.0** resuelve esto combinando **3 dimensiones de evaluación:**
-- ✅ **Calidad nutricional** (Nutriscore 1-5)
-- ✅ **Grado de procesamiento** (NOVA 1-4)  
-- ✅ **Seguridad de aditivos** (Scientific Safety Index - SSI)
-
-**Resultado:** Clasificación holística en **4 clusters** con **12 categorías finales**, validada con dos métodos independientes (K-Means + Hierarchical Clustering).
+**Resultado:** 4 categorías claras + información sobre riesgo de aditivos
 
 ---
 
@@ -29,34 +28,16 @@ En 2026, **millones de alimentos** circulan en mercados europeos, pero los consu
 |-----------|---------|
 | Solo analiza **nutrientes** | Ignora si es ultraprocesado |
 | No considera **aditivos químicos** | Un "Nutriscore A" puede tener 651 aditivos permitidos pero riesgosos |
-| Susceptible a **optimización de formulación** | Empresas pueden mejorar score sin mejorar salud |
-
-**Caso de uso real:** Un zumo de fruta "natural" puede tener:
-- ✅ Nutriscore A (bien)
-- ❌ NOVA 3-4 (ultraprocesado)
-- ⚠️ Aditivos de precaución no visibles en etiqueta
+| Susceptible a **optimización de formulación** | Empresas pueden mejorar score sin mejorar impacto en la salud |
 
 ---
 
-## 📊 Análisis de Datos
+## 📊 Datos
+ 
+- **836,897 alimentos** de Open Food Facts
+- **651 aditivos** clasificados con PubMed (10,400+ búsquedas)
+- **4 clusters** validados con K-Means + Hierarchical Clustering
 
-### Dataset Principal
-
-| Métrica | Valor |
-|---------|-------|
-| **Alimentos totales** | 836,897 |
-| **Aditivos únicos analizados** | 651 |
-| **Papers científicos consultados** | 10,400+ (PubMed) |
-| **Distribución Nutriscore** | A(15%), B(11%), C(21%), D(24%), E(29%) |
-| **Alimentos ultraprocesados (NOVA 3-4)** | 55-60% |
-
-### Distribuciones Clave
-
-```
-🔴 PROBLEMA: 53% de alimentos tienen Nutriscore D-E (pobre)
-🔴 PROBLEMA: 55-60% son ultraprocesados (NOVA 3-4)
-🔴 PROBLEMA: 40-45% contienen 1-3 aditivos; 5-10% contienen 8+ aditivos
-```
 ---
 
 ## 🔍 Metodología
