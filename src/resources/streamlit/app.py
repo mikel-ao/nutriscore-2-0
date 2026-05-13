@@ -177,3 +177,15 @@ if barcode_input and barcode_input.strip():
 
 else:
     st.info("👋 Introduce un código de barras para analizar un alimento")
+
+# ============================================================================
+# FOOTER CON IMAGEN
+# ============================================================================
+
+st.markdown("---")
+imagen_footer = Path(__file__).parent / "nutri" / "2.png"
+
+if imagen_footer.exists():
+    st.image(str(imagen_footer), use_container_width=True)
+else:
+    st.warning(f"⚠️ Imagen no encontrada: {imagen_footer}")
