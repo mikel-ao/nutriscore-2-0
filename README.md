@@ -40,52 +40,25 @@ En 2026, **millones de alimentos** circulan en mercados europeos, pero los consu
 
 ---
 
-## 🔍 Metodología
-
-### Etapa 1: Clasificación de Aditivos (Scientific Safety Index)
-
-**Proceso:**
-1. Búsqueda en **PubMed API** de 651 aditivos × 16 palabras clave = 10,400 búsquedas
-2. Extracción de papers por categoría: negativos, positivos, estudios humanos vs animales
-3. Filtros inteligentes:
-   - Negaciones semánticas: "no dañino" reduce peso de "adverso"
-   - Ponderación por tipo de estudio: In vitro ×0.30, animal ×0.50, humano ×1.00
-4. **Cálculo SSI:** Fórmula que combina evidencia científica + recencia + confianza
-5. Validación contra **EFSA oficial** (si aditivo fue retirado → EVITABLE)
-
-**Resultado:**
-
-```
-🟢 SEGURO:      475 aditivos (73%)
-🟡 PRECAUCIÓN:   84 aditivos (13%)
-🔴 EVITABLE:     92 aditivos (14%)
+## 🔬 Metodología
+ 
+**Paso 1: Clasificar Aditivos (SSI)**
+- PubMed API: 651 aditivos × 16 palabras clave
+- Filtros: negaciones semánticas, ponderación por tipo de estudio
+- Validación contra EFSA (si fue retirado → EVITABLE)
+  
+**Paso 2: Cluster de Alimentos (K-Means)**
+- Features: Nutriscore + NOVA + Total aditivos
+- K=4 validado por: Elbow, Silhouette, Hierarchical Clustering
+  
+**Paso 3: Mapeo Final**
+- Cada alimento = Cluster + Riesgo de aditivos dominante
+- 12 categorías totales (4 clusters × 3 niveles de riesgo)
 ```
 
 **Código:** `notebooks/01_ssi_aditivos.ipynb`
-
 ---
-
-### Etapa 2: Clustering de Alimentos (K-Means + Validación Jerárquica)
-
-**Features seleccionados:**
-```python
-features = [
-    'nutriscore_grade',    # Calidad nutricional (1-5)
-    'nova_group',          # Grado de procesamiento (1-4)
-    'total_aditivos'       # Cantidad de aditivos (0-20+)
-]
 ```
-
-**¿Por qué estos 3?** Representan las 3 dimensiones independientes de riesgo nutricional.
-
-**Determinación de K:**
-
-| Método | Resultado |
-|--------|-----------|
-| **Elbow Method** | Codo claro en K=4 |
-| **Silhouette Score (K=4)** | 0.41 (Bueno) |
-| **Hierarchical Clustering (WARD)** | 4 ramas naturales en altura ~53 |
-
 ![Elbow Plot](outputs/plots/food_products/metodo_codo_alimentos2.png)
 ![Silhouette Score](outputs/plots/food_products/silhouette_4_clusters2.png)
 ![Dendrograma Validación](outputs/plots/food_products/dendrograma_ward_validacion.png)
@@ -104,49 +77,18 @@ features = [
 
 ### Perfil Detallado de Cada Cluster
 
-#### **Cluster 0: "Falso Saludable"** (21.1% = 176,894 alimentos)
-
-```
-Nutriscore:    2.28  ✅ Parece bueno
-NOVA:          3.65  ⚠️ Pero ultraprocesado
-Aditivos:      1.39  (pocos)
-
-Ejemplos típicos: Zumos "naturales", yogures de dieta, batidos
-Riesgo: ENGAÑOSO - Marketing saludable, realidad ultraprocesada
-```
-
-#### **Cluster 1: "Simple Malo"** (41.2% = 344,688 alimentos)
-
-```
-Nutriscore:    4.54  ❌ Pobre
-NOVA:          3.67  ⚠️ Procesado
-Aditivos:      1.74  (pocos)
-
-Ejemplos típicos: Refrescos, snacks salados, bollería
-Riesgo: CLARO pero "simple" - al menos sabes lo que obtienes
+| Cluster | Perfil | Riesgo | % |
+|---------|--------|--------|---|
+| **0** | Diseño Industrial Engañoso |
+| **1** | Ultraprocesado de Alta Carga Aditiva |
+| **2** | Base Natural |
+| **3** | Procesado/Ultraprocesado de Bajo Perfil Nutricional |
+ 
+---
 ```
 
-#### **Cluster 2: "Verdaderamente Saludable"** (15.6% = 130,602 alimentos)
-
-```
-Nutriscore:    1.93  ✅ Excelente
-NOVA:          1.17  ✅ Natural
-Aditivos:      0.06  ✅✅ CASI NINGUNO
-
-Ejemplos típicos: Frutas frescas, verduras, legumbres naturales
-Riesgo: MÍNIMO - La mejor opción
 ```
 
-#### **Cluster 3: "Ultraprocesado"** (22.1% = 184,543 alimentos)
-
-```
-Nutriscore:    4.18  ❌ Malo
-NOVA:          4.00  🔴 MÁXIMO procesado
-Aditivos:      8.97  ⚠️⚠️ MUCHOS
-
-Ejemplos típicos: Ultraprocesados industriales, comida lista para comer
-Riesgo: MÁXIMO - Evitar cuando sea posible
-```
 
 ### Visualización 3D
 
@@ -159,76 +101,6 @@ Riesgo: MÁXIMO - Evitar cuando sea posible
 - Separación clara y natural entre grupos
 
 **Código:** `notebooks/03_visualizacion_resultados.ipynb`
-
----
-
-## 🎓 Clasificación Final: Nutriscore 2.0
-
-### Arquitectura de Categorización (4 × 3 = 12)
-
-**Punto clave:** Cada alimento tiene DOS dimensiones:
-
-```
-┌─────────────────────────────────────────────────┐
-│                   ALIMENTO                       │
-├─────────────────────────────────────────────────┤
-│                                                   │
-│  1️⃣  CLUSTER (K-Means sobre 836k)               │
-│      └─ Determinado por: Nutriscore + NOVA      │
-│         + Cantidad total de aditivos             │
-│         └─ Resultado: Cluster 0, 1, 2 ó 3       │
-│                                                   │
-│  2️⃣  RIESGO DE ADITIVOS (SSI por aditivo)       │
-│      └─ Determinado por: PEOR aditivo presente  │
-│         ├─ Si hay 1+ aditivo EVITABLE → EVITABLE│
-│         ├─ Si hay 1+ aditivo PRECAUCIÓN → PRECAU│
-│         └─ Si todos SEGUROS o sin aditivos → SEGURO
-│                                                   │
-│  CATEGORÍA FINAL = Cluster_Riesgo_Aditivos      │
-│  Ej: 0_EVITABLE, 2_SEGUROS, 3_PRECAUCIÓN       │
-│                                                   │
-└─────────────────────────────────────────────────┘
-```
-
-### Algoritmo de Categorización
-
-```python
-def categorizar_alimento(alimento):
-    """
-    Asigna categoría final 0-3 + riesgo de aditivos
-    """
-    
-    # 1. Obtener Cluster (ya calculado en K-Means)
-    cluster = alimento['cluster']  # 0, 1, 2 ó 3
-    
-    # 2. Determinar riesgo de aditivos (el MÁXIMO)
-    aditivos = alimento['additives_tags'].split(',')
-    
-    riesgos = []
-    for e_code in aditivos:
-        ssi_level = consultar_ssi(e_code)  # SEGURO, PRECAUCIÓN, EVITABLE
-        riesgos.append(ssi_level)
-    
-    # 3. Ganador: el más peligroso (EVITABLE > PRECAUCIÓN > SEGURO)
-    if 'EVITABLE' in riesgos:
-        riesgo_final = 'EVITABLE'
-    elif 'PRECAUCIÓN' in riesgos:
-        riesgo_final = 'PRECAUCIÓN'
-    else:
-        riesgo_final = 'SEGUROS'  # Incluye sin aditivos
-    
-    # 4. Categoría final
-    categoria_final = f"{cluster}_{riesgo_final}"
-    
-    return categoria_final
-
-```
-
-
-**Columnas clave:**
-- `cluster` → 0, 1, 2, 3 (del K-Means)
-- `riesgo_dominante` → SEGUROS, PRECAUCIÓN, EVITABLE (del SSI + lógica "ganador es el peor")
-- `categoria_final` → {0-3}_{SEGUROS|PRECAUCIÓN|EVITABLE} (combinación)
 
 ---
 
@@ -321,21 +193,7 @@ NOMBRE_HERRAMIENTA="NutriscorePyProject"
 2. Generar API key en "Account Settings"
 3. Pegar en `.env`
 
-### Ejecución del Pipeline
 
-```bash
-# ✅ OPCIÓN 1: Ejecutar todo de una vez (RECOMENDADO)
-python pipeline_maestro_final.py
-
-# ✅ OPCIÓN 2: Ejecutar notebooks en orden (más control)
-jupyter notebook notebooks/01_ssi_aditivos.ipynb
-jupyter notebook notebooks/02_kmeans_clustering.ipynb
-jupyter notebook notebooks/03_visualizacion_resultados.ipynb
-jupyter notebook notebooks/04_nutriscore_2_0_final.ipynb
-
-# ✅ OPCIÓN 3: Ejecutar Streamlit app (después de completar pipeline)
-streamlit run app/streamlit_app.py
-```
 
 #### Pipeline Lógico (Importante entender)
 
@@ -438,59 +296,6 @@ pip install -r requirements.txt
   ```bash
   pip install python-dotenv --upgrade
   ```
-
----
-
-## 🔍 Validación de Resultados
-
-### Convergencia de Métodos
-
-**Punto clave: K=4 se valida con dos enfoques independientes**
-
-```
-K-Means (determinístico, optimiza intra-cluster)  → 4 clusters
-                        +
-Hierarchical Clustering WARD (aglomerativo)       → 4 ramas naturales
-                        =
-        ✅ CONFIANZA MÁXIMA EN K=4
-```
-
-**Métricas:**
-- **Silhouette Score (K=4):** 0.41 → Moderado a bueno
-- **Elbow Point:** Codo claro y pronunciado en K=4
-- **Interpretabilidad:** Cada cluster tiene perfil diferenciado y significativo
-
-### Calidad de Datos
-
-```
-✅ Nutriscore: 100% valores entre 1-5
-✅ NOVA: 100% valores entre 1-4
-✅ Aditivos: Códigos E estandarizados
-✅ Sin valores faltantes en features críticas
-✅ One-hot encoding validado (651 binarios)
-```
-
----
-
-## 💡 Impacto e Implicaciones
-
-### Para Consumidores
-✅ Información COMPLETA en 1 clasificación  
-✅ Decisiones informadas basadas en ciencia (PubMed + EFSA)  
-✅ Detecta productos "engañosos" (Cluster 0)  
-✅ Acceso fácil via app Streamlit  
-
-### Para Industria Alimentaria
-✅ Incentivo económico para reducir aditivos riesgosos  
-✅ Presión competitiva positiva (diferencial "Cluster 2")  
-✅ Marketing científicamente válido  
-
-### Para Reguladores
-✅ Herramienta de monitoreo basada en análisis de PubMed  
-✅ Datos para revisar aditivos automáticamente  
-✅ Apoyo a políticas de salud pública  
-
----
 
 ## ⚠️ Limitaciones Conocidas
 
