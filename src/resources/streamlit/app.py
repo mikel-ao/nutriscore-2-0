@@ -179,13 +179,47 @@ else:
     st.info("👋 Introduce un código de barras para analizar un alimento")
 
 # ============================================================================
-# FOOTER CON IMAGEN
+# FOOTER: LEYENDA DEL NUTRISCORE 2.0
 # ============================================================================
 
 st.markdown("---")
-imagen_footer = Path(__file__).parent / "nutri" / "2.png"
+st.markdown("### 📊 Leyenda del NutriScore 2.0")
 
-if imagen_footer.exists():
-    st.image(str(imagen_footer), use_container_width=True)
+# Intentar cargar imagen desde múltiples rutas
+ruta_imagen = None
+rutas_posibles = [
+    Path(__file__).parent / "nutri" / "2.png",  # Relativa a app.py
+    Path.cwd() / "resources" / "streamlit" / "nutri" / "2.png",  # Desde directorio actual
+    Path.cwd() / "streamlit" / "nutri" / "2.png",  # Si ejecutas desde resources/
+]
+
+for ruta in rutas_posibles:
+    if ruta.exists():
+        ruta_imagen = ruta
+        break
+
+if ruta_imagen:
+    st.image(str(ruta_imagen), use_container_width=True)
 else:
-    st.warning(f"⚠️ Imagen no encontrada: {imagen_footer}")
+    # Si no encuentra la imagen, mostrar leyenda en texto
+    col_a, col_b, col_c, col_d, col_e = st.columns(5)
+
+    with col_a:
+        st.markdown("#### 🟢 **A**")
+        st.markdown("*Excelente*\n\nOptimal para\nconsumo diario")
+
+    with col_b:
+        st.markdown("#### 🟡 **B**")
+        st.markdown("*Bueno*\n\nRecomendado\npara consumo")
+
+    with col_c:
+        st.markdown("#### 🟠 **C**")
+        st.markdown("*Aceptable*\n\nModeración\nrecomendada")
+
+    with col_d:
+        st.markdown("#### 🔴 **D**")
+        st.markdown("*Bajo*\n\nLimitar\nconsumo")
+
+    with col_e:
+        st.markdown("#### ⚫ **E**")
+        st.markdown("*Muy Bajo*\n\nEvitar o\nconsumo ocasional")
