@@ -56,7 +56,6 @@ En 2026, **millones de alimentos** circulan en mercados europeos, pero los consu
 - 12 categorías totales (4 clusters × 3 niveles de riesgo)
 ```
 
-**Código:** `notebooks/01_ssi_aditivos.ipynb`
 ---
 ```
 ![Elbow Plot](outputs/plots/food_products/metodo_codo_alimentos2.png)
@@ -65,7 +64,6 @@ En 2026, **millones de alimentos** circulan en mercados europeos, pero los consu
 
 **Conclusión:** K=4 validado por dos métodos independientes → **ROBUSTO**.
 
-**Código:** `notebooks/02_kmeans_clustering.ipynb`
 
 ---
 
@@ -197,7 +195,6 @@ NOMBRE_HERRAMIENTA="NutriscorePyProject"
 
 #### Pipeline Lógico (Importante entender)
 
-```
 ETAPA 1: Clasificar Aditivos (SSI)
 ├─ Input: 651 aditivos + PubMed
 ├─ Output: aditivos_ssi.csv (651 rows)
@@ -223,9 +220,7 @@ ETAPA 3: Mapear Aditivos a Alimentos
    2. Consulta SSI de cada → [SEGURO, PRECAUCIÓN, SEGURO]
    3. Ganador = MAX(riesgos) → PRECAUCIÓN
    4. Categoría = f"{cluster}_{riesgo_final}" → "0_PRECAUCIÓN"
-```
 
-```
 ## 📚 Fuentes de Datos
 
 ### APIs y Datasets Utilizados
